@@ -150,242 +150,261 @@
 					console.log("Failure at Presize of Slider:" + e)
 				}					   
 			//});
-		  };</script>
- <style type="text/css" id="wp-custom-css">
+		};
+	</script>
+ 	<style type="text/css" id="wp-custom-css">
 			
-.xs_overflow {
-	overflow: hidden !important;
-}
-.medizco-doctor-social-widget .fa {
-    font-family: "Font Awesome 5 Brands" !important;
-}
+		.xs_overflow {
+			overflow: hidden !important;
+		}
+		.medizco-doctor-social-widget .fa {
+			font-family: "Font Awesome 5 Brands" !important;
+		}
 
-.elementor-2682 .elementor-element.elementor-element-5273 .elementskit-btn:hover {
-  
-    background-color: white;
-}
+		.elementor-2682 .elementor-element.elementor-element-5273 .elementskit-btn:hover {
+		
+			background-color: white;
+		}
 
-/* .elementor-2676 .elementor-element.elementor-element-88dbe10 .elementskit-btn:hover {
+		/* .elementor-2676 .elementor-element.elementor-element-88dbe10 .elementskit-btn:hover {
 
-    background-color: #1cba9f;
-} */
+			background-color: #1cba9f;
+		} */
 
-/*  .elementor-2706 .elementor-element.elementor-element-10fa .elementskit-btn:hover {
+		/*  .elementor-2706 .elementor-element.elementor-element-10fa .elementskit-btn:hover {
 
-     background-color: white;
-    color: #f13a66;
-}  */
+			background-color: white;
+			color: #f13a66;
+		}  */
 
-.elementor-1651 .elementor-element.elementor-element-94b .elementskit-btn:hover {
-    background-color: white;
-    color: #f13a66 !important;
-}		</style>
+		.elementor-1651 .elementor-element.elementor-element-94b .elementskit-btn:hover {
+			background-color: white;
+			color: #f13a66 !important;
+		}	
+	</style>
 </head>
 
 <body class="home page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-2 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-2">
-<div class="medizco-preloder"><img src="asset_profile/wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
-<div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-2774ad2 elementor-section-content-middle medizco_topbar elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2774ad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3383a13" data-id="3383a13" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-8723ae7 elementor-icon-list--layout-inline elementor-align-left mr-auto elementor-widget__width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8723ae7" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items elementor-inline-items">
-<li class="elementor-icon-list-item elementor-inline-item">
-<a href="tel:+1-(212)-305-2500">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">Phone: +1 (212) 305-2500</span>
-</a>
-</li>
-<li class="elementor-icon-list-item elementor-inline-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Mon-Fri (8am - 6pm)</span>
-</li>
-<li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="f39a9d959cb3968b929e839f96dd909c9e">[email&#160;protected]</span></span>
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-bcf2ce3 elementor-widget__width-auto ml-auto elementor-widget elementor-widget-elementskit-page-list" data-id="bcf2ce3" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items  elementor-inline-items">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-icon">
-<i class="icon icon-online-shopping-cart" aria-hidden="true"></i>
-</span>
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title"> </span>
-</span>
-</div>
-<span class="ekit_menu_label">
-3 </span>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-d482852 elementor-widget__width-auto ekit-off-canvas-position-right elementor-widget elementor-widget-elementskit-header-offcanvas" data-id="d482852" data-element_type="widget" data-widget_type="elementskit-header-offcanvas.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="ekit-offcanvas-toggle-wraper">
-<a href="#" class="ekit_navSidebar-button ekit_offcanvas-sidebar">
-<i aria-hidden="true" class="fasicon icon-menu-7"></i> </a>
-</div>
-
-
-<div class="ekit-sidebar-group info-group">
-<div class="ekit-overlay ekit-bg-black"></div>
-<div class="ekit-sidebar-widget">
-<div class="ekit_sidebar-widget-container">
-<div class="ekit_widget-heading">
-<a href="#" class="ekit_close-side-widget">
-<i aria-hidden="true" class="fasicon icon-cross"></i>
-</a>
-</div>
-<div class="ekit_sidebar-textwidget">
-<div class="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="d482852" data-elementskit-widgetarea-index="99">
-<div class="widgetarea_warper_edit" data-elementskit-widgetarea-key="d482852" data-elementskit-widgetarea-index="99">
-<i class="eicon-edit" aria-hidden="true"></i>
-<span class="elementor-screen-only">Edit</span>
-</div>
-<div class="elementor-widget-container">
-<div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c54af2" data-id="0c54af2" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
- <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#670a02030e1d040827000a060e0b4904080a">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="4e032b2a27342d210e29232f2722602d2123">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> 
-
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+	<div class="medizco-preloder">
+		<img src="asset_profile/wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader">
+	</div>
+	<div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+		<div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-2774ad2 elementor-section-content-middle medizco_topbar elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2774ad2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+								<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3383a13" data-id="3383a13" data-element_type="column">
+									<div class="elementor-column-wrap elementor-element-populated">
+										<div class="elementor-widget-wrap">
+											<div class="elementor-element elementor-element-8723ae7 elementor-icon-list--layout-inline elementor-align-left mr-auto elementor-widget__width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8723ae7" data-element_type="widget" data-widget_type="icon-list.default">
+												<div class="elementor-widget-container">
+													<ul class="elementor-icon-list-items elementor-inline-items">
+														<li class="elementor-icon-list-item elementor-inline-item">
+															<a href="tel:+1-(212)-305-2500">
+																<span class="elementor-icon-list-icon">
+																	<i aria-hidden="true" class="fas fa-phone-alt"></i> 
+																</span>
+																<span class="elementor-icon-list-text">Phone: +1 (212) 305-2500</span>
+															</a>
+														</li>
+														<li class="elementor-icon-list-item elementor-inline-item">
+															<span class="elementor-icon-list-icon">
+																<i aria-hidden="true" class="far fa-clock"></i> </span>
+															<span class="elementor-icon-list-text">Mon-Fri (8am - 6pm)</span>
+														</li>
+														<li class="elementor-icon-list-item elementor-inline-item">
+															<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
+																<span class="elementor-icon-list-icon">
+																	<i aria-hidden="true" class="far fa-envelope"></i> </span>
+																<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="f39a9d959cb3968b929e839f96dd909c9e">[email&#160;protected]</span></span>
+															</a>
+														</li>
+													</ul>
+												</div>
+											</div>
+											<div class="elementor-element elementor-element-bcf2ce3 elementor-widget__width-auto ml-auto elementor-widget elementor-widget-elementskit-page-list" data-id="bcf2ce3" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+												<div class="elementor-widget-container">
+													<div class="ekit-wid-con">
+														<div class="elementor-icon-list-items  elementor-inline-items">
+															<div class="elementor-icon-list-item   ">
+																<a target=_blank rel="" href="index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
+																	<div class="ekit_page_list_content">
+																		<span class="elementor-icon-list-icon">
+																			<i class="icon icon-online-shopping-cart" aria-hidden="true"></i>
+																		</span>
+																		<span class="elementor-icon-list-text">
+																			<span class="ekit_page_list_title_title"> </span>
+																		</span>
+																	</div>
+																	<span class="ekit_menu_label">3 </span>
+																</a>
+															</div>
+														</div>
+												</div> </div>
+											</div>
+											<div class="elementor-element elementor-element-d482852 elementor-widget__width-auto ekit-off-canvas-position-right elementor-widget elementor-widget-elementskit-header-offcanvas" data-id="d482852" data-element_type="widget" data-widget_type="elementskit-header-offcanvas.default">
+												<div class="elementor-widget-container">
+													<div class="ekit-wid-con"> 
+														<div class="ekit-offcanvas-toggle-wraper">
+															<a href="#" class="ekit_navSidebar-button ekit_offcanvas-sidebar">
+																<i aria-hidden="true" class="fasicon icon-menu-7"></i> 
+															</a>
+														</div>
+														<div class="ekit-sidebar-group info-group">
+															<div class="ekit-overlay ekit-bg-black">
+															</div>
+															<div class="ekit-sidebar-widget">
+																<div class="ekit_sidebar-widget-container">
+																	<div class="ekit_widget-heading">
+																		<a href="#" class="ekit_close-side-widget">
+																			<i aria-hidden="true" class="fasicon icon-cross"></i>
+																		</a>
+																	</div>
+																	<div class="ekit_sidebar-textwidget">
+																		<div class="widgetarea_warper widgetarea_warper_editable" data-elementskit-widgetarea-key="d482852" data-elementskit-widgetarea-index="99">
+																			<div class="widgetarea_warper_edit" data-elementskit-widgetarea-key="d482852" data-elementskit-widgetarea-index="99">
+																				<i class="eicon-edit" aria-hidden="true"></i>
+																				<span class="elementor-screen-only">Edit</span>
+																			</div>
+																			<div class="elementor-widget-container">
+																				<div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
+																					<div class="elementor-inner">
+																						<div class="elementor-section-wrap">
+																							<section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+																								<div class="elementor-container elementor-column-gap-no">
+																									<div class="elementor-row">
+																										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c54af2" data-id="0c54af2" data-element_type="column">
+																											<div class="elementor-column-wrap elementor-element-populated">
+																												<div class="elementor-widget-wrap">
+																													<div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
+																														<div class="elementor-widget-container">
+																															<div class="elementor-image">
+																																<a href="index.html">
+																																	<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> 
+																																</a>
+																															</div>
+																														</div>
+																													</div>
+																													<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
+																														<div class="elementor-widget-container">
+																															<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
+																														</div>
+ 																														<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
+																															<div class="elementor-widget-container">
+																																<div class="elementor-text-editor elementor-clearfix">
+																																	<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> 
+																																</div>
+																															</div>
+																														</div>
+																														<div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
+																															<div class="elementor-widget-container">
+																																<div class="ekit-wid-con"> 
+																																	<div class="ekit-btn-wraper">
+																																		<a href="#" class="elementskit-btn  whitespace--normal">Consultation </a>
+																																	</div>
+																																</div> 
+																															</div>
+																														</div>
+																														<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
+																															<div class="elementor-widget-container">
+																																<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> 
+																															</div>
+																														</div>
+																														<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
+																															<div class="elementor-widget-container">
+																																<ul class="elementor-icon-list-items">
+																																	<li class="elementor-icon-list-item">
+																																		<span class="elementor-icon-list-icon">
+																																			<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
+																																		<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
+																																	</li>
+																																	<li class="elementor-icon-list-item">
+																																		<a href="tel:0000000000000">
+																																			<span class="elementor-icon-list-icon">
+																																				<i aria-hidden="true" class="fas fa-phone-alt"></i> 
+																																			</span>
+																																			<span class="elementor-icon-list-text">(000) 000-000-0000</span>
+																																		</a>
+																																	</li>
+																																	<li class="elementor-icon-list-item">
+																																		<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#670a02030e1d040827000a060e0b4904080a">
+																																			<span class="elementor-icon-list-icon">
+																																				<i aria-hidden="true" class="far fa-envelope"></i> 
+																																			</span>
+																																			<span class="elementor-icon-list-text">
+																																				<span class="__cf_email__" data-cfemail="4e032b2a27342d210e29232f2722602d2123">[email&#160;protected]</span>
+																																			</span>
+																																		</a>
+																																	</li>
+																																	<li class="elementor-icon-list-item">
+																																		<span class="elementor-icon-list-icon">
+																																			<i aria-hidden="true" class="far fa-clock"></i> 
+																																		</span>
+																																	<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
+																																	</li>
+																																</ul>
+																															</div>
+																														</div>
+																														<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
+																															<div class="elementor-widget-container">
+																																<div class="ekit-wid-con"> 
+																																	<ul class="ekit_social_media">
+																																		<li class="elementor-repeater-item-bb0a9dd">
+																																			<a href="https://facebook.com/" target="_blank" class="facebook">
+																																				<i aria-hidden="true" class="fasicon icon-facebook"></i>
+																																			</a>
+																																		</li>
+																																		<li class="elementor-repeater-item-525770f">
+																																			<a href="https://facebook.com/" target="_blank" class="twitter">
+																																				<i aria-hidden="true" class="fasicon icon-twitter"></i>
+																																			</a>
+																																		</li>
+																																		<li class="elementor-repeater-item-3b5b739">
+																																			<a href="https://facebook.com/" target="_blank" class="linkedin">
+																																				<i aria-hidden="true" class="fasicon icon-linkedin"></i>
+																																			</a>
+																																		</li>
+																																		<li class="elementor-repeater-item-f3e4f69">
+																																			<a href="https://facebook.com/" target="_blank" class="instagram1">
+																																				<i aria-hidden="true" class="fasicon icon-instagram1"></i>
+																																			</a>
+																																		</li>
+																																		<li class="elementor-repeater-item-0d29ad9">
+																																			<a href="https://facebook.com/" target="_blank" class="youtube">
+																																				<i aria-hidden="true" class="fasicon icon-youtube"></i>
+																																			</a>
+																																		</li>
+																																	</ul>
+																																</div> 
+																															</div>
+																														</div>
+																													</div>
+																												</div>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																							</section>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div> 
+													</div> 
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
 <section class="elementor-section elementor-top-section elementor-element elementor-element-2e7172a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e7172a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
