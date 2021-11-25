@@ -522,7 +522,7 @@ Consultation </a>
 				
 			</ul>
 </li>
-
+<!-- end tab menu -->
 
 
 <!-- elements -->
@@ -1088,49 +1088,62 @@ Patient Experience
 </div>
 </div>
 </section>
+
+<!-- Pendaftaran dan dafar dokter -->
 <section class="elementor-section elementor-top-section elementor-element elementor-element-defddc0 elementor-section-content-middle services_cta elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="defddc0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-background-overlay"></div>
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cac22e0" data-id="cac22e0" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-ad81fb7 elementor-widget elementor-widget-elementskit-button" data-id="ad81fb7" data-element_type="widget" data-widget_type="elementskit-button.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#booking" class="elementskit-btn services_cta_btn whitespace--normal">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none"></path><path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm0 4c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm6 12H6v-1.4c0-2 4-3.1 6-3.1s6 1.1 6 3.1V19z"></path></svg>
-Request Appointment </a>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6c35c61" data-id="6c35c61" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-39d3aff elementor-widget elementor-widget-elementskit-button" data-id="39d3aff" data-element_type="widget" data-widget_type="elementskit-button.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="doctors/index.html" class="elementskit-btn services_cta_btn whitespace--normal">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 426.667 426.667" style="enable-background:new 0 0 426.667 426.667;" xml:space="preserve">
-<g>
-<g>
-<g>
-<path d="M405.333,85.333h-64V64c0-36.267-27.733-64-64-64h-128c-36.267,0-64,27.733-64,64v21.333h-64     C8.533,85.333,0,93.867,0,106.667v298.667c0,12.8,8.533,21.333,21.333,21.333h384c12.8,0,21.333-8.533,21.333-21.333V106.667     C426.667,93.867,418.133,85.333,405.333,85.333z M128,64c0-12.8,8.533-21.333,21.333-21.333h128     c12.8,0,21.333,8.533,21.333,21.333v21.333H128V64z M213.333,384c-70.4,0-128-57.6-128-128c0-70.4,57.6-128,128-128     s128,57.6,128,128C341.333,326.4,283.733,384,213.333,384z"></path>
-<polygon points="234.667,170.667 192,170.667 192,234.667 128,234.667 128,277.333 192,277.333 192,341.333 234.667,341.333      234.667,277.333 298.667,277.333 298.667,234.667 234.667,234.667    "></polygon>
-</g>
-</g>
-</g>
-</svg>
-Meet The Doctor </a>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
+	<div class="elementor-background-overlay"></div>
+	<div class="elementor-container elementor-column-gap-no">
+		<div class="elementor-row">
+			<!-- pendaftaran poli -->
+			<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cac22e0" data-id="cac22e0" data-element_type="column">
+				<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ad81fb7 elementor-widget elementor-widget-elementskit-button" data-id="ad81fb7" data-element_type="widget" data-widget_type="elementskit-button.default">
+							<div class="elementor-widget-container">
+								<div class="ekit-wid-con"> 
+									<div class="ekit-btn-wraper">
+										<a href="#booking" class="elementskit-btn services_cta_btn whitespace--normal">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+												<path d="M0 0h24v24H0z" fill="none"></path>
+												<path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm0 4c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm6 12H6v-1.4c0-2 4-3.1 6-3.1s6 1.1 6 3.1V19z"></path>
+											</svg>
+											Pendaftaran Poli 
+										</a>
+									</div>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- data dokter -->
+			<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6c35c61" data-id="6c35c61" data-element_type="column">
+				<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-39d3aff elementor-widget elementor-widget-elementskit-button" data-id="39d3aff" data-element_type="widget" data-widget_type="elementskit-button.default">
+							<div class="elementor-widget-container">
+								<div class="ekit-wid-con"> 
+									<div class="ekit-btn-wraper">
+										<a href="doctors/index.html" class="elementskit-btn services_cta_btn whitespace--normal">
+											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 426.667 426.667" style="enable-background:new 0 0 426.667 426.667;" xml:space="preserve">
+											<g>
+											<g>
+											<g>
+												<path d="M405.333,85.333h-64V64c0-36.267-27.733-64-64-64h-128c-36.267,0-64,27.733-64,64v21.333h-64     C8.533,85.333,0,93.867,0,106.667v298.667c0,12.8,8.533,21.333,21.333,21.333h384c12.8,0,21.333-8.533,21.333-21.333V106.667     C426.667,93.867,418.133,85.333,405.333,85.333z M128,64c0-12.8,8.533-21.333,21.333-21.333h128     c12.8,0,21.333,8.533,21.333,21.333v21.333H128V64z M213.333,384c-70.4,0-128-57.6-128-128c0-70.4,57.6-128,128-128     s128,57.6,128,128C341.333,326.4,283.733,384,213.333,384z"></path>
+												<polygon points="234.667,170.667 192,170.667 192,234.667 128,234.667 128,277.333 192,277.333 192,341.333 234.667,341.333      234.667,277.333 298.667,277.333 298.667,234.667 234.667,234.667    "></polygon>
+											</g>
+											</g>
+											</g>
+											</svg>
+											Data Dokter
+										</a>
+									</div>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-10b9628" data-id="10b9628" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
@@ -1147,8 +1160,8 @@ Meet The Doctor </a>
 </div>
 <div class="box-body">
 <span class="elementskit-info-box-title">
-727-333-7999 </span>
-<p>Emergency Contact </p>
+(031)-645789 </span>
+<p>Emergency (IGD))</p>
 </div>
 </div>
 </a>
@@ -1179,8 +1192,8 @@ Meet The Doctor </a>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Specialised Therapy &amp; Support </h3>
-<p>The hospital plays a statewide role in rehabilitation services, which includes the Acquired </p>
+Terapi &amp; Dukungan Spesialis </h3>
+<p> Rumah sakit berharap menjadi Rumah sakit pilihan Utama layanan rehabilitasi oleh spesialis ahli</p>
 </div>
 </div>
 </a>
