@@ -1696,22 +1696,22 @@ Akta Gratis </h3>
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-380d4f2 elementor-widget elementor-widget-heading" data-id="380d4f2" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<p class="elementor-heading-title elementor-size-default">With access to</p> </div>
+<p class="elementor-heading-title elementor-size-default">Pendafataran</p> </div>
 </div>
 <div class="elementor-element elementor-element-c399579 elementor-hidden-phone elementor-widget elementor-widget-heading" data-id="c399579" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">24 Hour</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">POLI</h2> </div>
 </div>
 <div class="elementor-element elementor-element-6b7a4b2 elementor-hidden-phone elementor-widget elementor-widget-heading" data-id="6b7a4b2" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Emergency</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Rawat Jalan</h2> </div>
 </div>
 <div class="elementor-element elementor-element-e2ec2c9 elementor-widget elementor-widget-elementskit-heading" data-id="e2ec2c9" data-element_type="widget" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper    ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="ekit-heading--title elementskit-section-title ">
-Assistance
+RSUD SYAMRABU BANGKALAN
 </h3><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider elementskit-style-long"><div class="elementskit-border-divider elementskit-style-long"></div></div> <div class='ekit-heading__description'>
-<p>A small river named Duden flows by their place and supplies it with the necessary regavelialia. It is a paradise.</p>
+<p>Untuk meningkatkan mutu pelayan yang lebih efisien pasien dapat melakukan pendafataran secara online, sehingga pasien tinggal memberikan berkas langsung di loket pendafataran</p>
 </div>
 </div></div> </div>
 </div>
