@@ -485,6 +485,8 @@ Consultation </a>
 					<a href="appointment/index.html" class=" dropdown-item">TAROMAH</a>
 					<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 						<a href="appointment/index.html" class=" dropdown-item">PPE</a>
+						<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+							<a href="appointment/index.html" class=" dropdown-item">Akta Gratis</a>
 			</ul>
 	</li>
 <!-- end layanan unggulan -->
@@ -1453,6 +1455,226 @@ IGD </h3>
 </div>
 </section>
 
+
+
+
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1fce90b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fce90b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488b2ba" data-id="488b2ba" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-9a6f750 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a6f750" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e7d2323" data-id="e7d2323" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6ae0322" data-id="6ae0322" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+ <div class="elementor-element elementor-element-ee43f2c elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="ee43f2c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Pelayanan Unggulan
+</h2> <div class='ekit-heading__description'>
+<p>Inovasi Pelayanan RSUD SYAMRABU Bangkalan dalam upaya meningkatkan mutu pelayanan sehingga dapat mewujudkan VISI MISI RSUD SYAMRABU BANGKALAN</p>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7d09e3f elementor-hidden-tablet elementor-hidden-phone" data-id="7d09e3f" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-a7d5b2d equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7d5b2d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0af4f21" data-id="0af4f21" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-03a07f1 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="03a07f1" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-briefcase1"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+HOME CARE </h3>
+<p>"Padha Beres" merupakan Layanan Kesehatan di Rumah Anda Bersifat : Promotif, Kuratif dan Rehabilitatif
+</p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c4eb72d" data-id="c4eb72d" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-71f4723 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="71f4723" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-medical1"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+TAROMAH </h3>
+<p>Layanan Penunjang antar obat sampai Rumah </p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a34ebd9" data-id="a34ebd9" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-08acc62 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="08acc62" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-hospital"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+PPE </h3>
+<p>Pelayanan Penunjang Eksekutif merupakan layanan Laboratorium dengan jam operasional senin - minggu </p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-23e3d96 equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="23e3d96" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-97fb2de" data-id="97fb2de" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4f15f8b ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="4f15f8b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fas fa-ambulance"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+AMPIBI </h3>
+<p>Ambulan Peduli Tereran Dhibi' merupakan upaya RSUD SYAMRABU untuk dekat dengan masyarakat dalam akses rawat inap</p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-42af86e" data-id="42af86e" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7df0593 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="7df0593" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-medicine"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+BERSEMA </h3>
+<p>Bersalin Sehat Antar Rumah</p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f6ecc2" data-id="2f6ecc2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-89601db ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="89601db" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+<a href="#" target="_self" rel="" class="ekit_global_links">
+
+<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon fas fa-heartbeat"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+Akta Gratis </h3>
+<p>Pengurusan Akta Gratis Untuk bayi yang melahirkan di RSUD SYAMRABU BANGKALAN </p>
+</div>
+</div>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
 <!-- form pendaftaran poli -->
 <section class="elementor-section elementor-top-section elementor-element elementor-element-c191d1a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c191d1a" data-element_type="section" id="booking">
 <div class="elementor-container elementor-column-gap-no">
@@ -1889,225 +2111,6 @@ Assistance
 </div>
 </div>
 </section>
-
-
-
-
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1fce90b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fce90b" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488b2ba" data-id="488b2ba" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-9a6f750 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a6f750" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e7d2323" data-id="e7d2323" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6ae0322" data-id="6ae0322" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
- <div class="elementor-element elementor-element-ee43f2c elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="ee43f2c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Quick Amenities in Medizco
-</h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7d09e3f elementor-hidden-tablet elementor-hidden-phone" data-id="7d09e3f" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-a7d5b2d equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7d5b2d" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0af4f21" data-id="0af4f21" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-03a07f1 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="03a07f1" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-briefcase1"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Intensive care </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c4eb72d" data-id="c4eb72d" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-71f4723 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="71f4723" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-medical1"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Online Medicine </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a34ebd9" data-id="a34ebd9" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-08acc62 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="08acc62" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-hospital"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Lab Tests </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-23e3d96 equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="23e3d96" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-97fb2de" data-id="97fb2de" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f15f8b ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="4f15f8b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-ambulance"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Ambulance Car </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-42af86e" data-id="42af86e" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-7df0593 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="7df0593" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-medicine"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Tabs and Pills </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f6ecc2" data-id="2f6ecc2" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-89601db ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="89601db" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-heartbeat"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Health Check </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the texts. </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-76dcae4 xs_overflow elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="76dcae4" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
