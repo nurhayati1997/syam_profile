@@ -200,7 +200,7 @@ img.emoji {
 <div class="elementor-widget-container">
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="tel:+1-(212)-305-2500">
+<a href="(031) 6778907">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
 <span class="elementor-icon-list-text">Informasi: (031) 6778907</span>
@@ -415,7 +415,7 @@ Consultation </a>
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
 		<li id="menu-item-2822" class="menu-item menu-item-type menu-item-object-page menu-item-1757 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="Profile_v.php" class="ekit-menu-nav-link">Home
+			<a href="<?php echo site_url('Profile');?>" class="ekit-menu-nav-link">Home
 			</a>
 <!-- <ul class="elementskit-dropdown elementskit-submenu-panel">
 <li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-174 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index.html" class=" dropdown-item active">Home Page 01</a> <li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-02/index.html" class=" dropdown-item">Home Page 02</a> <li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-03/index.html" class=" dropdown-item">Home Page 03</a> <li id="menu-item-4768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4768 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-4/index.html" class=" dropdown-item">Home Page 04</a> <li id="menu-item-4759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4759 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-5/index.html" class=" dropdown-item">Home Page 05</a> <li id="menu-item-4760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4760 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-6/index.html" class=" dropdown-item">Home Page 06</a> <li id="menu-item-4851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4851 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-one/index.html" class=" dropdown-item">Covid-19 One</a> <li id="menu-item-4852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4852 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-two/index.html" class=" dropdown-item">Covid-19 Two</a> <li id="menu-item-2638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-01/index.html" class=" dropdown-item">One Page 01</a> <li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-02/index.html" class=" dropdown-item">One Page 02</a> <li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-03/index.html" class=" dropdown-item">One Page 03</a></ul>
@@ -429,11 +429,13 @@ Consultation </a>
 	</a>
 	<ul class="elementskit-dropdown elementskit-submenu-panel">
 	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-		<a href="about/index.html" class=" dropdown-item">IGD</a> 
+		<a href="about/index.html" class=" dropdown-item">Layanan Unggulan</a> 
 		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="pricing/index.html" class=" dropdown-item">Poli Rawat Inap</a> 
+			<a href="pricing/index.html" class=" dropdown-item">Layanan Gawat Darurat</a> 
 			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="appointment/index.html" class=" dropdown-item">Rawat Jalan</a>
+				<a href="appointment/index.html" class=" dropdown-item">Layanan Rawat Inap</a>
+				<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+					<a href="appointment/index.html" class=" dropdown-item">Layanan Penunjang</a>
 			</ul>
 	</li>
 <!-- end pelayanan -->
@@ -443,7 +445,7 @@ Consultation </a>
 
 
 <!-- layanan penunjang -->
-<li id="menu-item-4621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4621 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
+<!-- <li id="menu-item-4621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4621 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Penunjang
 		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
 	</a>
@@ -467,7 +469,7 @@ Consultation </a>
 										<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 											<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Ambulance</a>
 	</ul>
-</li>
+</li> -->
 <!-- END PENUNJANG -->
 
 <!-- layanan Unggulan -->
@@ -509,6 +511,12 @@ Consultation </a>
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<a href="shop/index.html" class="ekit-menu-nav-link">Pengaduan</a></li>
 <!-- end pengaduan -->
+
+<!-- laporan -->
+<li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+	<!-- <a href="shop/index.html" class="ekit-menu-nav-link">Laporan</a></li> -->
+	<a href="<?php echo site_url('laporan');?>" class="ekit-menu-nav-link">Laporan</a></li>
+<!-- end laporan -->
 
 <!-- tentang kami -->
 <li id="menu-item-4613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4613 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -1032,6 +1040,7 @@ Elements </h3>
 </div>
 </div>
 </div>
+
 <div id="post-2" class="home-page-contents post-2 page type-page status-publish hentry" role="main">
 <div class="builder-content">
 <div data-elementor-type="wp-post" data-elementor-id="2" class="elementor elementor-2" data-elementor-settings="[]">
