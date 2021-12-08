@@ -429,13 +429,13 @@ Consultation </a>
 	</a>
 	<ul class="elementskit-dropdown elementskit-submenu-panel">
 	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-		<a href="about/index.html" class=" dropdown-item">Layanan Unggulan</a> 
+		<a href="<?php echo site_url('Unggulan');?>" class=" dropdown-item">Layanan Unggulan</a> 
 		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="pricing/index.html" class=" dropdown-item">Layanan Gawat Darurat</a> 
+			<a href="<?php echo site_url('Igd');?>" class=" dropdown-item">Layanan Gawat Darurat</a> 
 			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="appointment/index.html" class=" dropdown-item">Layanan Rawat Inap</a>
+				<a href="<?php echo site_url('Ranap');?>" class=" dropdown-item">Layanan Rawat Inap</a>
 				<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="appointment/index.html" class=" dropdown-item">Layanan Penunjang</a>
+					<a href="<?php echo site_url('Rajal');?>" class=" dropdown-item">Layanan Penunjang</a>
 			</ul>
 	</li>
 <!-- end pelayanan -->
@@ -1003,7 +1003,7 @@ Elements </h3>
 <!-- end -->
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
-<a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
+<a class="elementskit-nav-logo"  target="_self" rel="">
 <img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
