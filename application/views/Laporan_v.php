@@ -92,7 +92,7 @@ img.emoji {
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/sicon.png" />
-<meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
+<meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/new.png" />
 <script type="text/javascript">function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {				 
 				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
