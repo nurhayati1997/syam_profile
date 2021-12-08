@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:03 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/department/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:00 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
@@ -55,7 +55,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-2306-css' href='wp-content/uploads/elementor/css/post-230686bc.css?ver=1637149387' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-790-css' href='wp-content/uploads/elementor/css/post-790d13a.css?ver=1637182826' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CExo%3A300%2C300i%2C400%2C700%2C700i%2C900' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/medizco/assets/css/bootstrap.minb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
@@ -81,25 +81,25 @@ img.emoji {
 <link rel='stylesheet' id='medizco-woocommerce-css' href='wp-content/themes/medizco/assets/css/woocommerceb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles8d5a.css?ver=2.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive8d5a.css?ver=2.4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CExo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minb045.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/2306.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/790.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
 <meta name="generator" content="WooCommerce 5.9.0" />
 <link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexfdc3.html?p=2306' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed2652.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed5dd7?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F&amp;format=xml" />
+<link rel='shortlink' href='index895e.html?p=790' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed9e92.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdepartment%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed8540?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdepartment%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
-<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
+<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
 <meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
 <script type="text/javascript">function setREVStartSize(e){
@@ -181,8 +181,9 @@ img.emoji {
     color: #f13a66 !important;
 }		</style>
 </head>
-<body class="home page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-2 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-2">
-<div class="medizco-preloder"><img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+<body class="archive post-type-archive post-type-archive-product theme-medizco woocommerce-shop woocommerce woocommerce-page woocommerce-no-js sidebar-active elementor-default elementor-kit-4824">
+<div class="medizco-preloder">
+	<img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
 <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
@@ -208,9 +209,7 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5">
 <span class="elementor-icon-list-text">
 	Informasi: (031) 6778907
 </span>
@@ -275,8 +274,8 @@ img.emoji {
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="../index.html">
-<img src="wp-content/uploads/elementor/thumbs/new.png" title="logo-2" alt="logo-2" /> </a>
+<a href="index.html">
+<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
 </div>
 </div>
 </div>
@@ -284,7 +283,7 @@ img.emoji {
 <div class="elementor-widget-container">
 <h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
 </div>
-<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
+ <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <div class="elementor-text-editor elementor-clearfix">
 <p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
@@ -318,10 +317,10 @@ Consultation </a>
 </a>
 </li>
 <li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#1a777f7e736079755a7d777b737634797577">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#620f07060b18010d22050f030b0e4c010d0f">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="18557d7c71627b77587f75797174367b7775">[email&#160;protected]</span></span>
+<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="eda0888984978e82ad8a808c8481c38e8280">[email&#160;protected]</span></span>
 </a>
 </li>
 <li class="elementor-icon-list-item">
@@ -396,7 +395,7 @@ Consultation </a>
 <div class="elementor-element elementor-element-a28ce9b medizco_logo elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="a28ce9b" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="../index.html">
+<a href="index.html">
 <img src="wp-content/uploads/elementor/thumbs/new.png" title="logo" alt="logo" /> </a>
 </div>
 </div>
@@ -406,6 +405,7 @@ Consultation </a>
 <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"> <button class="elementskit-menu-hamburger elementskit-menu-toggler">
 <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
 </button>
+
 <!-- home -->
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
@@ -468,15 +468,17 @@ Consultation </a>
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="blog/2019/08/30/hospital-doctors-examine-patients-so-that/index.html" class=" dropdown-item">Struktur Rumah Sakit</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="blog/2019/08/30/hospital-doctors-examine-patients-so-that/index.html" class=" dropdown-item">Dokter</a>
+					<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				
 			</ul>
 </li>
 <!-- end tab menu -->
+
+
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
 <a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
-<img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
+<img width="160" height="60" src="wp-content/uploads/2019/08/logo.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
 <button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
@@ -514,586 +516,765 @@ Consultation </a>
 </div>
 <div class="page_banner">
 <div class="page_banner_img">
-<img src="wp-content/uploads/2019/09/doctors-page-header-img.jpg" alt="Pelayanan">
+<img src="wp-content/uploads/2019/09/department-page-banner-img.jpg" alt="Layanan">
 </div>
-<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
+<div class="page_banner_content  overlay" style="background-image: url(../wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
 Pelayanan </h1>
 <ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
-    <li class="curves left"></li>
-    <li class="curves right"></li>
-    <li><a href="https://wp.xpeedstudio.com/medizco">Layanan</a></li> 
-    <li class="seperator">-</li><li>Rawat Jalan</li></ul> </div>
+    <li class="curves left"></li><li class="curves right">
+    </li><li><a href="https://wp.xpeedstudio.com/medizco">Layanan</a></li> <li class="seperator">-</li>
+    <li>Rawat Jalan</li></ul> </div>
 </div>
 </div>
-<div id="post-2306" class="page-contents post-2306 page type-page status-publish hentry" role="main">
+<div id="post-790" class="page-contents post-790 page type-page status-publish hentry" role="main">
 <div class="builder-content">
-<div data-elementor-type="wp-page" data-elementor-id="2306" class="elementor elementor-2306" data-elementor-settings="[]">
+<div data-elementor-type="wp-post" data-elementor-id="790" class="elementor elementor-790" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-4663594 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4663594" data-element_type="section">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0418256 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0418256" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7964ac" data-id="f7964ac" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b9b6bd" data-id="2b9b6bd" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-64a510a elementor-widget elementor-widget-medizco-doctors" data-id="64a510a" data-element_type="widget" data-widget_type="medizco-doctors.default">
+<div class="elementor-element elementor-element-a56f343 elementor-widget elementor-widget-shortcode" data-id="a56f343" data-element_type="widget" data-widget_type="shortcode.default">
 <div class="elementor-widget-container">
-<div class="medizco_doctors medizco_doctors_filter" data-rtl="">
-<ul class="filter_nav d-flex flex-wrap justify-content-center">
-<li class="filter active" data-filter=".all-departments">All Departments</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
+<div class="elementor-shortcode"> <div class="mptt-shortcode-wrapper mptt-table-responsive">
+<select class="mptt-menu mptt-navigation-select">
+<option value="all">All Departments</option>
+<option value="primary-health-care">Primary Health Care</option>
+<option value="cardiology">Cardiology</option>
+</select>
+<table class="mptt-shortcode-table  mptt-theme-mode" id="#all" style="display:none; " data-hide_empty_row="1">
+<thead>
+<tr class="mptt-shortcode-row">
+<th data-index="0" data-column-id=""></th>
+<th data-index="1" data-column-id="3038">Monday</th>
+<th data-index="2" data-column-id="3048">Tuesday</th>
+<th data-index="3" data-column-id="3049">Wednesday</th>
+<th data-index="4" data-column-id="3050">Thursday</th>
+<th data-index="5" data-column-id="3051">Friday</th>
+<th data-index="6" data-column-id="3052">Saturday</th>
+<th data-index="7" data-column-id="3053">Sunday</th>
+</tr>
+</thead> <tbody>
+<tr class="mptt-shortcode-row-8" data-index="8">
+<td class="mptt-shortcode-hours" style="height:45px;">8:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-31 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+ <td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-28 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-34 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-50 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-38 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-43 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+</tr>
+<tr class="mptt-shortcode-row-9" data-index="9">
+<td class="mptt-shortcode-hours" style="height:45px;">9:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-46 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-39 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-54 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-44 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+</tr>
+<tr class="mptt-shortcode-row-10" data-index="10">
+<td class="mptt-shortcode-hours" style="height:45px;">10:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="10" data-start-item="10" data-end="12" class="mptt-event-container id-32 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="10" data-start-item="10" data-end="11" class="mptt-event-container id-35 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="10" data-start-item="10" data-end="11" class="mptt-event-container id-51 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-11" data-index="11">
+<td class="mptt-shortcode-hours" style="height:45px;">11:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-47 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="11" data-start-item="11" data-end="13" class="mptt-event-container id-36 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-52 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-40 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="14" class="mptt-event-container id-55 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-12" data-index="12">
+<td class="mptt-shortcode-hours" style="height:45px;">12:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="12" data-start-item="12" data-end="14" class="mptt-event-container id-33 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="12" data-start-item="12" data-end="13" class="mptt-event-container id-48 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="12" data-start-item="12" data-end="14" class="mptt-event-container id-53 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="12" data-start-item="12" data-end="13" class="mptt-event-container id-41 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-13" data-index="13">
+<td class="mptt-shortcode-hours" style="height:45px;">1:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-49 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-37 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-42 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-45 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+</tr>
+</tbody>
+</table>
+<table class="mptt-shortcode-table  mptt-theme-mode" id="#primary-health-care" style="display:none; " data-hide_empty_row="1">
+<thead>
+<tr class="mptt-shortcode-row">
+<th data-index="0" data-column-id=""></th>
+<th data-index="1" data-column-id="3038">Monday</th>
+<th data-index="2" data-column-id="3048">Tuesday</th>
+<th data-index="3" data-column-id="3049">Wednesday</th>
+<th data-index="4" data-column-id="3050">Thursday</th>
+<th data-index="5" data-column-id="3051">Friday</th>
+<th data-index="6" data-column-id="3052">Saturday</th>
+<th data-index="7" data-column-id="3053">Sunday</th>
+</tr>
+</thead> <tbody>
+<tr class="mptt-shortcode-row-8" data-index="8">
+<td class="mptt-shortcode-hours" style="height:45px;">8:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-31 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div>  </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-34 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-38 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-43 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+</tr>
+<tr class="mptt-shortcode-row-9" data-index="9">
+<td class="mptt-shortcode-hours" style="height:45px;">9:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-39 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-44 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+</tr>
+<tr class="mptt-shortcode-row-10" data-index="10">
+<td class="mptt-shortcode-hours" style="height:45px;">10:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="10" data-start-item="10" data-end="12" class="mptt-event-container id-32 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="10" data-start-item="10" data-end="11" class="mptt-event-container id-35 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">W.Geourge</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-11" data-index="11">
+<td class="mptt-shortcode-hours" style="height:45px;">11:00 am</td>
+ <td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="11" data-start-item="11" data-end="13" class="mptt-event-container id-36 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-40 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-12" data-index="12">
+<td class="mptt-shortcode-hours" style="height:45px;">12:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="12" data-start-item="12" data-end="14" class="mptt-event-container id-33 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="12" data-start-item="12" data-end="13" class="mptt-event-container id-41 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-13" data-index="13">
+<td class="mptt-shortcode-hours" style="height:45px;">1:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-37 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Cooper.L</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-42 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">Gill.B</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3059" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-45 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(34, 58, 102)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(34, 58, 102);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Primary Health Care</span>
+<p class="event-description">William.G</p>
+</div>
+</div> </td>
+</tr>
+</tbody>
+</table>
+<table class="mptt-shortcode-table  mptt-theme-mode" id="#cardiology" style="display:none; " data-hide_empty_row="1">
+<thead>
+<tr class="mptt-shortcode-row">
+<th data-index="0" data-column-id=""></th>
+<th data-index="1" data-column-id="3038">Monday</th>
+<th data-index="2" data-column-id="3048">Tuesday</th>
+<th data-index="3" data-column-id="3049">Wednesday</th>
+<th data-index="4" data-column-id="3050">Thursday</th>
+<th data-index="5" data-column-id="3051">Friday</th>
+<th data-index="6" data-column-id="3052">Saturday</th>
+<th data-index="7" data-column-id="3053">Sunday</th>
+</tr>
+</thead> <tbody>
+<tr class="mptt-shortcode-row-8" data-index="8">
+<td class="mptt-shortcode-hours" style="height:45px;">8:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="8" data-start-item="8" data-end="9" class="mptt-event-container id-28 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="8" data-start-item="8" data-end="10" class="mptt-event-container id-50 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-9" data-index="9">
+<td class="mptt-shortcode-hours" style="height:45px;">9:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-46 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="9" data-start-item="9" data-end="11" class="mptt-event-container id-54 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-10" data-index="10">
+<td class="mptt-shortcode-hours" style="height:45px;">10:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="10" data-start-item="10" data-end="11" class="mptt-event-container id-51 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-11" data-index="11">
+<td class="mptt-shortcode-hours" style="height:45px;">11:00 am</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-47 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Martin.C</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="12" class="mptt-event-container id-52 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="11" data-start-item="11" data-end="14" class="mptt-event-container id-55 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-12" data-index="12">
+<td class="mptt-shortcode-hours" style="height:45px;">12:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="12" data-start-item="12" data-end="13" class="mptt-event-container id-48 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">M.Anderson</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="12" data-start-item="12" data-end="14" class="mptt-event-container id-53 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+<tr class="mptt-shortcode-row-13" data-index="13">
+<td class="mptt-shortcode-hours" style="height:45px;">1:00 pm</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3038" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3048" colspan="1" data-row_height="45" style="height:45px;">
+<div data-event-id="3170" data-start="13" data-start-item="13" data-end="14" class="mptt-event-container id-49 mptt-colorized" data-type="event" data-bg_hover_color="" data-bg_color="rgb(28, 186, 159)" data-hover_color="" data-color="rgb(255, 255, 255)" data-min-height="" style="text-align:center;     background-color:rgb(28, 186, 159);     color:rgb(255, 255, 255);     height:100%;     ">
+<div class="mptt-inner-event-content">
+<span class="event-title">Cardiology</span>
+<p class="event-description">Mathew.K</p>
+</div>
+</div> </td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3049" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3050" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3051" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3052" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="3053" colspan="1" data-row_height="45" style="height:45px;">
+</td>
+</tr>
+</tbody>
+</table>
+<div class="mptt-shortcode-list ">
+<div class="mptt-column">
+<h3 class="mptt-column-title">Monday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">W.Geourge</p>
+</li>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">William.G</p>
+</li>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Gill.B</p>
+ </li>
 </ul>
-<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+</div>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Tuesday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">M.Anderson</p>
 </li>
- <li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Mathew.K</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Martin.C</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">M.Anderson</p>
+</li>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Mathew.K</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Harrison Samuel</h3>
-<p class="doctor_box_role">Cardiology</p>
-</div>
-<a href="../blog/doctor/harrison-samuel/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Wednesday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">William.G</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">W.Geourge</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Gill.B</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Cooper.L</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Thomas Henry</h3>
-<p class="doctor_box_role">Dental</p>
-</div>
-<a href="../blog/doctor/thomas-henry/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Thursday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Mathew.K</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Martin.C</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">M.Anderson</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Mathew.K</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">James Alexander</h3>
-<p class="doctor_box_role">Neurology</p>
-</div>
-<a href="../blog/doctor/james-alexander/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Friday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Gill.B</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">W.Geourge</p>
+ </li>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">William.G</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Cooper.L</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Gill.B</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Andrew Sebastian</h3>
-<p class="doctor_box_role">Pediatric</p>
-</div>
-<a href="../blog/doctor/andrew-sebastian/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Saturday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">Martin.C</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="cardiology" style="border-left-color:rgb(28, 186, 159);">
+Cardiology <p class="event-description">M.Anderson</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Jack Barnes</h3>
-<p class="doctor_box_role">Polmonary</p>
-</div>
-<a href="../blog/doctor/jack-barnes/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments traumatology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="mptt-column">
+<h3 class="mptt-column-title">Sunday</h3>
+<ul class="mptt-events-list">
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">Cooper.L</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">W.Geourge</p>
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="mptt-list-event" data-event-id="primary-health-care" style="border-left-color:rgb(34, 58, 102);">
+Primary Health Care <p class="event-description">William.G</p>
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Gary Lynch</h3>
-<p class="doctor_box_role">Traumatology</p>
 </div>
-<a href="../blog/doctor/gary-lynch/index.html" class="doctor_box_link"></a>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments x-ray">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Michael Garrett</h3>
-<p class="doctor_box_role">X-Ray</p>
-</div>
-<a href="../blog/doctor/michael-garrett/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Steven Castillo</h3>
-<p class="doctor_box_role">Cardiology</p>
-</div>
-<a href="../blog/doctor/steven-castillo/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Ronald Munoz</h3>
-<p class="doctor_box_role">Dental</p>
-</div>
-<a href="../blog/doctor/ronald-munoz/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Craig Daniels</h3>
-<p class="doctor_box_role">Neurology</p>
-</div>
-<a href="../blog/doctor/craig-daniels/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Austin Shaw</h3>
-<p class="doctor_box_role">Pediatric</p>
-</div>
-<a href="../blog/doctor/austin-shaw/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Paul Stanley</h3>
-<p class="doctor_box_role">Polmonary</p>
-</div>
-<a href="../blog/doctor/paul-stanley/index.html" class="doctor_box_link"></a>
-</div>
-</div></div> </div>
 </div>
 </div>
 </div>
@@ -1102,7 +1283,6 @@ YouTube </span>
 </div>
 </div>
 </section>
-<!-- del -->
 
 
 </div>
@@ -1110,7 +1290,6 @@ YouTube </span>
 </div>
  </div>
 </div>
-
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
@@ -1136,6 +1315,7 @@ YouTube </span>
 <link rel='stylesheet' id='elementor-post-2817-css' href='wp-content/uploads/elementor/css/post-28172fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-widget-styles-pro-css' href='wp-content/themes/medizco/assets/css/widget-styles-prob2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minb045.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css' href='https://fonts.googleapis.com/css?family=Exo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/rs6069c.css?ver=6.5.8' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
@@ -1162,7 +1342,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.minad76.js?ver=5.9.0' id='wc-cart-fragments-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script8d5a.js?ver=2.4.0' id='elementskit-framework-js-frontend-js'></script>
+<script type='text/javascript' src='.wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script8d5a.js?ver=2.4.0' id='elementskit-framework-js-frontend-js'></script>
 <script type='text/javascript' id='elementskit-framework-js-frontend-js-after'>
 		var elementskit = {
             resturl: 'https://wp.xpeedstudio.com/medizco/wp-json/elementskit/v1/',
@@ -1176,6 +1356,15 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/slick.minb2d8.js?ver=2.8' id='slick-js'></script>
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/scriptb2d8.js?ver=2.8' id='medizco-script-js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min080f.js?ver=5.8.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='wp-includes/js/underscore.min0028.js?ver=1.13.1' id='underscore-js'></script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-functions.minfc3c.js?ver=2.4.4' id='mptt-functions-js'></script>
+<script type='text/javascript' id='mptt-event-object-js-extra'>
+/* <![CDATA[ */
+var MPTT = {"table_class":"mptt-shortcode-table"};
+var MPTT = {"table_class":"mptt-shortcode-table"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb045.js?ver=3.4.8' id='elementor-webpack-runtime-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.minb045.js?ver=3.4.8' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -1184,7 +1373,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minb045.js?ver=3.4.8' id='share-link-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2306,"title":"Doctors%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":790,"title":"Department%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minb045.js?ver=3.4.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0' id='animate-circle-js'></script>
@@ -1193,16 +1382,8 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/elementorb2d8.js?ver=2.8' id='medizco-main-elementor-js'></script>
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/widget-scripts-prob2d8.js?ver=2.8' id='medizco-widget-scripts-pro-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/preloaded-modules.minb045.js?ver=3.4.8' id='preloaded-modules-js'></script>
-<script type='text/javascript' src='wp-includes/js/underscore.min0028.js?ver=1.13.1' id='underscore-js'></script>
-<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-functions.minfc3c.js?ver=2.4.4' id='mptt-functions-js'></script>
-<script type='text/javascript' id='mptt-event-object-js-extra'>
-/* <![CDATA[ */
-var MPTT = {"table_class":"mptt-shortcode-table"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
 </body>
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:07 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/department/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:03 GMT -->
 </html>

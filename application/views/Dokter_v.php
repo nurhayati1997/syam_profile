@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/shop/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:25:27 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:03 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
@@ -12,7 +12,6 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Feed" href="../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Comments Feed" href="../comments/feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Products Feed" href="feed/index.html" />
 <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -33,6 +32,9 @@ img.emoji {
 </style>
 <link rel='stylesheet' id='elementor-frontend-legacy-css' href='wp-content/plugins/elementor/assets/css/frontend-legacy.minb045.css?ver=3.4.8' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.minb045.css?ver=3.4.8' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://wp.xpeedstudio.com/medizco/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://wp.xpeedstudio.com/medizco/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://wp.xpeedstudio.com/medizco/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://wp.xpeedstudio.com/medizco/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://wp.xpeedstudio.com/medizco/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
 <link rel='stylesheet' id='elementor-post-8-css' href='wp-content/uploads/elementor/css/post-82fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-5-all-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/all.minb045.css?ver=3.4.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-4-shim-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.minb045.css?ver=3.4.8' type='text/css' media='all' />
@@ -50,6 +52,10 @@ img.emoji {
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
 <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons8d5a.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2306-css' href='wp-content/uploads/elementor/css/post-230686bc.css?ver=1637149387' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CExo%3A300%2C300i%2C400%2C700%2C700i%2C900' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/medizco/assets/css/bootstrap.minb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
@@ -75,24 +81,27 @@ img.emoji {
 <link rel='stylesheet' id='medizco-woocommerce-css' href='wp-content/themes/medizco/assets/css/woocommerceb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-widget-styles-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles8d5a.css?ver=2.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='ekit-responsive-css' href='wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive8d5a.css?ver=2.4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CExo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minb045.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/2306.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
 <meta name="generator" content="WooCommerce 5.9.0" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../indexfdc3.html?p=2306' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed2652.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed5dd7?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="wp-content/uploads/2019/08/sicon.png" />
-<meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/new.png" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
+<meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
 <script type="text/javascript">function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {				 
 				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
@@ -172,9 +181,8 @@ img.emoji {
     color: #f13a66 !important;
 }		</style>
 </head>
-<body class="archive post-type-archive post-type-archive-product theme-medizco woocommerce-shop woocommerce woocommerce-page woocommerce-no-js sidebar-active elementor-default elementor-kit-4824">
-<div class="medizco-preloder">
-	<img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+<body class="home page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-2 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-2">
+<div class="medizco-preloder"><img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
 <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
@@ -200,7 +208,9 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
 	Informasi: (031) 6778907
 </span>
@@ -265,8 +275,8 @@ img.emoji {
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
+<a href="../index.html">
+<img src="wp-content/uploads/elementor/thumbs/new.png" title="logo-2" alt="logo-2" /> </a>
 </div>
 </div>
 </div>
@@ -308,10 +318,10 @@ Consultation </a>
 </a>
 </li>
 <li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#c2afa7a6abb8a1ad82a5afa3abaeeca1adaf">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#1a777f7e736079755a7d777b737634797577">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="0a476f6e637069654a6d676b636624696567">[email&#160;protected]</span></span>
+<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="18557d7c71627b77587f75797174367b7775">[email&#160;protected]</span></span>
 </a>
 </li>
 <li class="elementor-icon-list-item">
@@ -386,8 +396,7 @@ Consultation </a>
 <div class="elementor-element elementor-element-a28ce9b medizco_logo elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="a28ce9b" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="index.html">
-<!-- logo besar -->
+<a href="../index.html">
 <img src="wp-content/uploads/elementor/thumbs/new.png" title="logo" alt="logo" /> </a>
 </div>
 </div>
@@ -397,17 +406,12 @@ Consultation </a>
 <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"> <button class="elementskit-menu-hamburger elementskit-menu-toggler">
 <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
 </button>
-
 <!-- home -->
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
 		<li id="menu-item-2822" class="menu-item menu-item-type menu-item-object-page menu-item-1757 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Profile');?>" class="ekit-menu-nav-link">Home
 			</a>
-<!-- <ul class="elementskit-dropdown elementskit-submenu-panel">
-<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-174 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index.html" class=" dropdown-item active">Home Page 01</a> <li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-02/index.html" class=" dropdown-item">Home Page 02</a> <li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-03/index.html" class=" dropdown-item">Home Page 03</a> <li id="menu-item-4768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4768 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-4/index.html" class=" dropdown-item">Home Page 04</a> <li id="menu-item-4759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4759 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-5/index.html" class=" dropdown-item">Home Page 05</a> <li id="menu-item-4760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4760 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-6/index.html" class=" dropdown-item">Home Page 06</a> <li id="menu-item-4851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4851 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-one/index.html" class=" dropdown-item">Covid-19 One</a> <li id="menu-item-4852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4852 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-two/index.html" class=" dropdown-item">Covid-19 Two</a> <li id="menu-item-2638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-01/index.html" class=" dropdown-item">One Page 01</a> <li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-02/index.html" class=" dropdown-item">One Page 02</a> <li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-03/index.html" class=" dropdown-item">One Page 03</a></ul>
-</li> -->
-<!-- end home -->
 
 <!-- pelayanan -->
 <li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2823 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -464,15 +468,14 @@ Consultation </a>
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="blog/2019/08/30/hospital-doctors-examine-patients-so-that/index.html" class=" dropdown-item">Struktur Rumah Sakit</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
+					<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				
 			</ul>
 </li>
 <!-- end tab menu -->
-
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
-<a class="elementskit-nav-logo" target="_self" rel="">
+<a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
 <img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
@@ -505,138 +508,609 @@ Consultation </a>
 </div>
 </div>
 </section>
+</div>
+</div>
+</div>
+</div>
+<div class="page_banner">
+<div class="page_banner_img">
+<img src="wp-content/uploads/2019/09/doctors-page-header-img.jpg" alt="Dokter">
+</div>
+<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
+<div class="container d-lg-flex justify-content-between">
+<h1 class="page_banner_title">
+Tentang Kami </h1>
+<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
+    <li class="curves left"></li>
+    <li class="curves right"></li>
+    <li><a href="https://wp.xpeedstudio.com/medizco">Daftar </a></li> 
+    <li class="seperator">-</li><li>Dokter</li></ul> </div>
+</div>
+</div>
+<div id="post-2306" class="page-contents post-2306 page type-page status-publish hentry" role="main">
+<div class="builder-content">
+<div data-elementor-type="wp-page" data-elementor-id="2306" class="elementor elementor-2306" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4663594 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4663594" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7964ac" data-id="f7964ac" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-64a510a elementor-widget elementor-widget-medizco-doctors" data-id="64a510a" data-element_type="widget" data-widget_type="medizco-doctors.default">
+<div class="elementor-widget-container">
+<div class="medizco_doctors medizco_doctors_filter" data-rtl="">
+<ul class="filter_nav d-flex flex-wrap justify-content-center">
+<li class="filter active" data-filter=".all-departments">All Departments</li>
+<li class="filter " data-filter=".cardiology">Cardiology</li>
+<li class="filter " data-filter=".dental">Dental</li>
+<li class="filter " data-filter=".neurology">Neurology</li>
+<li class="filter " data-filter=".pediatric">Pediatric</li>
+<li class="filter " data-filter=".polmonary">Polmonary</li>
+<li class="filter " data-filter=".traumatology">Traumatology</li>
+<li class="filter " data-filter=".x-ray">X-Ray</li>
+<li class="filter " data-filter=".cardiology">Cardiology</li>
+<li class="filter " data-filter=".dental">Dental</li>
+<li class="filter " data-filter=".neurology">Neurology</li>
+<li class="filter " data-filter=".pediatric">Pediatric</li>
+<li class="filter " data-filter=".polmonary">Polmonary</li>
+<li class="filter " data-filter=".traumatology">Traumatology</li>
+<li class="filter " data-filter=".x-ray">X-Ray</li>
+<li class="filter " data-filter=".cardiology">Cardiology</li>
+<li class="filter " data-filter=".dental">Dental</li>
+<li class="filter " data-filter=".neurology">Neurology</li>
+<li class="filter " data-filter=".pediatric">Pediatric</li>
+<li class="filter " data-filter=".polmonary">Polmonary</li>
+<li class="filter " data-filter=".traumatology">Traumatology</li>
+<li class="filter " data-filter=".x-ray">X-Ray</li>
+</ul>
+<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+ <li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Harrison Samuel</h3>
+<p class="doctor_box_role">Cardiology</p>
+</div>
+<a href="../blog/doctor/harrison-samuel/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Thomas Henry</h3>
+<p class="doctor_box_role">Dental</p>
+</div>
+<a href="../blog/doctor/thomas-henry/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">James Alexander</h3>
+<p class="doctor_box_role">Neurology</p>
+</div>
+<a href="../blog/doctor/james-alexander/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Andrew Sebastian</h3>
+<p class="doctor_box_role">Pediatric</p>
+</div>
+<a href="../blog/doctor/andrew-sebastian/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Jack Barnes</h3>
+<p class="doctor_box_role">Polmonary</p>
+</div>
+<a href="../blog/doctor/jack-barnes/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments traumatology">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Gary Lynch</h3>
+<p class="doctor_box_role">Traumatology</p>
+</div>
+<a href="../blog/doctor/gary-lynch/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments x-ray">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Michael Garrett</h3>
+<p class="doctor_box_role">X-Ray</p>
+</div>
+<a href="../blog/doctor/michael-garrett/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Steven Castillo</h3>
+<p class="doctor_box_role">Cardiology</p>
+</div>
+<a href="../blog/doctor/steven-castillo/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Ronald Munoz</h3>
+<p class="doctor_box_role">Dental</p>
+</div>
+<a href="../blog/doctor/ronald-munoz/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Craig Daniels</h3>
+<p class="doctor_box_role">Neurology</p>
+</div>
+<a href="../blog/doctor/craig-daniels/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Austin Shaw</h3>
+<p class="doctor_box_role">Pediatric</p>
+</div>
+<a href="../blog/doctor/austin-shaw/index.html" class="doctor_box_link"></a>
+</div>
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-linkedin" style="color: #0077b5;"></i>
+<span style="background-color: #0077b5;">
+Linkedin </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-facebook" style="color: #3b5998;"></i>
+<span style="background-color: #3b5998;">
+Facebook </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-twitter" style="color: #1da1f2;"></i>
+<span style="background-color: #1da1f2;">
+Twitter </span>
+</a>
+</li>
+<li>
+<a href="#" target="_blank">
+<i class="fa fa-youtube" style="color: #ff0000;"></i>
+<span style="background-color: #ff0000;">
+YouTube </span>
+</a>
+</li>
+</ul>
+</div>
+
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Paul Stanley</h3>
+<p class="doctor_box_role">Polmonary</p>
+</div>
+<a href="../blog/doctor/paul-stanley/index.html" class="doctor_box_link"></a>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- del -->
+
 
 </div>
 </div>
 </div>
+ </div>
 </div>
-<!-- under banner -->
-<div class="page_banner">
-<div class="page_banner_img">
-<img src="wp-content/themes/medizco/assets/images/banner/page-banner-img.jpg" width="1920" height="400" class="w-100" alt="Clinical Thermometer"> </div>
-<div class="page_banner_content  overlay" style="background-image: url(wp-content/themes/medizco/assets/images/banner/page-banner-bg.png);">
-<div class="container d-lg-flex justify-content-between">
-<h1 class="page_banner_title">
-Laporan 
-<span> </span> </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center"><li class="curves left"></li><li class="curves right"></li>
-	<li><a>Reporting</a></li> 
-	<li class="seperator">-</li>
-</ul> 
-</div>
-</div>
-</div>
-<!-- content -->
-<div class="woo-xs-content">
-<div class="container">
-<div class="row">
-<div id="content" class="col-md-12">
-<div class="main-content-inner wooshop clearfix">
-<h1 class="page-title">Shop</h1>
-<div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-Showing 1&ndash;16 of 17 results</p>
-<form class="woocommerce-ordering" method="get">
-<select name="orderby" class="orderby" aria-label="Shop order">
-<option value="menu_order" selected='selected'>Default sorting</option>
-<option value="popularity">Sort by popularity</option>
-<option value="rating">Sort by average rating</option>
-<option value="date">Sort by latest</option>
-<option value="price">Sort by price: low to high</option>
-<option value="price-desc">Sort by price: high to low</option>
-</select>
-<input type="hidden" name="paged" value="1" />
-</form>
-<ul class="products columns-4">
-<li class="product type-product post-17 status-publish first instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/clinical-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Clinical Thermometer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></span>
-</a><a href="index0ba2.html?add-to-cart=17" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="17" data-product_sku="woo-polo" aria-label="Add &ldquo;Clinical Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-28 status-publish instock product_cat-clothing has-post-thumbnail shipping-taxable product-type-grouped">
-<a href="../product/cloth-face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Cloth Face Mask</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></span>
-</a><a href="../product/cloth-face-mask/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="28" data-product_sku="logo-collection" aria-label="View products in the &ldquo;Cloth Face Mask&rdquo; group" rel="nofollow">View products</a></li>
-<li class="product type-product post-6 status-publish outofstock product_cat-tshirts has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
-<a href="../product/eye-protected-glass/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Eye Protected Glass</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></span>
-</a><a href="../product/eye-protected-glass/index.html" data-quantity="1" class="button product_type_variable" data-product_id="6" data-product_sku="woo-vneck-tee" aria-label="Select options for &ldquo;Eye Protected Glass&rdquo;" rel="nofollow">Select options</a></li>
-<li class="product type-product post-4833 status-publish last instock product_cat-hoodies has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_7-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Face Mask</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</bdi></span></span>
-</a><a href="index40a3.html?add-to-cart=4833" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4833" data-product_sku="woo-hoodie-with-logo" aria-label="Add &ldquo;Face Mask&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-27 status-publish first instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-<a href="../product/first-aid-kit/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_3-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_3.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">First Aid Kit</h2>
-<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></ins></span>
-</a><a href="index6379.html?add-to-cart=27" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="27" data-product_sku="Woo-beanie-logo" aria-label="Add &ldquo;First Aid Kit&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-26 status-publish instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/hand-gloves/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_5-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Hand Gloves</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></span>
-</a><a href="indexcac1.html?add-to-cart=26" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="26" data-product_sku="Woo-tshirt-logo" aria-label="Add &ldquo;Hand Gloves&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-13 status-publish instock product_cat-accessories has-post-thumbnail featured shipping-taxable purchasable product-type-simple">
-<a href="../product/hand-sanitizer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Hand Sanitizer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>90.00</bdi></span></span>
-</a><a href="index6caa.html?add-to-cart=13" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="13" data-product_sku="woo-sunglasses" aria-label="Add &ldquo;Hand Sanitizer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-19 status-publish last instock product_cat-music has-post-thumbnail sale downloadable virtual purchasable product-type-simple">
-<a href="../product/hand-wash/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_12.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Hand Wash</h2>
-<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>3.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>2.00</bdi></span></ins></span>
-</a><a href="index3a5b.html?add-to-cart=19" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="19" data-product_sku="woo-single" aria-label="Add &ldquo;Hand Wash&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-15 status-publish first instock product_cat-hoodies has-post-thumbnail featured shipping-taxable purchasable product-type-simple">
-<a href="../product/infrared-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_8-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_8.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Infrared thermometer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</bdi></span></span>
-</a><a href="indexbd81.html?add-to-cart=15" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="15" data-product_sku="woo-hoodie-with-zipper" aria-label="Add &ldquo;Infrared thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-11 status-publish instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-<a href="../product/liquid-hand-wash/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_4-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_4.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Liquid Hand Wash</h2>
-<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>65.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>55.00</bdi></span></ins></span>
-</a><a href="indexa46f.html?add-to-cart=11" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="11" data-product_sku="woo-belt" aria-label="Add &ldquo;Liquid Hand Wash&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-16 status-publish instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/littmann-classic/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_10-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_10.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Littmann Classic</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>25.00</bdi></span></span>
-</a><a href="index8aa7.html?add-to-cart=16" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="16" data-product_sku="woo-long-sleeve-tee" aria-label="Add &ldquo;Littmann Classic&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-18 status-publish last instock product_cat-music has-post-thumbnail downloadable virtual purchasable product-type-simple">
-<a href="../product/album/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Medical Safety Glasses</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</bdi></span></span>
-</a><a href="index6694.html?add-to-cart=18" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="18" data-product_sku="woo-album" aria-label="Add &ldquo;Medical Safety Glasses&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-12 status-publish first instock product_cat-accessories has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple">
-<a href="../product/nitrile-gloves/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_5-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_5.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Nitrile Gloves</h2>
-<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>16.00</bdi></span></ins></span>
-</a><a href="index45a2.html?add-to-cart=12" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="12" data-product_sku="woo-cap" aria-label="Add &ldquo;Nitrile Gloves&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-9 status-publish instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/normal-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Normal Thermometer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></span>
-</a><a href="index8b86.html?add-to-cart=9" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="9" data-product_sku="woo-tshirt" aria-label="Add &ldquo;Normal Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li class="product type-product post-7 status-publish outofstock product_cat-hoodies has-post-thumbnail sale shipping-taxable purchasable product-type-variable">
-<a href="../product/sphygmomanometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_6-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_6.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Sphygmomanometer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>42.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</bdi></span></span>
-</a><a href="../product/sphygmomanometer/index.html" data-quantity="1" class="button product_type_variable" data-product_id="7" data-product_sku="woo-hoodie" aria-label="Select options for &ldquo;Sphygmomanometer&rdquo;" rel="nofollow">Select options</a></li>
-<li class="product type-product post-4834 status-publish last instock product_cat-accessories has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-<a href="../product/thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-<span class="onsale">Sale!</span>
-<img width="300" height="300" src="wp-content/uploads/2019/01/medical_shop_2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_2.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Thermometer</h2>
-<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></ins></span>
-</a><a href="index9fdc.html?add-to-cart=4834" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4834" data-product_sku="woo-beanie" aria-label="Add &ldquo;Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-</ul>
-<nav class="woocommerce-pagination">
-<ul class='page-numbers'>
-<li><span aria-current="page" class="page-numbers current">1</span></li>
-<li><a class="page-numbers" href="page/2/index.html">2</a></li>
-<li><a class="next page-numbers" href="page/2/index.html">&rarr;</a></li>
-</ul>
-</nav>
-</div> 
-</div>
-</div>
-</div>
-</div>
-<!-- footer -->
+
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
@@ -660,12 +1134,8 @@ Showing 1&ndash;16 of 17 results</p>
 	</script>
 <link rel='stylesheet' id='elementor-post-212-css' href='wp-content/uploads/elementor/css/post-2122fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-2817-css' href='wp-content/uploads/elementor/css/post-28172fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='medizco-widget-styles-pro-css' href='../wp-content/themes/medizco/assets/css/widget-styles-prob2d8.css?ver=2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='medizco-widget-styles-pro-css' href='wp-content/themes/medizco/assets/css/widget-styles-prob2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minb045.css?ver=3.4.8' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-2-css' href='https://fonts.googleapis.com/css?family=Exo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.8.2' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/rs6069c.css?ver=6.5.8' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
@@ -714,7 +1184,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minb045.js?ver=3.4.8' id='share-link-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Products &#8211; Medizco","excerpt":"<p>This is where you can browse products in this store.<\/p>\n"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2306,"title":"Doctors%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minb045.js?ver=3.4.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0' id='animate-circle-js'></script>
@@ -730,9 +1200,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 var MPTT = {"table_class":"mptt-shortcode-table"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
-<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
+<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
 </body>
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/shop/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:25:29 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:07 GMT -->
 </html>
