@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Pricing &#8211; Medizco</title>
+<title>RSUD SYAMRABU</title>
 <link href="https://fonts.googleapis.com/css?family=Roboto%3Aregular%2C400%2C700%2C900%7CExo%3A700%2C400%2C900" rel="stylesheet"><meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -98,8 +98,9 @@ img.emoji {
 <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede2d4?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="32x32" />
-<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="192x192" />
+
+<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
 <meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
 <script type="text/javascript">function setREVStartSize(e){
