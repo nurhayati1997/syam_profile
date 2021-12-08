@@ -1398,7 +1398,7 @@ Hydrafacial VI Peel </h3>
 <div class="elementor-element elementor-element-fb239ae elementor-invisible elementor-widget elementor-widget-image" data-id="fb239ae" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="921" height="577" src="../wp-content/uploads/2019/09/treatment.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/treatment.png 921w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/treatment-300x188.png 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/treatment-768x481.png 768w" sizes="(max-width: 921px) 100vw, 921px" /> </div>
+<img width="921" height="577" src="wp-content/uploads/2019/09/wakil.png" class="attachment-full size-full" alt="" loading="lazy" srcset="wp-content/uploads/2019/09/wakil.png 921w, wp-content/uploads/2019/09/treatment-300x188.png 300w, wp-content/uploads/2019/09/treatment-768x481.png 768w" sizes="(max-width: 921px) 100vw, 921px" /> </div>
 </div>
 </div>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-8e08c12 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e08c12" data-element_type="section">
