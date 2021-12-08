@@ -1004,7 +1004,7 @@ Elements </h3>
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
 <a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
-<img width="160" height="60" src="wp-content/uploads/2019/08/logo.png" class="attachment-full size-full" alt="" loading="lazy" />
+<img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
 <button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
