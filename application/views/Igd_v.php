@@ -433,7 +433,7 @@ Consultation </a>
 			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ranap');?>" class=" dropdown-item">Layanan Rawat Inap</a>
 				<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="<?php echo site_url('Rajal');?>" class=" dropdown-item">Layanan Penunjang</a>
+					<a href="<?php echo site_url('Penunjang');?>" class=" dropdown-item">Layanan Penunjang</a>
 			</ul>
 	</li>
 <!-- end pelayanan -->
