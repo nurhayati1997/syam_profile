@@ -453,7 +453,7 @@ Consultation </a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">RS Pendidikan</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="<?php echo site_url('Ppni');?>" class=" dropdown-item">PPNI</a>
+				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
 		</ul>
 	</li>
 <!-- end informasi -->

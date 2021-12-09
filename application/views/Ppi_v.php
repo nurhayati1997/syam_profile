@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:03 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:55 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
@@ -54,8 +54,8 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons8d5a.css?ver=2.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-2306-css' href='wp-content/uploads/elementor/css/post-230686bc.css?ver=1637149387' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href=wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1746-css' href='wp-content/uploads/elementor/css/post-1746f4bf.css?ver=1637149382' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CExo%3A300%2C300i%2C400%2C700%2C700i%2C900' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/medizco/assets/css/bootstrap.minb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
@@ -88,16 +88,17 @@ img.emoji {
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minb045.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/2306.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1746.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
 <meta name="generator" content="WooCommerce 5.9.0" />
 <link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexfdc3.html?p=2306' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed2652.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed5dd7?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdoctors%2F&amp;format=xml" />
+<link rel='shortlink' href='index807c.html?p=1746' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embede886.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede2d4?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
@@ -181,8 +182,10 @@ img.emoji {
     color: #f13a66 !important;
 }		</style>
 </head>
-<body class="home page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-2 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-2">
-<div class="medizco-preloder"><img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+
+<body class="page-template page-template-template page-template-template-page page-template-templatetemplate-page-php page page-id-1746 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-1746">
+<div class="medizco-preloder">
+	<img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
 <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
@@ -208,9 +211,7 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5">
 <span class="elementor-icon-list-text">
 	Informasi: (031) 6778907
 </span>
@@ -275,8 +276,8 @@ img.emoji {
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="../index.html">
-<img src="wp-content/uploads/elementor/thumbs/new.png" title="logo-2" alt="logo-2" /> </a>
+<a href="index.html">
+<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
 </div>
 </div>
 </div>
@@ -318,10 +319,10 @@ Consultation </a>
 </a>
 </li>
 <li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#1a777f7e736079755a7d777b737634797577">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#c2afa7a6abb8a1ad82a5afa3abaeeca1adaf">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="18557d7c71627b77587f75797174367b7775">[email&#160;protected]</span></span>
+<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="0a476f6e637069654a6d676b636624696567">[email&#160;protected]</span></span>
 </a>
 </li>
 <li class="elementor-icon-list-item">
@@ -396,7 +397,8 @@ Consultation </a>
 <div class="elementor-element elementor-element-a28ce9b medizco_logo elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="a28ce9b" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<a href="../index.html">
+<a href="index.html">
+<!-- logo besar -->
 <img src="wp-content/uploads/elementor/thumbs/new.png" title="logo" alt="logo" /> </a>
 </div>
 </div>
@@ -406,12 +408,17 @@ Consultation </a>
 <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"> <button class="elementskit-menu-hamburger elementskit-menu-toggler">
 <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
 </button>
+
 <!-- home -->
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
 		<li id="menu-item-2822" class="menu-item menu-item-type menu-item-object-page menu-item-1757 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Profile');?>" class="ekit-menu-nav-link">Home
 			</a>
+<!-- <ul class="elementskit-dropdown elementskit-submenu-panel">
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-174 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index.html" class=" dropdown-item active">Home Page 01</a> <li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-02/index.html" class=" dropdown-item">Home Page 02</a> <li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-03/index.html" class=" dropdown-item">Home Page 03</a> <li id="menu-item-4768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4768 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-4/index.html" class=" dropdown-item">Home Page 04</a> <li id="menu-item-4759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4759 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-5/index.html" class=" dropdown-item">Home Page 05</a> <li id="menu-item-4760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4760 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-6/index.html" class=" dropdown-item">Home Page 06</a> <li id="menu-item-4851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4851 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-one/index.html" class=" dropdown-item">Covid-19 One</a> <li id="menu-item-4852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4852 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-two/index.html" class=" dropdown-item">Covid-19 Two</a> <li id="menu-item-2638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-01/index.html" class=" dropdown-item">One Page 01</a> <li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-02/index.html" class=" dropdown-item">One Page 02</a> <li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-03/index.html" class=" dropdown-item">One Page 03</a></ul>
+</li> -->
+<!-- end home -->
 
 <!-- pelayanan -->
 <li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2823 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -423,7 +430,7 @@ Consultation </a>
 		<a href="<?php echo site_url('Unggulan');?>" class=" dropdown-item">Layanan Unggulan</a> 
 		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Igd');?>" class=" dropdown-item">Layanan Gawat Darurat</a> 
-			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+            <li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Rajal');?>" class=" dropdown-item">Layanan Rawat Jalan</a>
 			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ranap');?>" class=" dropdown-item">Layanan Rawat Inap</a>
@@ -444,7 +451,7 @@ Consultation </a>
 		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a>
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
+                <a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">RS Pendidikan</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -479,9 +486,10 @@ Consultation </a>
 			</ul>
 </li>
 <!-- end tab menu -->
+
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
-<a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
+<a class="elementskit-nav-logo" target="_self" rel="">
 <img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
@@ -514,609 +522,249 @@ Consultation </a>
 </div>
 </div>
 </section>
+
 </div>
 </div>
 </div>
 </div>
+<!-- under banner -->
 <div class="page_banner">
 <div class="page_banner_img">
-<img src="wp-content/uploads/2019/09/doctors-page-header-img.jpg" alt="Dokter">
-</div>
-<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
+<img src="wp-content/themes/medizco/assets/images/banner/page-banner-img.jpg" width="1920" height="400" class="w-100" alt="Clinical Thermometer"> </div>
+<div class="page_banner_content  overlay" style="background-image: url(wp-content/themes/medizco/assets/images/banner/page-banner-bg.png);">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-Informasi </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
-    <li class="curves left"></li>
-    <li class="curves right"></li>
-    <li><a href="https://wp.xpeedstudio.com/medizco">Daftar </a></li> 
-    <li class="seperator">-</li><li>Dokter</li></ul> </div>
+     Informasi
+<span> </span> </h1>
+<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center"><li class="curves left"></li><li class="curves right"></li>
+	<li><a>PPI</a></li> 
+	<li class="seperator">- RSUD SYAMRABU</li>
+</ul> 
 </div>
 </div>
-<div id="post-2306" class="page-contents post-2306 page type-page status-publish hentry" role="main">
+</div>
+
+
+<div id="post-1746" class="page-contents post-1746 page type-page status-publish hentry" role="main">
 <div class="builder-content">
-<div data-elementor-type="wp-page" data-elementor-id="2306" class="elementor elementor-2306" data-elementor-settings="[]">
+<div data-elementor-type="wp-post" data-elementor-id="1746" class="elementor elementor-1746" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-4663594 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4663594" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-a0bcc33 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0bcc33" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7964ac" data-id="f7964ac" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7082bd" data-id="f7082bd" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-64a510a elementor-widget elementor-widget-medizco-doctors" data-id="64a510a" data-element_type="widget" data-widget_type="medizco-doctors.default">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd53ad5 pricing_boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd53ad5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
-<div class="medizco_doctors medizco_doctors_filter" data-rtl="">
-<ul class="filter_nav d-flex flex-wrap justify-content-center">
-<li class="filter active" data-filter=".all-departments">All Departments</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-</ul>
-<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Doctor Visits &amp; Urgent Care </h3>
+</div>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<sup class="currency">$</sup>
+<span>15.00</span>
+<sub class="period"> Per Yearly</sub>
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Behind the word
 </li>
- <li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="elementor-repeater-item-f0737ea">
+mountains, far from the
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="elementor-repeater-item-24facbd">
+countries Vokalia and
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+ <li class="elementor-repeater-item-60f87bf">
+Consonantia, there live the
+</li>
+<li class="elementor-repeater-item-e87ba5d">
+blind texts.
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+<div class="elementskit-pricing-btn-wraper order-1">
+<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Harrison Samuel</h3>
-<p class="doctor_box_role">Cardiology</p>
 </div>
-<a href="../blog/doctor/harrison-samuel/index.html" class="doctor_box_link"></a>
+</div> </div>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Thomas Henry</h3>
-<p class="doctor_box_role">Dental</p>
 </div>
-<a href="../blog/doctor/thomas-henry/index.html" class="doctor_box_link"></a>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1294fd1" data-id="1294fd1" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-e33d343 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="e33d343" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Your Physician &amp; Specialists </h3>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<sup class="currency">$</sup>
+<span>25.00</span>
+<sub class="period"> Per Yearly</sub>
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Behind the word
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="elementor-repeater-item-f0737ea">
+mountains, far from the
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="elementor-repeater-item-24facbd">
+countries Vokalia and
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="elementor-repeater-item-60f87bf">
+Consonantia, there live the
+</li>
+<li class="elementor-repeater-item-e87ba5d">
+blind texts.
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+<div class="elementskit-pricing-btn-wraper order-1">
+<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">James Alexander</h3>
-<p class="doctor_box_role">Neurology</p>
 </div>
-<a href="../blog/doctor/james-alexander/index.html" class="doctor_box_link"></a>
+</div> </div>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Andrew Sebastian</h3>
-<p class="doctor_box_role">Pediatric</p>
 </div>
-<a href="../blog/doctor/andrew-sebastian/index.html" class="doctor_box_link"></a>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-78d2889" data-id="78d2889" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9ce9387 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="9ce9387" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Labs, X-Rays &amp; Screenings </h3>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<sup class="currency">$</sup>
+<span>35.00</span>
+<sub class="period"> Per Yearly</sub>
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Behind the word
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="elementor-repeater-item-f0737ea">
+mountains, far from the
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="elementor-repeater-item-24facbd">
+countries Vokalia and
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="elementor-repeater-item-60f87bf">
+Consonantia, there live the
+</li>
+<li class="elementor-repeater-item-e87ba5d">
+blind texts.
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+<div class="elementskit-pricing-btn-wraper order-1">
+<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Jack Barnes</h3>
-<p class="doctor_box_role">Polmonary</p>
 </div>
-<a href="../blog/doctor/jack-barnes/index.html" class="doctor_box_link"></a>
+</div> </div>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments traumatology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Gary Lynch</h3>
-<p class="doctor_box_role">Traumatology</p>
 </div>
-<a href="../blog/doctor/gary-lynch/index.html" class="doctor_box_link"></a>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-504ea35" data-id="504ea35" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1953ddc pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="1953ddc" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Emergency Room &amp; Coverage </h3>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments x-ray">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<sup class="currency">$</sup>
+<span>65.00</span>
+<sub class="period"> Per Yearly</sub>
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Behind the word
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
+<li class="elementor-repeater-item-f0737ea">
+mountains, far from the
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
+<li class="elementor-repeater-item-24facbd">
+countries Vokalia and
 </li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
+<li class="elementor-repeater-item-60f87bf">
+Consonantia, there live the
+</li>
+<li class="elementor-repeater-item-e87ba5d">
+blind texts.
 </li>
 </ul>
 </div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Michael Garrett</h3>
-<p class="doctor_box_role">X-Ray</p>
-</div>
-<a href="../blog/doctor/michael-garrett/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Steven Castillo</h3>
-<p class="doctor_box_role">Cardiology</p>
-</div>
-<a href="../blog/doctor/steven-castillo/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Ronald Munoz</h3>
-<p class="doctor_box_role">Dental</p>
-</div>
-<a href="../blog/doctor/ronald-munoz/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Craig Daniels</h3>
-<p class="doctor_box_role">Neurology</p>
-</div>
-<a href="../blog/doctor/craig-daniels/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Austin Shaw</h3>
-<p class="doctor_box_role">Pediatric</p>
-</div>
-<a href="../blog/doctor/austin-shaw/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Paul Stanley</h3>
-<p class="doctor_box_role">Polmonary</p>
-</div>
-<a href="../blog/doctor/paul-stanley/index.html" class="doctor_box_link"></a>
-</div>
-</div></div> </div>
+<div class="elementskit-pricing-btn-wraper order-1">
+<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
 </div>
 </div>
+</div> </div>
+</div>
+</div>
+ </div>
+</div>
+</div>
+</div>
+</section>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
-<!-- del -->
+
+
 
 
 </div>
 </div>
 </div>
- </div>
 </div>
-
+</div>
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
@@ -1184,13 +832,13 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-includes/js/wp-embed.min080f.js?ver=5.8.2' id='wp-embed-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb045.js?ver=3.4.8' id='elementor-webpack-runtime-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.minb045.js?ver=3.4.8' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='wp/content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6' id='swiper-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minb045.js?ver=3.4.8' id='share-link-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2306,"title":"Doctors%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1746,"title":"Pricing%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minb045.js?ver=3.4.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0' id='animate-circle-js'></script>
@@ -1206,9 +854,9 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 var MPTT = {"table_class":"mptt-shortcode-table"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
+<script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
 </body>
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/doctors/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:23:07 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:57 GMT -->
 </html>
