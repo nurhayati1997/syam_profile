@@ -473,7 +473,7 @@ Consultation </a>
 	</a>
 	<ul class="elementskit-dropdown elementskit-submenu-panel">
 		<li id="menu-item-4610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4610 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="blog/index.html" class=" dropdown-item">Visi MIsi</a> 
+			<a href="<?php echo site_url('Vimi');?>" class=" dropdown-item">Visi MIsi</a> 
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="blog/2019/08/30/hospital-doctors-examine-patients-so-that/index.html" class=" dropdown-item">Struktur Rumah Sakit</a>
 			
