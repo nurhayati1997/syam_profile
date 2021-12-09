@@ -521,6 +521,25 @@ Consultation </a>
 </div>
 </div>
 </div>
+
+<!-- banner -->
+<div class="page_banner">
+<div class="page_banner_img">
+<img src="wp-content/uploads/2019/09/doctor-single-header-img.jpg" alt="Dokter">
+</div>
+<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
+<div class="container d-lg-flex justify-content-between">
+<h1 class="page_banner_title">
+Pelayanan </h1>
+<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
+    <li class="curves left"></li>
+    <li class="curves right"></li>
+    <li><a href="https://wp.xpeedstudio.com/medizco">Layanan </a></li> 
+    <li class="seperator">-</li><li>Gawat Darurat</li></ul> </div>
+</div>
+</div>
+
+
 <div id="post-1152" class="home-page-contents post-1152 page type-page status-publish hentry" role="main">
 <div class="builder-content">
 <div data-elementor-type="wp-post" data-elementor-id="1152" class="elementor elementor-1152" data-elementor-settings="[]">
