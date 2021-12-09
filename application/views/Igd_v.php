@@ -457,7 +457,7 @@ Consultation </a>
 
 <!-- pengaduan -->
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-	<a href="shop/index.html" class="ekit-menu-nav-link">Pengaduan</a></li>
+	<a href="<?php echo site_url('Pengaduan');?>" class="ekit-menu-nav-link">Pengaduan</a></li>
 <!-- end pengaduan -->
 
 <!-- laporan -->
