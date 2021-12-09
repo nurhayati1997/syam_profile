@@ -505,7 +505,7 @@ Consultation </a>
 	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 		<a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a> 
 		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="Kegitan" class=" dropdown-item">Kegiatan</a></ul>
+			<a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a></ul>
 	</li>
 <!-- end informasi -->
 

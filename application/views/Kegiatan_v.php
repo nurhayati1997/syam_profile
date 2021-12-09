@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:55 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 04:20:18 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
@@ -10,8 +10,8 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto%3Aregular%2C400%2C700%2C900%7CExo%3A700%2C400%2C900" rel="stylesheet"><meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Medizco &raquo; Comments Feed" href="comments/feed/index.html" />
 <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -54,8 +54,8 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons8d5a.css?ver=2.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href=wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1746-css' href='wp-content/uploads/elementor/css/post-1746f4bf.css?ver=1637149382' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2-css' href='wp-content/uploads/elementor/css/post-22fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CExo%3A300%2C300i%2C400%2C700%2C700i%2C900' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/medizco/assets/css/bootstrap.minb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
@@ -88,20 +88,23 @@ img.emoji {
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minb045.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1746.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/2.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
 <meta name="generator" content="WooCommerce 5.9.0" />
 <link rel="canonical" href="index.html" />
-<link rel='shortlink' href='index807c.html?p=1746' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embede886.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede2d4?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F&amp;format=xml" />
+<link rel='shortlink' href='index.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embeddda0.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed539f?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-
+<!-- ICON BAR -->
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
+
+<!-- <link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="192x192" /> -->
+<link rel="apple-touch-icon" href="wp-content/uploads/2019/08/new.png" />
 <meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
 <script type="text/javascript">function setREVStartSize(e){
 			//window.requestAnimationFrame(function() {				 
@@ -182,10 +185,8 @@ img.emoji {
     color: #f13a66 !important;
 }		</style>
 </head>
-
-<body class="page-template page-template-template page-template-template-page page-template-templatetemplate-page-php page page-id-1746 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-1746">
-<div class="medizco-preloder">
-	<img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+<body class="home page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-2 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-2">
+<div class="medizco-preloder"><img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
 <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
@@ -211,7 +212,9 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
 	Informasi: (031) 6778907
 </span>
@@ -224,17 +227,16 @@ img.emoji {
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="elementor-icon-list-items  elementor-inline-items">
 <div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="../index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
+<a target=_blank rel="" href="index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
 <div class="ekit_page_list_content">
 <span class="elementor-icon-list-icon">
-<i class="icon icon-online-shopping-cart" aria-hidden="true"></i>
+<!-- <i class="icon icon-online-shopping-cart" aria-hidden="true"></i> -->
 </span>
 <span class="elementor-icon-list-text">
 <span class="ekit_page_list_title_title"> </span>
 </span>
 </div>
-<span class="ekit_menu_label">
-3 </span>
+<!-- <span class="ekit_menu_label"> 3 </span> -->
 </a>
 </div>
 </div>
@@ -285,7 +287,7 @@ img.emoji {
 <div class="elementor-widget-container">
 <h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
 </div>
-<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
+ <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <div class="elementor-text-editor elementor-clearfix">
 <p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
@@ -319,10 +321,10 @@ Consultation </a>
 </a>
 </li>
 <li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#c2afa7a6abb8a1ad82a5afa3abaeeca1adaf">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#670a02030e1d040827000a060e0b4904080a">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="0a476f6e637069654a6d676b636624696567">[email&#160;protected]</span></span>
+<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="4e032b2a27342d210e29232f2722602d2123">[email&#160;protected]</span></span>
 </a>
 </li>
 <li class="elementor-icon-list-item">
@@ -398,6 +400,7 @@ Consultation </a>
 <div class="elementor-widget-container">
 <div class="elementor-image">
 <a href="index.html">
+<!-- <img src="wp-content/uploads/elementor/thumbs/logo-og82mvyh801z9kcnxkd4t5ljyynyfx2a46zcxahjdk.png" title="logo" alt="logo" /> </a> -->
 <!-- logo besar -->
 <img src="wp-content/uploads/elementor/thumbs/new.png" title="logo" alt="logo" /> </a>
 </div>
@@ -408,7 +411,6 @@ Consultation </a>
 <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"> <button class="elementskit-menu-hamburger elementskit-menu-toggler">
 <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
 </button>
-
 <!-- home -->
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
@@ -430,7 +432,7 @@ Consultation </a>
 		<a href="<?php echo site_url('Unggulan');?>" class=" dropdown-item">Layanan Unggulan</a> 
 		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Igd');?>" class=" dropdown-item">Layanan Gawat Darurat</a> 
-            <li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Rajal');?>" class=" dropdown-item">Layanan Rawat Jalan</a>
 			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ranap');?>" class=" dropdown-item">Layanan Rawat Inap</a>
@@ -439,6 +441,60 @@ Consultation </a>
 			</ul>
 	</li>
 <!-- end pelayanan -->
+
+
+
+
+
+<!-- layanan penunjang -->
+<!-- <li id="menu-item-4621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4621 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
+	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Penunjang
+		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
+	</a>
+	<ul class="elementskit-dropdown elementskit-submenu-panel">
+		<li id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+			<a href="doctors/index.html" class=" dropdown-item">Radiologi</a> 
+			<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Laboratorium PK</a>
+				<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+					<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Laboratorium PA</a>
+					<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+						<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Farmasi</a>
+						<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+							<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Kemoterapi</a>
+							<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+								<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Gizi</a>
+								<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+									<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">CSSD/LINEN</a>
+									<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+										<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Pemulasaran Jenazah</a>
+										<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+											<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Ambulance</a>
+	</ul>
+</li> -->
+<!-- END PENUNJANG -->
+
+<!-- layanan Unggulan -->
+<!-- <li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2823 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
+	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Layanan Unggulan
+		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
+	</a>
+	<ul class="elementskit-dropdown elementskit-submenu-panel">
+	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+		<a href="about/index.html" class=" dropdown-item">Home Care</a> 
+		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+			<a href="pricing/index.html" class=" dropdown-item">Ampibi</a> 
+			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="appointment/index.html" class=" dropdown-item">BERSEMA</a>
+				<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+					<a href="appointment/index.html" class=" dropdown-item">TAROMAH</a>
+					<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+						<a href="appointment/index.html" class=" dropdown-item">PPE</a>
+						<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+							<a href="appointment/index.html" class=" dropdown-item">Akta Gratis</a>
+			</ul>
+	</li> -->
+<!-- end layanan unggulan -->
 
 <!-- informasi -->
 <li id="menu-item-4620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4620 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -475,15 +531,481 @@ Consultation </a>
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="blog/2019/08/30/hospital-doctors-examine-patients-so-that/index.html" class=" dropdown-item">Struktur Rumah Sakit</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-                <a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
+				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				
 			</ul>
 </li>
 <!-- end tab menu -->
 
+
+<!-- elements -->
+<!-- <li id="menu-item-2305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2305 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-megamenu-has elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#" class="ekit-menu-nav-link">Elements<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a><ul class="elementskit-megamenu-panel"> <div data-elementor-type="wp-post" data-elementor-id="2817" class="elementor elementor-2817" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-5a1a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a1a" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10c5" data-id="10c5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-1b3c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1b3c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-570c" data-id="570c" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4ce0 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="4ce0" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+
+<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  text-center">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-home1"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+Home Pages </h3>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-67ab2bd elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="67ab2bd" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="index.html" class="elementor-repeater-item-162722f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Home Page 01</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="home-page-02/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Home Page 02</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="home-page-03/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Home Page 03</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-3a62c36 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="3a62c36" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+
+<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  text-center">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-scroll-button"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+One Pages </h3>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-a0b8196 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="a0b8196" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="one-page-01/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">One Page 01</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="one-page-02/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">One Page 02</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="one-page-03/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">One Page 03</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-34d1" data-id="34d1" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5b36 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="5b36" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+
+<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  text-center">
+<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-file-1"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+Pages </h3>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-f3d9a70 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="f3d9a70" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="about/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">About</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="contact/index.html" class="elementor-repeater-item-66bb753 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Contact</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="pricing/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Pricing</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="appointment/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Appointment</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="department/index.html" class="elementor-repeater-item-9c8a46b ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Department</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="doctors/index.html" class="elementor-repeater-item-90de2a8 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Doctors</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="doctor/harrison-samuel/index.html" class="elementor-repeater-item-5a42529 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Doctor Details</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="services/index.html" class="elementor-repeater-item-e050ddf ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Services</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="service/trauma-intensive-care/index.html" class="elementor-repeater-item-da98d32 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Service Details</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-74c2" data-id="74c2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-300caa5 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="300caa5" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> 
+
+<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  text-center">
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-ek_line_icon"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+Elements </h3>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-1023f4d elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="1023f4d" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/accordion/index.html" class="elementor-repeater-item-bd30e8c ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Accordion</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/blog/index.html" class="elementor-repeater-item-bd1c857 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Blog</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/client-logo/index.html" class="elementor-repeater-item-a8cdf07 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Client Logos</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/count-down-timer/index.html" class="elementor-repeater-item-4221c7f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Count Down Timer</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/faq/index.html" class="elementor-repeater-item-5ce886c ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">FAQ</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/fun-fact/index.html" class="elementor-repeater-item-b5330e6 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Fun Fact</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/icon-box/index.html" class="elementor-repeater-item-3a65c89 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Icon Box</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/tab/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Tab</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/team/index.html" class="elementor-repeater-item-c0c5d39 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Team</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-792f" data-id="792f" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-051f994 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="051f994" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/image-accordion/index.html" class="elementor-repeater-item-bd30e8c ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Image Accordion</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/image-box/index.html" class="elementor-repeater-item-410a4e7 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Image Box</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/progress-bar/index.html" class="elementor-repeater-item-a9ee8b3 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Progress Bar</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/testimonial/index.html" class="elementor-repeater-item-318c4ff ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Testimonial</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/pie-chart/index.html" class="elementor-repeater-item-447fab7 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Pie Chart</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/pricing/index.html" class="elementor-repeater-item-81f418f ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Pricing</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/forms/index.html" class="elementor-repeater-item-a75ebdc ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Forms</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/image-comparison/index.html" class="elementor-repeater-item-bf0c587 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Image Comparison</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/gallery/index.html" class="elementor-repeater-item-931996c ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Gallery</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/video/index.html" class="elementor-repeater-item-10ba7f1 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Video</span>
+</span>
+</div>
+</a>
+</div>
+<div class="elementor-icon-list-item   ">
+<a target=_blank rel="" href="elements/call-to-action/index.html" class="elementor-repeater-item-e598426 ekit_badge_left">
+<div class="ekit_page_list_content">
+<span class="elementor-icon-list-text">
+<span class="ekit_page_list_title_title">Call To Action</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</ul></li>
+</ul> -->
+<!-- end -->
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
-<a class="elementskit-nav-logo" target="_self" rel="">
+<a class="elementskit-nav-logo"  target="_self" rel="">
 <img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
 </a>
 </div>
@@ -516,240 +1038,158 @@ Consultation </a>
 </div>
 </div>
 </section>
+</div>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
-</div>
-<!-- under banner -->
+<!-- banner -->
 <div class="page_banner">
 <div class="page_banner_img">
-<img src="wp-content/themes/medizco/assets/images/banner/page-banner-img.jpg" width="1920" height="400" class="w-100" alt="Clinical Thermometer"> </div>
-<div class="page_banner_content  overlay" style="background-image: url(wp-content/themes/medizco/assets/images/banner/page-banner-bg.png);">
+<img src="wp-content/uploads/2019/09/doctors-page-header-img.jpg" alt="Dokter">
+</div>
+<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-     Pelayanan
-<span> </span> </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center"><li class="curves left"></li><li class="curves right"></li>
-	<li><a>Layanan</a></li> 
-	<li class="seperator">- Unggulan</li>
-</ul> 
-</div>
+Informasi </h1>
+<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
+    <li class="curves left"></li>
+    <li class="curves right"></li>
+    <li><a href="https://wp.xpeedstudio.com/medizco">Kegiatan </a></li> 
+    <li class="seperator">-</li><li>RSUD</li></ul> </div>
 </div>
 </div>
 
-
-<div id="post-1746" class="page-contents post-1746 page type-page status-publish hentry" role="main">
+<div id="post-2" class="home-page-contents post-2 page type-page status-publish hentry" role="main">
 <div class="builder-content">
-<div data-elementor-type="wp-post" data-elementor-id="1746" class="elementor elementor-1746" data-elementor-settings="[]">
+<div data-elementor-type="wp-post" data-elementor-id="2" class="elementor elementor-2" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-a0bcc33 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0bcc33" data-element_type="section">
+
+
+<!-- list -->
+<section class="elementor-section elementor-top-section elementor-element elementor-element-77bccca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bccca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7082bd" data-id="f7082bd" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8728104" data-id="8728104" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd53ad5 pricing_boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd53ad5" data-element_type="section">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4338bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4338bb" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-980d41f" data-id="980d41f" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bce3e8" data-id="3bce3e8" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Doctor Visits &amp; Urgent Care </h3>
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Informasi Kegitan
+</h2> <div class='ekit-heading__description'>
+<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
 </div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>15.00</span>
-<sub class="period"> Per Yearly</sub>
-</span>
-</div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
- <li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
+</div></div> </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1294fd1" data-id="1294fd1" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7927b41 elementor-hidden-tablet elementor-hidden-phone" data-id="7927b41" data-element_type="column">
+<div class="elementor-column-wrap">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e33d343 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="e33d343" data-element_type="widget" data-widget_type="elementskit-pricing.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Your Physician &amp; Specialists </h3>
-</div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>25.00</span>
-<sub class="period"> Per Yearly</sub>
-</span>
-</div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-78d2889" data-id="78d2889" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-9ce9387 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="9ce9387" data-element_type="widget" data-widget_type="elementskit-pricing.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Labs, X-Rays &amp; Screenings </h3>
-</div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>35.00</span>
-<sub class="period"> Per Yearly</sub>
-</span>
-</div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-504ea35" data-id="504ea35" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1953ddc pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="1953ddc" data-element_type="widget" data-widget_type="elementskit-pricing.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Emergency Room &amp; Coverage </h3>
-</div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>65.00</span>
-<sub class="period"> Per Yearly</sub>
-</span>
-</div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
- </div>
-</div>
-</div>
-</div>
-</section>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
+
+<div class="elementor-element elementor-element-5c5f752 elementor-widget elementor-widget-elementskit-blog-posts" data-id="5c5f752" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div id="post-items--5c5f752" class="row post-items">
+	<div class="col-lg-4 col-md-6">
+		<div class="elementskit-post-image-card">
+			<div class="elementskit-entry-header">
+				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
+					<img src="wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
+				</a>
+				<div class="elementskit-meta-lists elementskit-style-tag">
+					<div class="elementskit-single-meta ">
+						<span class="elementskit-meta-wraper">
+							<strong>20</strong>Aug
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="elementskit-post-body ">
+				<div class="post-meta-list">
+					<span class="meta-author">
+						<i aria-hidden="true" class="icon icon-user"></i>
+						<a href="blog/author/medizco/index.html" class="author-name">Medizco</a>
+					</span>
+					<span class="post-cat">
+						<i aria-hidden="true" class="icon icon-folder"></i>
+						<a href="blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> 
+					</span>
+				</div>
+				<h2 class="entry-title">
+					<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
+						Result is a regal and trust worthy look that 
+					</a>
+				</h2>
+			</div>
+		</div>	
+	</div>
+
+	<div class="col-lg-4 col-md-6">
+		<div class="elementskit-post-image-card">
+			<div class="elementskit-entry-header">
+				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
+					<img src="wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
+				</a>
+				<div class="elementskit-meta-lists elementskit-style-tag">
+					<div class="elementskit-single-meta ">
+						<span class="elementskit-meta-wraper">
+							<strong>20</strong>Aug
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="elementskit-post-body ">
+				<div class="post-meta-list">
+					<span class="meta-author">
+						<i aria-hidden="true" class="icon icon-user"></i>
+						<a href="blog/author/medizco/index.html" class="author-name">Medizco</a>
+					</span>
+					<span class="post-cat">
+						<i aria-hidden="true" class="icon icon-folder"></i>
+						<a href="blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> 
+					</span>
+				</div>
+				<h2 class="entry-title">
+					<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
+						hdfhgjyjtf
+					</a>
+				</h2>
+			</div>
+		</div>	
+	</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
 </div>
 </div>
 </div>
@@ -758,10 +1198,10 @@ Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
-&copy; 2021, Medizco. All Rights Reserved. </div>
+&copy; 2021, Creat By. IT RSUD SYAMRABU </div>
 </div>
 </div>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 			window.RS_MODULES = window.RS_MODULES || {};
 			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
 			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
@@ -769,6 +1209,7 @@ Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700%2C700italic%7CRoboto:400%7CExo:700%2C500&amp;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css">
 <script type="text/javascript">
 		(function () {
 			var c = document.body.className;
@@ -776,13 +1217,24 @@ Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
 			document.body.className = c;
 		})();
 	</script>
+<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="wp-content/plugins/revslider/public/assets/fonts/revicons/revicons90c6.woff?5510888" type="font/woff" crossorigin="anonymous" media="all" />
+<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0" media="all" />
+<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
 <link rel='stylesheet' id='elementor-post-212-css' href='wp-content/uploads/elementor/css/post-2122fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-2817-css' href='wp-content/uploads/elementor/css/post-28172fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2980-css' href='wp-content/uploads/elementor/css/post-29802fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='flatpickr-css' href='wp-content/plugins/metform/public/assets/css/flatpickr.min7976.css?ver=1.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-ui-css' href='wp-content/plugins/metform/public/assets/css/metform-ui7976.css?ver=1.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-style-css' href='wp-content/plugins/metform/public/assets/css/style7976.css?ver=1.5.6' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-widget-styles-pro-css' href='wp-content/themes/medizco/assets/css/widget-styles-prob2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minb045.css?ver=3.4.8' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/rs6069c.css?ver=6.5.8' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
+		.banner_caption_text > .rs_splitted_lines,.banner_caption_text > .rs_splitted_lines > .rs_splitted_words,.banner_caption_text > .rs_splitted_lines > .rs_splitted_words > .rs_splitted_chars{text-decoration:inherit}.banner-btn > i[class^="fa-"]{margin-left:5px;  font-size:20px;  vertical-align:-2px}@media (min-width:778px) and (max-width:1200px){.banner_img img{float:right;  max-width:480px !important}}@media (max-width:777px){.banner_img img{display:block;  width:50% !important;  margin-left:auto;  margin-right:auto}}.tparrows.custom{width:60px !important;  height:60px !important;  border:1px solid rgba(255,255,255,0.2); background-color:rgba(255,255,255,0.1) !important;  -webkit-transition:all .25s ease-in-out;  transition:all .25s ease-in-out}.tparrows.custom:hover{border-color:#fff;  background-color:#fff !important}.tparrows.custom:hover:before{color:#558dca !important}.tparrows.custom:before{font-size:24px !important;  line-height:60px !important}
+		#rev_slider_4_1_wrapper .custom.tparrows{cursor:pointer;background:#000;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:1000}#rev_slider_4_1_wrapper .custom.tparrows.rs-touchhover{background:#000}#rev_slider_4_1_wrapper .custom.tparrows:before{font-family:'revicons';font-size:15px;color:#fff;display:block;line-height:40px;text-align:center}#rev_slider_4_1_wrapper .custom.tparrows.tp-leftarrow:before{content:'\e824'}#rev_slider_4_1_wrapper .custom.tparrows.tp-rightarrow:before{content:'\e825'}
 </style>
 <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min069c.js?ver=6.5.8' defer async id='tp-tools-js'></script>
 <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.min069c.js?ver=6.5.8' defer async id='revmin-js'></script>
@@ -820,15 +1272,32 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/slick.minb2d8.js?ver=2.8' id='slick-js'></script>
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/scriptb2d8.js?ver=2.8' id='medizco-script-js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min080f.js?ver=5.8.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='wp-content/plugins/metform/public/assets/js/htm7976.js?ver=1.5.6' id='htm-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/vendor/lodash.minf492.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='wp-includes/js/dist/vendor/regenerator-runtime.minb36a.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/vendor/react.mincd00.js?ver=16.13.1' id='react-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/vendor/react-dom.mincd00.js?ver=16.13.1' id='react-dom-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/escape-html.minc6f4.js?ver=dcba9e40e8782c7d5883426934834b3e' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='wp-includes/js/dist/element.min9eb4.js?ver=43a121e875f299c637e1115581bee905' id='wp-element-js'></script>
+<script type='text/javascript' id='metform-app-js-extra'>
+/* <![CDATA[ */
+var mf = {"postType":"page","restURI":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-json\/metform\/v1\/forms\/views\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/metform/public/assets/js/app7976.js?ver=1.5.6' id='metform-app-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb045.js?ver=3.4.8' id='elementor-webpack-runtime-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.minb045.js?ver=3.4.8' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='wp/content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6' id='swiper-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minb045.js?ver=3.4.8' id='share-link-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1746,"title":"Pricing%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2,"title":"Medizco","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minb045.js?ver=3.4.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0' id='animate-circle-js'></script>
@@ -846,7 +1315,66 @@ var MPTT = {"table_class":"mptt-shortcode-table"};
 </script>
 <script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
 <script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
+<script type="text/javascript" id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi4;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider41"] = {once: RS_MODULES.modules["revslider41"]!==undefined ? RS_MODULES.modules["revslider41"].once : undefined, init:function() {
+			window.revapi4 = window.revapi4===undefined || window.revapi4===null || window.revapi4.length===0  ? document.getElementById("rev_slider_4_1") : window.revapi4;
+			if(window.revapi4 === null || window.revapi4 === undefined || window.revapi4.length==0) { window.revapi4initTry = window.revapi4initTry ===undefined ? 0 : window.revapi4initTry+1; if (window.revapi4initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider41"].init()}); return;}
+			window.revapi4 = jQuery(window.revapi4);
+			if(window.revapi4.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_4_1"); return;}
+			revapi4.revolutionInit({
+					revapi:"revapi4",
+					visibilityLevels:"1240,1240,778,480",
+					gridwidth:"1240,1240,778,480",
+					gridheight:"750,750,760,500",
+					lazyType:"smart",
+					spinner:"spinner0",
+					perspectiveType:"local",
+					editorheight:"750,768,760,500",
+					responsiveLevels:"1240,1240,778,480",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						mouseScrollNavigation:false,
+						onHoverStop:false,
+						touch: {
+							touchenabled:true,
+							touchOnDesktop:true
+						},
+						arrows: {
+							enable:true,
+							style:"custom",
+							left: {
+								h_align:"right",
+								h_offset:0,
+								v_offset:-31
+							},
+							right: {
+								h_offset:0,
+								v_offset:31
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
 </body>
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:57 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 04:21:06 GMT -->
 </html>
