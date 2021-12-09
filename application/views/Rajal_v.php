@@ -98,8 +98,8 @@ img.emoji {
 <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed8540?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fdepartment%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="32x32" />
-<link rel="icon" href="wp-content/uploads/2019/08/favicon.png" sizes="192x192" />
+<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
 <meta name="msapplication-TileImage" content="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/favicon.png" />
 <script type="text/javascript">function setREVStartSize(e){
