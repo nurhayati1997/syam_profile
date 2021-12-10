@@ -1237,7 +1237,7 @@ Jumlah Jejaring
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
-&copy; 2021, Medizco. All Rights Reserved. </div>
+&copy; 2021, Creat By. IT RSUD SYAMRABU </div>
 </div>
 </div>
 <script type="text/javascript">
