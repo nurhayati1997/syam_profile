@@ -1057,150 +1057,105 @@ Elements </h3>
 <div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-Informasi </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
-    <li class="curves left"></li>
-    <li class="curves right"></li>
-    <li><a href="https://wp.xpeedstudio.com/medizco">Berita </a></li> 
-    <li class="seperator">-</li><li>RSUD</li></ul> </div>
+Perawatan Pasca Operasi Hernia </h1>
+</div>
 </div>
 </div>
 
-<div id="post-2" class="home-page-contents post-2 page type-page status-publish hentry" role="main">
-<div class="builder-content">
-<div data-elementor-type="wp-post" data-elementor-id="2" class="elementor elementor-2" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
+<div id="main-content" class="main-container blog-single" role="main">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-12">
+<article id="post-916" class="post-content post-single post-916 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+<div class="post-media post-image">
+<img width="800" height="490" src="wp-content/uploads/2019/08/berita01.jpg" class="img-fluid" alt="Hospital doctors examine patients so that" loading="lazy" srcset="wp-content/uploads/2019/08/berita01.jpg 800w, wp-content/uploads/2019/08/berita01.jpg 300w, wp-content/uploads/2019/08/berita01.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
+<div class="post-body clearfix">
 
+<header class="entry-header clearfix">
+<div class="post-meta">
+<span class="post-meta-date">
+<i class="fa fa-clock-o"></i>
+Desember 13, 2021</span><span class="meta-categories post-cat">
+<i class="fa fa-folder"></i>
+<a rel="category tag">RSUD SYAMRABU</a>
+</span> <span class="post-comment"><i class="fa fa-comment"></i><a href="#" class="comments-link"></a>0</span> </div>
+</header>
 
-<!-- list -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-77bccca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bccca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8728104" data-id="8728104" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4338bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4338bb" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-980d41f" data-id="980d41f" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bce3e8" data-id="3bce3e8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-News &amp; Blog
-</h2> <div class='ekit-heading__description'>
-<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7927b41 elementor-hidden-tablet elementor-hidden-phone" data-id="7927b41" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+<div class="entry-content clearfix">
+<p>Penyembuhan penderita penyakit hernia dapat dilakukan dengan operasi. Namun, yang tidak kalah penting yaitu perawatan yang benar dan tepat pasca operasi sehingga bisa lebih cepat sembuh.</p>
+<p>Perawat Bedah RSUD Syamrabu Taufik Qurrohman menjelaskan, hernia merupakan kondisi ketika organ tubuh menonjol keluar akibat melemahnya jaringan ikat sehingga tidak mampu menahan organ tersebut. Biasanya ditandai dengan adanya benjolan yang hilang atau timbul di bagian tubuh tertentu. ”Seperti perut, pusar, atau selangkangan,” terangnya kemarin (12/11).</p>
+<p>Hernia tidak selalu berbahaya. Namun jika benjolan itu semakin besar dan nyeri, biasanya akan disarankan untuk operasi. Yakni dengan teknik bedah terbuka atau laparoskopi.</p>
+<p>Sebagian besar penderita hernia dapat kembali beraktivitas normal dalam waktu 1–2 minggu setelah operasi. Namun, hal itu bergantung pada kondisi fisik, jenis operasi, dan perawatan pasca pembedahan. ”Perawatan yang benar dapat mempercepat pemulihan dan mencegah terjadinya komplikasi,” jelasnya.</p>
+<p>Menurut Taufik, ada beberapa tips yang dapat dilakukan untuk mempercepat pemulihan pascaoperasi bagi pasien yang menderita hernia. Yakni, memperbanyak makanan berserat dan menjaga asupan gizi.</p>
+<p>”Jenis makanan yang disarankan adalah makanan kaya serat seperti kacang-kacangan, sereal, buah-buahan, kentang, dan brokoli,” ujarnya</p>
+<p>Kemudian, penting memperbanyak konsumsi air putih. Minimal delapan sampai sepuluh gelas per hari. Selanjutnya, harus berjalan dan bergerak. Tetapi, tidak melakukan gerakan olahraga berat. Lalu, melakukan perawatan luka secara tepat. Misalnya, mengganti perban secara rutin. Terakhir konsupsi obat sesuai resep dokter.</p>
+<p>Biasanya, pasien yang menderita penyakit hernia akan merasakan nyeri beberapa minggu setelah operasi. Untuk meredakan nyeri itu, dapat dilakukan dengan mengonsumsi obat seperti Paracetamol, Ibuprofen, atau obat antinyeri lainnya.</p>
+<p>Taufik menambahkan, ada beberapa hal yang perlu dihindari pascaopersi. Di antaranya, tidak boleh mengangkat beban berat, mandi dengan cara berendam, dan tidak boleh merokok. Kemudian, dianjurkan tidak berhubungan seksual, tidak boleh mengonsumsi alkohol. Juga harus menghindari penggunaan pakaian yang ketat.</p>
+<p>”Perawatan yang tepat pascaoperasi memperkecil risiko komplikasi dan membuat pemulihan lebih cepat. Ikutilah petunjuk dokter mengenai cara merawat luka operasi,” imbaunya. </p>
+<div class="post-footer clearfix">
+</div> 
+</div> 
+</div> 
+</article>
 
-<div class="elementor-element elementor-element-5c5f752 elementor-widget elementor-widget-elementskit-blog-posts" data-id="5c5f752" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div id="post-items--5c5f752" class="row post-items">
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita01.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>13</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">Taufik Qurrohman Perawat Bedah</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita13_12');?>">
-					Perawatan Pasca Operasi Hernia 
-					</a>
-				</h2>
-			</div>
-		</div>	
+<!-- <nav class="post-navigation clearfix">
+<div class="post-previous">
+<a href="../the-website-of-the-royal-melbourne-hospital/index.html">
+<h3>The website of the Royal Melbourne Hospital</h3>
+<span><i class="fa fa-long-arrow-left"></i>Previous post</span>
+</a>
+</div>
+<div class="post-next">
+</div>
+</nav> -->
+<div id="comments" class="blog-post-comment">
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small>
+			<a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small>
+		</h3>
+		<form action="https://wp.xpeedstudio.com/medizco/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+			<p class="comment-notes">
+				<span id="email-notes"></span>  
+				<span class="required"></span></p><div class="comment-info row"><div class="col-md-6">
+					
 	</div>
 
-	<!-- <div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>20</strong>Aug
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a href="blog/author/medizco/index.html" class="author-name">Medizco</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a href="blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
-						hdfhgjyjtf
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div> -->
 </div>
-</div> </div>
+ </div>
 </div>
+</div> 
+<div class="col-lg-4 col-md-12">
+<aside id="sidebar" class="sidebar" role="complementary">
+<div id="search-2" class="widget widget_search">
+<form method="get" action="https://wp.xpeedstudio.com/medizco/" class="medizco-serach xs-search-group">
+<div class="input-group">
+<input type="search" class="form-control" name="s" placeholder="Search" value="">
+<button class="input-group-btn search-button"><i class="fa fa-search"></i></button>
 </div>
+</form></div>
+<div id="recent-posts-2" class="widget widget_recent_entries">
+<h3 class="widget-title">Recent Posts</h3>
+<ul>
+<li>
+<a href="<?php echo site_url('berita13_12');?>" aria-current="page">Perawatan Pasca Operasi Hernia</a>
+</li>
+<li>
+<!-- <a href="../the-website-of-the-royal-melbourne-hospital/index.html">The website of the Royal Melbourne Hospital</a> -->
+</li>
+<li>
+<!-- <a href="../../20/result-is-a-regal-and-trust-worthy-look-that/index.html">Result is a regal and trust worthy look that</a> -->
+</li>
+</ul>
+</div><div id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>
+<ul>
+<li><a>Desember 2021</a></li>
+</ul>
+</div> </aside> 
 </div>
-</div>
-</div>
-</div>
-</section>
+</div> 
+</div> 
+</div> 
 
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
