@@ -630,7 +630,7 @@ Tentang Kami </h1>
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
 Struktur RSUD SYAMRABU BANGKALAN
 </h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
+<p>Kami Berkomitmen Untuk Mewujudkan Visi MIsi Kami</p>
 </div>
 </div></div> </div>
 </div>
@@ -651,42 +651,24 @@ Struktur RSUD SYAMRABU BANGKALAN
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-1.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/struktur.jpg" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
 <div class="profile-icon">
 <i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
 <h2 class="profile-title">
 Grace Amelia </h2>
 <p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
+</div> -->
+
+
 </div>
 </div> </div>
 </div>
@@ -738,9 +720,9 @@ Sumberdaya di Lingkungan RSUD SYAMRABU Bangkalan
 </div>
 <div class="funfact-content">
 <div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
+<span class="number-percentage" data-value="566" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">NAKES</p> </div>
 </div>
 </div>
 </div> </div>
@@ -761,9 +743,9 @@ Sumberdaya di Lingkungan RSUD SYAMRABU Bangkalan
 </div>
 <div class="funfact-content">
 <div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
+<span class="number-percentage" data-value="27" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">STRUKTURAL</p> </div>
 </div>
 </div>
 </div> </div>
@@ -784,9 +766,9 @@ Sumberdaya di Lingkungan RSUD SYAMRABU Bangkalan
 </div>
 <div class="funfact-content">
 <div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
+<span class="number-percentage" data-value="469" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">NON NAKES</p> </div>
 </div>
 </div>
 </div> </div>
@@ -806,11 +788,11 @@ Sumberdaya di Lingkungan RSUD SYAMRABU Bangkalan
 <div class="elementor-element elementor-element-f7705a5 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="f7705a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:800}" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="tel:212-600-4274" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="tel:081288151616" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-icon elementor-align-icon-left">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-button-text">Call 212-600-4274</span>
+<span class="elementor-button-text">Pengaduan 081288151616</span>
 </span>
 </a>
 </div>
