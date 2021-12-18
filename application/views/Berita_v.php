@@ -1094,12 +1094,16 @@ Informasi </h1>
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-News &amp; Blog
-</h2> <div class='ekit-heading__description'>
-<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
-</div>
-</div></div> </div>
+<div class="ekit-wid-con">
+	<div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
+		<h2 class="ekit-heading--title elementskit-section-title ">
+			News &amp; Blog
+		</h2> 
+		<div class='ekit-heading__description'>
+			<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
+		</div>
+	</div>
+</div> </div>
 </div>
 </div>
 </div>

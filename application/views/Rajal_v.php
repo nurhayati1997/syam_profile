@@ -542,6 +542,18 @@ Pelayanan </h1>
 
 	
 <section class="elementor-section elementor-top-section elementor-element elementor-element-0418256 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0418256" data-element_type="section">
+
+<div class="ekit-wid-con">
+	<div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
+		<h2 class="ekit-heading--title elementskit-section-title ">
+			Jadwal Poli & Dokter Spesialis
+		</h2> 
+		<!-- <div class='ekit-heading__description'>
+			<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
+		</div> -->
+	</div>
+</div>
+
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b9b6bd" data-id="2b9b6bd" data-element_type="column">
@@ -558,25 +570,108 @@ Pelayanan </h1>
     </tr>
   </thead>
   <tbody>
+	<!-- Jantung -->
     <tr>
-      <td rowspan="3">JANTUNG & PEMBULUH DARAH</td>
+      <td rowspan="3">JANTUNG <br> & <br> PEMBULUH DARAH</td>
       <td>dr. Suryo Ardi Hutomo, Sp. JP</td>
       <td>Senin, Sabtu, Selasa, Jum’at</td>
-      <td rowspan="3">Pagi, Sore</td>
+      <td rowspan="3">Pagi, <br> Sore</td>
       <td>-</td>
     </tr>
     <tr>
-      <!-- <th scope="row">2</th> -->
       <td>dr. Ayu Diajeng, Sp. JP</td>
       <td>Selasa, Jum’at, Rabu </td>
       <td>-</td>
     </tr>
     <tr>
-      <!-- <th scope="row">3</th> -->
       <td>dr. Liemena Harold, Sp. JP</td>
       <td>Rabu, Kamis, Senin, Kamis </td>
       <td>-</td>
     </tr>
+
+	<!-- Orthopedi -->
+	<tr>
+      <td rowspan="2">ORTHPEDI</td>
+      <td>dr. Agung Tristianto.Sp.OT</td>
+      <td>Senin, Rabu, Jum’at</td>
+      <td rowspan="2">Pagi</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>dr.Ida Bagus Adi Prayoga, Sp.OT</td>
+      <td>Selasa, Kamis </td>
+      <td>-</td>
+    </tr>
+    
+	<!-- Bedah Umum -->
+	<tr>
+      <td rowspan="3">BEDAH UMUM</td>
+      <td>dr. Nurul Hidayat, Msi. Med, Sp. B</td>
+      <td>Senin, Selasa, Kamis</td>
+      <td rowspan="2">Pagi</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>dr. Subchan Aga Bachtiar, Sp. B</td>
+      <td>Rabu, Jum’at, Sabtu</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>dr. Yusfik Helmi Hidayat, Sp. B</td>
+      <td>Senin s/d Jum’at </td>
+      <td>Sore</td>
+      <td>Sore Jam 14.00 s/d Selesai</td>
+    </tr>
+
+	<!-- ANESTESI -->
+	<tr>
+	  <td>ANESTESI</td>
+      <td>dr. Bernard Taufan Suhaimi, Sp. An</td>
+      <td>Senin s/d Jum’at </td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- Dalam -->
+	<tr>
+      <td rowspan="6">DALAM</td>
+      <td>dr. Rosida Fajariya, Sp. PD</td>
+      <td>Selasa, Kamis</td>
+      <td>Pagi</td>
+      <td> Jam 08.30 – 12.00</td>
+    </tr>
+    <tr>
+      <td>dr. Yasmita Rahajeng, Sp. PD</td>
+      <td>Senin, Rabu, Jum’at</td>
+      <td>Pagi</td>
+	  <td> {Senin & Rabu} Jam 08.30 – 12.00
+		  <br> {Jumat} Jam 08.30 – 11.00
+	  </td>
+    </tr>
+    <tr>
+      <td>dr. Donny Valiandra, Sp. PD</td>
+      <td>Senin, Kamis </td>
+      <td>Sore</td>
+      <td rowspan="3">Senin s/d Kamis <br>Sore 
+	  	<br>Jam 14.00 s/d Selesai
+	  </td>
+    </tr>
+	<tr>
+      <td>dr. Annisa Zahra Mufida, Sp. PD</td>
+      <td>Rabu  </td>
+      <td>Sore</td>
+	</tr>
+	<tr>
+      <td rowspan="2">dr. Khorotul Ummah, Sp. PD</td>
+      <td>Selasa  </td>
+      <td>Sore</td>
+	</tr>
+	<tr>
+	  <td>Sabtu  </td>
+      <td>Pagi</td>
+      <td>Jam 08.30 – 12.00</td>
+	</tr>
+
   </tbody>
 </table>
 
