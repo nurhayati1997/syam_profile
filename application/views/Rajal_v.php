@@ -672,6 +672,82 @@ Pelayanan </h1>
       <td>Jam 08.30 – 12.00</td>
 	</tr>
 
+	<!-- saraf -->
+	<tr>
+      <td rowspan="2">SARAF</td>
+      <td>dr. Ferry Setiabudi, Sp. S</td>
+      <td>Senin s/d Sabtu </td>
+      <td rowspan="2">Pagi</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>dr. Zainal Abidin, Sp. S</td>
+      <td>Senin, Selasa, Rabu</td>
+      <td>-</td>
+    </tr>
+
+	<!--GERIATRI -->
+	<tr>
+      <td rowspan="4">GERIATRI</td>
+      <td>dr. Khorotul Ummah, Sp. PD</td>
+      <td>Senin</td>
+      <td rowspan="4"><br><br>Pagi</td>
+      <td rowspan="4">
+		  Senin, Selasa, Rabu, Kamis, 
+		  <br>dan Sabtu Pagi 
+		  <br>Jam 08.30 – 12.00
+		  <br>
+		  <br>
+		  <br>
+		  Jum’at Pagi 
+		  <br>Jam 08.30 – 11.00
+	  </td>
+    </tr>
+    <tr>
+      <td>dr. Yasmita Rahajeng, Sp. PD</td>
+      <td>Kamis</td>
+    </tr>
+    <tr>
+      <td>dr. Annisa Zahra Mufida, Sp. PD</td>
+      <td>Jum’at</td>
+    </tr>
+    <tr>
+      <td>dr. Khorotul Ummah, Sp. PD</td>
+      <td>Senin</td>
+    </tr>
+
+	<!-- REHAB (FISIOTERAPI) -->
+	<tr>
+	  <td>REHAB <br> (FISIOTERAPI)</td>
+      <td>dr. Nuryatien Husna, Sp. KFR</td>
+      <td>Senin, Selasa, Rabu, Jum’at </td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- UROLOGI -->
+	<tr>
+      <td rowspan="2">UROLOGI</td>
+      <td>dr. Ari Alauddin Mauwdudi, Sp. U, M. Ked. Klin.</td>
+      <td>Selasa, Kamis, Jum’at </td>
+      <td rowspan="2">Pagi</td>
+      <td rowspan="2">-</td>
+    </tr>
+    <tr>
+      <td>dr. Ido Putra Ramadhan, Sp. U.</td>
+      <td>Senin, Rabu, Sabtu</td>
+    </tr>
+
+	<!-- BEDAH ONKOLOGI -->
+	<tr>
+	  <td>BEDAH  <br> ONKOLOGI</td>
+      <td>dr. Anang Mufti S, Sp. B(K)Onk</td>
+      <td>Sabtu </td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+
   </tbody>
 </table>
 
