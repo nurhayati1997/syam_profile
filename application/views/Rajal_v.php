@@ -747,6 +747,183 @@ Pelayanan </h1>
       <td>-</td>
     </tr>
 
+	<!-- Anak -->
+	<tr>
+      <td rowspan="2"><br><br>ANAK</td>
+      <td>dr. Indah Sulistyani, Sp. A</td>
+      <td>Senin, Selasa, Kamis  </td>
+      <td rowspan="2">Pagi</td>
+      <td rowspan="2">-</td>
+    </tr>
+    <tr>
+      <td>dr. ShierlyFerlina, M.Ked.Klin, Sp. A</td>
+      <td>Rabu, Jum’at, Sabtu</td>
+    </tr>
+
+	<!-- KULIT KELAMIN -->
+	<tr>
+	  <td>KULIT  <br> KELAMIN</td>
+      <td>dr. Tewu KL Walangare, Sp. KK</td>
+      <td>Senin s/d Jum’at </td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- PARU -->
+	<tr>
+	  <td>PARU</td>
+      <td>dr. H. Andri Eko Purnomo, Sp. P</td>
+      <td>Senin s/d Kamis</td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- MATA -->
+	<tr>
+	  <td>MATA</td>
+      <td>dr. Fitria Romadiana, Sp. M (K)</td>
+      <td>Senin, Jum’at, Sabtu</td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- THT -->
+	<tr>
+      <td rowspan="3"><br><br> THT</td>
+      <td>dr. Hj. Ima Wiryani, Sp. THT</td>
+      <td>Rabu</td>
+      <td rowspan="3">Pagi</td>
+      <td rowspan="3">-</td>
+    </tr>
+    <tr>
+      <td>dr. Endang Fitri M, Sp. THT-KL</td>
+      <td>Senin, Selasa, Kamis</td>
+    </tr>
+    <tr>
+      <td>dr. Indah Yuliarini, Sp. THT-KL</td>
+      <td>Jum’at, Sabtu</td>
+    </tr>
+
+	<!-- OBGYN -->
+	<tr>
+      <td rowspan="4"><br><br> OBGYN</td>
+      <td>dr. H. Mulyadi Amanullah, Sp. OG</td>
+      <td>Senin, Selasa</td>
+      <td rowspan="4">Pagi</td>
+      <td rowspan="4">-</td>
+    </tr>
+    <tr>
+      <td>dr. Hj. Ummu Hanik, Sp. OG</td>
+      <td>Rabu, Kamis</td>
+    </tr>
+    <tr>
+      <td>dr. Desak Ketut Ayu Aryani, Sp. OG</td>
+      <td>Jum’at</td>
+    </tr>
+    <tr>
+      <td>dr. Nur Waqiah, Sp. OG, M. Kes</td>
+      <td>Sabtu</td>
+    </tr>
+
+	<!-- GIGI -->
+	<tr>
+      <td rowspan="6"><br><br><br><br><br><br> GIGI</td>
+      <td>drg. Metaria S., Sp. Perio</td>
+      <td>Senin s/d Kamis</td>
+      <td rowspan="6">Pagi</td>
+      <td rowspan="6">-</td>
+    </tr>
+    <tr>
+      <td>drg. Fairuza Afada, Sp. KG</td>
+      <td>Senin s/d Kamis</td>
+    </tr>
+    <tr>
+      <td>drg. Hamida Yusuf</td>
+      <td>Senin s/d Jum’at</td>
+    </tr>
+    <tr>
+      <td>drg. Soniya Mayasari</td>
+      <td>Senin, Selasa, Jum’at, Sabtu</td>
+    </tr>
+    <tr>
+      <td>drg. Fakhma Zakki Ramadhani, Sp. Ort</td>
+      <td>Senin, Rabu, Jum’at</td>
+    </tr>
+    <tr>
+      <td>drg. Hery Supriadi, Sp. BM</td>
+      <td>Sabtu</td>
+    </tr>
+
+	<!-- BEDAH SYARAF -->
+	<tr>
+	  <td>BEDAH <br>SYARAF</td>
+      <td>dr. Indra Damayanti, Sp. Bs</td>
+      <td>Jum’at, Sabtu</td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- TB DOTS -->
+	<tr>
+	  <td>TB DOTS</td>
+      <td>dr. H. Andri Eko Purnomo, Sp. P</td>
+      <td>Senin s/d Kamis</td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
+
+	<!-- VCT -->
+	<tr>
+      <td rowspan="3"><br><br> VCT</td>
+      <td>dr. Khorotul Ummah, Sp. PD</td>
+      <td>senin, Rabu</td>
+      <td rowspan="3">Pagi</td>
+      <td rowspan="3">Senin s/d Kamis 
+		  <br> Pagi 
+		  <br> Jam 08.30 – 12.00
+	  </td>
+    </tr>
+    <tr>
+      <td>dr. Yasmita Rahajeng, Sp. PD</td>
+      <td>Selasa</td>
+    </tr>
+    <tr>
+      <td>dr. Rosida Fajariya, Sp. PD</td>
+      <td>Kamis</td>
+    </tr>
+
+	<!-- GCU (GENERAL CHECK UP) -->
+	<tr>
+      <td rowspan="2">GCU 
+		  <br>(GENERAL CHECK UP)
+	  </td>
+      <td>dr. Yulia Mayasin</td>
+      <td>Senin, Rabu, Sabtu</td>
+      <td rowspan="2">Pagi</td>
+      <td rowspan="2">-</td>
+    </tr>
+    <tr>
+      <td>dr. Sri Wahyu Utami</td>
+      <td>Selasa, Kamis, Jum’at</td>
+    </tr>
+
+	<!-- JIWA -->
+	<tr>
+	  <td>JIWA</td>
+      <td>dr. Indra Damayanti, Sp. Bs</td>
+      <td>Senin dan Sabtu</td>
+      <td>Pagi, Sore</td>
+      <td>-</td>
+    </tr>
+
+	<!-- DIAGNOSTIK SARAF -->
+	<tr>
+	  <td>DIAGNOSTIK <br>SARAF</td>
+      <td>dr. Zainal Abidin, Sp. S</td>
+      <td>Senin s/d Jum’at</td>
+      <td>Pagi</td>
+      <td>-</td>
+    </tr>
 
   </tbody>
 </table>
