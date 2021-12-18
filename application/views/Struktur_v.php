@@ -815,7 +815,7 @@ Sumberdaya di Lingkungan RSUD SYAMRABU Bangkalan
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-0868337 mx-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="0868337" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">We are pleased to offer you the chance to have the healthy</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Kesehatan Anda Adalah KOmitmen Kami</h2> </div>
 </div>
 <div class="elementor-element elementor-element-cad8247 medizco_video_btn elementor-invisible elementor-widget elementor-widget-elementskit-video" data-id="cad8247" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="elementskit-video.default">
 <div class="elementor-widget-container">
