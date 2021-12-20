@@ -548,22 +548,22 @@ Informasi </h1>
 <div class="elementor-widget-container">
 <div class="medizco_doctors medizco_doctors_filter" data-rtl="">
 <ul class="filter_nav d-flex flex-wrap justify-content-center">
-<li class="filter active" data-filter=".all-departments">All Departments</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
-<li class="filter " data-filter=".cardiology">Cardiology</li>
+<li class="filter active" data-filter=".all-departments">Semua Poli</li>
+<li class="filter " data-filter=".jantung">Jantung & Pembuluh Darah</li>
+<li class="filter " data-filter=".orthopedi">Orthopedi</li>
+<li class="filter " data-filter=".bedah_umum">Bedah Umum</li>
+<li class="filter " data-filter=".anestesi">Anestesi</li>
+<li class="filter " data-filter=".dalam">Dalam</li>
+<li class="filter " data-filter=".saraf">Saraf</li>
+<li class="filter " data-filter=".geriatri">Geriatri</li>
+<li class="filter " data-filter=".rehab">Rehab</li>
+<li class="filter " data-filter=".uro">Urologi</li>
+<li class="filter " data-filter=".bedah_onkologi">Bedah Onkologi</li>
+<li class="filter " data-filter=".anak">Anak</li>
+<li class="filter " data-filter=".kulit">Kulit Kelamin</li>
+<li class="filter " data-filter=".paru">Paru</li>
+<li class="filter " data-filter=".mata">Mata</li>
+<li class="filter " data-filter=".tht">THT</li>
 <li class="filter " data-filter=".dental">Dental</li>
 <li class="filter " data-filter=".neurology">Neurology</li>
 <li class="filter " data-filter=".pediatric">Pediatric</li>
@@ -571,95 +571,514 @@ Informasi </h1>
 <li class="filter " data-filter=".traumatology">Traumatology</li>
 <li class="filter " data-filter=".x-ray">X-Ray</li>
 </ul>
-<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
+<!-- suryo -->
+<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments jantung">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
- <li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Suryo.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Suryo.jpg 255w, wp-content/uploads/spesialis/dr.Suryo.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
-
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Harrison Samuel</h3>
-<p class="doctor_box_role">Cardiology</p>
+<h3 class="doctor_box_title">dr. Suryo Ardi Hutomo, Sp. JP</h3>
+<p class="doctor_box_role">Jantung & Pembuluh Darah</p>
 </div>
-<a href="../blog/doctor/harrison-samuel/index.html" class="doctor_box_link"></a>
+<a class="doctor_box_link"></a>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
 </div>
 
+
+
+<!-- dr.ayu -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments jantung">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ayu.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ayu.jpg 255w, wp-content/uploads/spesialis/dr.Ayu.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Thomas Henry</h3>
-<p class="doctor_box_role">Dental</p>
+<h3 class="doctor_box_title">dr. Ayu Diajeng, Sp. JP</h3>
+<p class="doctor_box_role">Jantung & Pembuluh Darah</p>
 </div>
-<a href="../blog/doctor/thomas-henry/index.html" class="doctor_box_link"></a>
+<a  class="doctor_box_link"></a>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
+</div>
+
+<!-- dr.harold -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments jantung">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.harold.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.harold.jpg 255w, wp-content/uploads/spesialis/dr.harold.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Liemena Harold, Sp. JP</h3>
+<p class="doctor_box_role">Jantung & Pembuluh Darah</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr.Agung -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments orthopedi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Agung.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Agung.jpg 255w, wp-content/uploads/spesialis/dr.Agung.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Agung Tristianto.Sp.OT</h3>
+<p class="doctor_box_role">Orthopedi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr.ida -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments orthopedi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ida.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ida.jpg 255w, wp-content/uploads/spesialis/dr.Ida.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr.Ida Bagus Adi Prayoga, Sp.OT</h3>
+<p class="doctor_box_role">Orthopedi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr.yayak -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_umum">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Nurul.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Nurul.jpg 255w, wp-content/uploads/spesialis/dr.Nurul.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Nurul Hidayat, Msi. Med, Sp. B</h3>
+<p class="doctor_box_role">Bedah Umum</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr.aga -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_umum">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Aga.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Aga.jpg 255w, wp-content/uploads/spesialis/dr.Aga.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Subchan Aga Bachtiar, Sp. B</h3>
+<p class="doctor_box_role">Bedah Umum</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+
+<!-- dr.yusfik -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_umum">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Yusfik.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Yusfik.jpg 255w, wp-content/uploads/spesialis/dr.Yusfik.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Yusfik Helmi Hidayat, Sp. B</h3>
+<p class="doctor_box_role">Bedah Umum</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr.bernard -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments anestesi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Bernard.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Bernard.jpg 255w, wp-content/uploads/spesialis/dr.Bernard.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Bernard Taufan Suhaimi, Sp. An</h3>
+<p class="doctor_box_role">Anestesi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. rosida -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Rosida.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Rosida.jpg 255w, wp-content/uploads/spesialis/dr.Rosida.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Rosida Fajariya, Sp. PD</h3>
+<p class="doctor_box_role">Dalam</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. yasmita -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Yasmita.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Yasmita.jpg 255w, wp-content/uploads/spesialis/dr.Yasmita.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Yasmita Rahajeng, Sp. PD</h3>
+<p class="doctor_box_role">Dalam & Geriatri</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. donny -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Donny Valiandra, Sp. PD</h3>
+<p class="doctor_box_role">Dalam & Geriatri</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. annisa -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Annisa Zahra Mufida, Sp. PD</h3>
+<p class="doctor_box_role">Dalam & Geriatri</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. ummah -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ummah.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ummah.jpg 255w, wp-content/uploads/spesialis/dr.Ummah.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Khorotul Ummah, Sp. PD</h3>
+<p class="doctor_box_role">Dalam & Geriatri</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. fery -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments saraf">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Fery.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Fery.jpg 255w, wp-content/uploads/spesialis/dr.Fery.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Ferry Setiabudi, Sp. S</h3>
+<p class="doctor_box_role">Saraf</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. zainal -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments saraf">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Zainal Abidin, Sp. S</h3>
+<p class="doctor_box_role">Saraf</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. nuryatin -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments rehab">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Nuryatien.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Nuryatien.jpg 255w, wp-content/uploads/spesialis/dr.Nuryatien.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Nuryatien Husna, Sp. KFR</h3>
+<p class="doctor_box_role">Rehab (Fisioterapi)</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. ari -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments uro">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Ari Alauddin Mauwdudi, Sp. U, M. Ked. Klin.</h3>
+<p class="doctor_box_role">Urologi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. ido -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments uro">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Ido Putra Ramadhan, Sp. U.</h3>
+<p class="doctor_box_role">Urologi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. ido -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_onkologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Anang Mufti S, Sp. B(K)Onk</h3>
+<p class="doctor_box_role">Bedah Onkologi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. indah -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments anak">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Indah.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Indah.jpg 255w, wp-content/uploads/spesialis/dr.Indah.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Indah Sulistyani, Sp. A</h3>
+<p class="doctor_box_role">Anak</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. serly -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments anak">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Shirley.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Shirley.jpg 255w, wp-content/uploads/spesialis/dr.Shirley.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. ShierlyFerlina, M.Ked.Klin, Sp. A</h3>
+<p class="doctor_box_role">Anak</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. tewu -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kulit">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Tewu.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Tewu.jpg 255w, wp-content/uploads/spesialis/dr.Tewu.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Tewu KL Walangare, Sp. KK</h3>
+<p class="doctor_box_role">Kulit Kelamin</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. andri -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments paru">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Andri.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Andri.jpg 255w, wp-content/uploads/spesialis/dr.Andri.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. H. Andri Eko Purnomo, Sp. P</h3>
+<p class="doctor_box_role">Paru & TB Dots</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. fitria -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments mata">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Fitria Romadiana, Sp. M (K)</h3>
+<p class="doctor_box_role">Mata</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. fitria -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments tht">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ima.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ima.jpg 255w, wp-content/uploads/spesialis/dr.Ima.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Hj. Ima Wiryani, Sp. THT</h3>
+<p class="doctor_box_role">THT</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. endang -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments tht">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Endang Fitri M, Sp. THT-KL</h3>
+<p class="doctor_box_role">THT</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. indah -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments tht">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Yuliarini.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Yuliarini.jpg 255w, wp-content/uploads/spesialis/dr.Yuliarini.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Indah Yuliarini, Sp. THT-KL</h3>
+<p class="doctor_box_role">THT</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -747,226 +1166,6 @@ YouTube </span>
 </div>
 <a href="../blog/doctor/andrew-sebastian/index.html" class="doctor_box_link"></a>
 </div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Jack Barnes</h3>
-<p class="doctor_box_role">Polmonary</p>
-</div>
-<a href="../blog/doctor/jack-barnes/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments traumatology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Gary Lynch</h3>
-<p class="doctor_box_role">Traumatology</p>
-</div>
-<a href="../blog/doctor/gary-lynch/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments x-ray">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Michael Garrett</h3>
-<p class="doctor_box_role">X-Ray</p>
-</div>
-<a href="../blog/doctor/michael-garrett/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Steven Castillo</h3>
-<p class="doctor_box_role">Cardiology</p>
-</div>
-<a href="../blog/doctor/steven-castillo/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Ronald Munoz</h3>
-<p class="doctor_box_role">Dental</p>
-</div>
-<a href="../blog/doctor/ronald-munoz/index.html" class="doctor_box_link"></a>
-</div>
 </div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
 <div class="doctor_box">
 <div class="doctor_box_img">
@@ -1010,50 +1209,6 @@ YouTube </span>
 <p class="doctor_box_role">Neurology</p>
 </div>
 <a href="../blog/doctor/craig-daniels/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
-
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Austin Shaw</h3>
-<p class="doctor_box_role">Pediatric</p>
-</div>
-<a href="../blog/doctor/austin-shaw/index.html" class="doctor_box_link"></a>
 </div>
 </div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
 <div class="doctor_box">

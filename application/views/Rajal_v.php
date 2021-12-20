@@ -704,6 +704,10 @@ Pelayanan </h1>
 	  </td>
     </tr>
     <tr>
+      <td>dr. Donny Valiandra, Sp. PD</td>
+      <td>Selasa, Rabu</td>
+    </tr>
+    <tr>
       <td>dr. Yasmita Rahajeng, Sp. PD</td>
       <td>Kamis</td>
     </tr>
@@ -711,10 +715,7 @@ Pelayanan </h1>
       <td>dr. Annisa Zahra Mufida, Sp. PD</td>
       <td>Jum’at</td>
     </tr>
-    <tr>
-      <td>dr. Khorotul Ummah, Sp. PD</td>
-      <td>Senin</td>
-    </tr>
+    
 
 	<!-- REHAB (FISIOTERAPI) -->
 	<tr>
