@@ -564,12 +564,14 @@ Informasi </h1>
 <li class="filter " data-filter=".paru">Paru</li>
 <li class="filter " data-filter=".mata">Mata</li>
 <li class="filter " data-filter=".tht">THT</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Neurology</li>
-<li class="filter " data-filter=".pediatric">Pediatric</li>
-<li class="filter " data-filter=".polmonary">Polmonary</li>
-<li class="filter " data-filter=".traumatology">Traumatology</li>
-<li class="filter " data-filter=".x-ray">X-Ray</li>
+<li class="filter " data-filter=".obgyn">Obgyn</li>
+<li class="filter " data-filter=".gigi">Gigi</li>
+<li class="filter " data-filter=".bedah_saraf">Bedah Saraf</li>
+<li class="filter " data-filter=".tb">TB DOTS</li>
+<li class="filter " data-filter=".vct">VCT</li>
+<li class="filter " data-filter=".gcu">GCU (General Check Up</li>
+<li class="filter " data-filter=".jiwa">Jiwa</li>
+<li class="filter " data-filter=".d_saraf">Diagnostik Saraf</li>
 </ul>
 <!-- suryo -->
 <div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments jantung">
@@ -737,7 +739,7 @@ Informasi </h1>
 </div>
 
 <!-- dr. rosida -->
-<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam">
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam vct">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/spesialis/dr.Rosida.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Rosida.jpg 255w, wp-content/uploads/spesialis/dr.Rosida.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -748,14 +750,14 @@ Informasi </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">dr. Rosida Fajariya, Sp. PD</h3>
-<p class="doctor_box_role">Dalam</p>
+<p class="doctor_box_role">Dalam & VCT</p>
 </div>
 <a  class="doctor_box_link"></a>
 </div>
 </div>
 
 <!-- dr. yasmita -->
-<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri vct">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/spesialis/dr.Yasmita.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Yasmita.jpg 255w, wp-content/uploads/spesialis/dr.Yasmita.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -766,7 +768,7 @@ Informasi </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">dr. Yasmita Rahajeng, Sp. PD</h3>
-<p class="doctor_box_role">Dalam & Geriatri</p>
+<p class="doctor_box_role">Dalam, VCT & Geriatri</p>
 </div>
 <a  class="doctor_box_link"></a>
 </div>
@@ -809,7 +811,7 @@ Informasi </h1>
 </div>
 
 <!-- dr. ummah -->
-<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri">
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dalam geriatri vct">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ummah.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ummah.jpg 255w, wp-content/uploads/spesialis/dr.Ummah.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -820,7 +822,7 @@ Informasi </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">dr. Khorotul Ummah, Sp. PD</h3>
-<p class="doctor_box_role">Dalam & Geriatri</p>
+<p class="doctor_box_role">Dalam, VCT & Geriatri</p>
 </div>
 <a  class="doctor_box_link"></a>
 </div>
@@ -845,7 +847,7 @@ Informasi </h1>
 </div>
 
 <!-- dr. zainal -->
-<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments saraf">
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments saraf d_saraf">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -989,7 +991,7 @@ Informasi </h1>
 </div>
 
 <!-- dr. andri -->
-<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments paru">
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments paru tb">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/spesialis/dr.Andri.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Andri.jpg 255w, wp-content/uploads/spesialis/dr.Andri.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
@@ -1073,6 +1075,240 @@ Informasi </h1>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">dr. Indah Yuliarini, Sp. THT-KL</h3>
 <p class="doctor_box_role">THT</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. mul -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments obgyn">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Muljadi.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Muljadi.jpg 255w, wp-content/uploads/spesialis/dr.Muljadi.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. H. Mulyadi Amanullah, Sp. OG</h3>
+<p class="doctor_box_role">Obgyn</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. ummu -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments obgyn">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ummu.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ummu.jpg 255w, wp-content/uploads/spesialis/dr.Ummu.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Hj. Ummu Hanik, Sp. OG</h3>
+<p class="doctor_box_role">Obgyn</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. desak -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments obgyn">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Desak.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Desak.jpg 255w, wp-content/uploads/spesialis/dr.Desak.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Desak Ketut Ayu Aryani, Sp. OG</h3>
+<p class="doctor_box_role">Obgyn</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. nur -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments obgyn">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.Nur.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Nur Waqiah, Sp. OG, M. Kes</h3>
+<p class="doctor_box_role">Obgyn</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. meta -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Metaria.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Metaria.jpg 255w, wp-content/uploads/spesialis/dr.Metaria.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Metaria S., Sp. Perio</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. fauruza -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Fairuza.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Fairuza.jpg 255w, wp-content/uploads/spesialis/dr.Fairuza.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Fairuza Afada, Sp. KG</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. hamida -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Hamida Yusuf</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. soniya -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Soniya Mayasari</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. fakhma -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Fakhma Zakki Ramadhani, Sp. Ort</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. hery -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">drg. Hery Supriadi, Sp. BM</h3>
+<p class="doctor_box_role">Gigi</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. indra -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_saraf jiwa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Indra Damayanti, Sp. Bs</h3>
+<p class="doctor_box_role">Bedah Saraf</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. yulia -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gcu">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Yulia Mayasin</h3>
+<p class="doctor_box_role">GCU (General Check Up)</p>
+</div>
+<a  class="doctor_box_link"></a>
+</div>
+</div>
+
+<!-- dr. sri -->
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gcu">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Sri.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Sri.jpg 255w, wp-content/uploads/spesialis/dr.Sri.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">dr. Sri Wahyu Utami</h3>
+<p class="doctor_box_role">GCU (General Check Up)</p>
 </div>
 <a  class="doctor_box_link"></a>
 </div>
