@@ -886,7 +886,7 @@ Informasi </h1>
 <div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments uro">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ari.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ari.png 255w, wp-content/uploads/spesialis/dr.Ari.png" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
 <div class="doctor_box_icon">
@@ -904,7 +904,7 @@ Informasi </h1>
 <div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments uro">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.Ido.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.Ido.png 255w, wp-content/uploads/spesialis/dr.Ido.png" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
 <div class="doctor_box_icon">
