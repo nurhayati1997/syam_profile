@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Web Profile RS
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
