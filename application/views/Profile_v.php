@@ -269,6 +269,7 @@ img.emoji {
 <div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
@@ -277,101 +278,27 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
- <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
+
+
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
+<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
+Admin </a>
 </div>
 </div> </div>
 </div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#670a02030e1d040827000a060e0b4904080a">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="4e032b2a27342d210e29232f2722602d2123">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
+
+
+
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
+
+
 </div>
 </div>
 </div>
@@ -390,6 +317,7 @@ Consultation </a>
 </div>
 </div>
 </section>
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-2e7172a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e7172a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
