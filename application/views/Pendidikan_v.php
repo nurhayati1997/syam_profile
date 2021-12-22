@@ -631,7 +631,7 @@ Informasi </h1>
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
 Jejaring RS Satelit
 </h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
+<p>Kami Berkomitmen Untuk Mewujudkan Visi MIsi Kami</p>
 </div>
 </div></div> </div>
 </div>
@@ -651,7 +651,7 @@ Jejaring RS Satelit
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
@@ -659,34 +659,10 @@ Jejaring RS Satelit
 <div class="ekit-wid-con">
 <div class="profile-card elementor-animation- text-center ekit-team-style-default">
 <div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-1.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Grace Amelia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/jejaring.png" class="attachment-medium size-medium" alt="" /> </div>
+
+
 </div>
 </div> </div>
 </div>
@@ -727,7 +703,7 @@ Praktik Dokter
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_1.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_1.png 645w, wp-content/uploads/2019/10/igd_1.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -743,8 +719,8 @@ Praktik Dokter
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Pelayanan Triase </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -769,8 +745,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Resutasi </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -779,7 +755,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_2.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_2.png 645w, wp-content/uploads/2019/10/igd_2.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -793,7 +769,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_3.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_3.png 645w, wp-content/uploads/2019/10/igd_3.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -808,8 +784,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Observasi </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -836,8 +812,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Tempat Tidur </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -846,52 +822,19 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_4.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_4.png 645w, wp-content/uploads/2019/10/igd_4.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<!-- GAMBAR SERVICE 2 -->
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<!-- targeted 3 -->
-
-</div>
-</div>
 
 
+
+
+</div>
+</div>
 <!-- 6 GAMBAR -->
 
 <div class="elementor-container elementor-column-gap-no">
@@ -903,7 +846,7 @@ Skin Rejuvenation 2</h3>
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_5.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_5.png 645w, wp-content/uploads/2019/10/igd_5.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -919,8 +862,8 @@ Skin Rejuvenation 2</h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Bed Tambahan </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -945,8 +888,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Ponek </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -955,7 +898,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_6.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_6.png 645w, wp-content/uploads/2019/10/igd_6.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -969,7 +912,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_7.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_7.png 645w, wp-content/uploads/2019/10/igd_7.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -984,8 +927,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Petugas Medis & Paramedis </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -1012,8 +955,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Depo Obat</h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -1022,42 +965,8 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_8.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_8.png 645w, wp-content/uploads/2019/10/igd_8.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-
-<!-- GAMBAR SERVICE 2 -->
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
 </div>
 </div>
 </div>
@@ -1065,9 +974,6 @@ Skin Rejuvenation 2</h3>
 
 
 
-</div>
-</div>
-<!-- 6 GAMBAR -->
 
 </section>
 <!-- end jenis pelayanan IGD -->

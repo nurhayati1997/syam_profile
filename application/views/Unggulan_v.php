@@ -567,32 +567,20 @@ Consultation </a>
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Doctor Visits &amp; Urgent Care </h3>
+<h3 class=" elementskit-pricing-title"> BERSEMA </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>15.00</span>
-<sub class="period"> Per Yearly</sub>
+<!-- <sup class="currency">$</sup> -->
+<span>Senin <br> - <br>Sabtu</span>
+<sub class="period"> Jam Kerja</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
- <li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Bersalin Sehat Antar Sampai Rumah
 </li>
 </ul>
 </div>
@@ -614,32 +602,20 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Your Physician &amp; Specialists </h3>
+<h3 class=" elementskit-pricing-title">TAROMAH</h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>25.00</span>
-<sub class="period"> Per Yearly</sub>
+<!-- <sup class="currency">$</sup> -->
+<span>Senin <br> - <br>Sabtu</span>
+<sub class="period"> Jam Kerja</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Antar Obat Sampai Rumah
 </li>
 </ul>
 </div>
@@ -661,32 +637,19 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Labs, X-Rays &amp; Screenings </h3>
+<h3 class=" elementskit-pricing-title">HOME CARE</h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>35.00</span>
-<sub class="period"> Per Yearly</sub>
+<span>Senin <br> - <br>Sabtu</span>
+<sub class="period"> Jam Kerja</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Perawatan Rawat Jalan di Rumah
 </li>
 </ul>
 </div>
@@ -708,32 +671,19 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Emergency Room &amp; Coverage </h3>
+<h3 class=" elementskit-pricing-title">AMPIBI </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>65.00</span>
-<sub class="period"> Per Yearly</sub>
+<span>Senin <br> - <br>Sabtu</span>
+<sub class="period"> Jam Kerja</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Ambulan Peduli Tretan Dhibik
 </li>
 </ul>
 </div>

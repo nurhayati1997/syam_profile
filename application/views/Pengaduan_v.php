@@ -606,103 +606,7 @@ Pengaduan </h1>
 </div>
 </section>
 
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-background-overlay"></div>
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Jumlah Tempat Tidur
-</h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-1.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Grace Amelia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-2fb1cbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fb1cbf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
@@ -713,7 +617,7 @@ Grace Amelia </h2>
 <div class="elementor-element elementor-element-154848e mr-auto ml-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="154848e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Our primary mission and ultimate goal is to achieve clear and healthy skin
+Indeks Kepuasan Masyarakan
 </h2></div></div> </div>
 </div>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-260d7d5 elementor-columns-center elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="260d7d5" data-element_type="section">
@@ -740,7 +644,7 @@ Our primary mission and ultimate goal is to achieve clear and healthy skin
 <div class="number-percentage-wraper">
 <span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">Total Pengaduan</p> </div>
 </div>
 </div>
 </div> </div>
@@ -763,7 +667,7 @@ Our primary mission and ultimate goal is to achieve clear and healthy skin
 <div class="number-percentage-wraper">
 <span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">Proses</p> </div>
 </div>
 </div>
 </div> </div>
@@ -786,7 +690,7 @@ Our primary mission and ultimate goal is to achieve clear and healthy skin
 <div class="number-percentage-wraper">
 <span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
 + </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
+<p class="funfact-title">Tindak Lanjut</p> </div>
 </div>
 </div>
 </div> </div>

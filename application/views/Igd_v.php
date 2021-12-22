@@ -627,7 +627,7 @@ Layanan Gawat Darurat RSUD SYAMRABU BANGKALAN
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_1.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_1.png 645w, wp-content/uploads/2019/10/igd_1.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -643,8 +643,8 @@ Layanan Gawat Darurat RSUD SYAMRABU BANGKALAN
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Pelayanan Triase </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -669,8 +669,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Resutasi </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -679,7 +679,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_2.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_2.png 645w, wp-content/uploads/2019/10/igd_2.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -693,7 +693,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_3.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_3.png 645w, wp-content/uploads/2019/10/igd_3.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -708,8 +708,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Observasi </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -736,8 +736,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Tempat Tidur </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -746,78 +746,16 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_4.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_4.png 645w, wp-content/uploads/2019/10/igd_4.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<!-- GAMBAR SERVICE 2 -->
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d86207f tab_column_reverse elementor-invisible" data-id="d86207f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-8d16e51 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="8d16e51" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
+
 
 </div>
 </div>
@@ -832,7 +770,7 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_5.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_5.png 645w, wp-content/uploads/2019/10/igd_5.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -848,8 +786,8 @@ Targeted Treatments 2 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Bed Tambahan </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -874,8 +812,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Ruang Ponek </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -884,7 +822,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_6.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_6.png 645w, wp-content/uploads/2019/10/igd_6.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -898,7 +836,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/igd_7.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_7.png 645w, wp-content/uploads/2019/10/igd_7.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -913,8 +851,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Petugas Medis & Paramedis </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -941,8 +879,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+Depo Obat</h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -951,82 +889,15 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/igd_8.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_8.png 645w, wp-content/uploads/2019/10/igd_8.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<!-- GAMBAR SERVICE 2 -->
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d86207f tab_column_reverse elementor-invisible" data-id="d86207f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-8d16e51 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="8d16e51" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-down-arrow"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
 
-</div>
-</div>
-<!-- 6 GAMBAR -->
 
 </section>
 <!-- end jenis pelayanan IGD -->
@@ -1061,906 +932,13 @@ Targeted Treatments 2 </h3>
 </div>
 </div>
 </section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-fa14936 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fa14936" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a71d25b" data-id="a71d25b" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-62504a7 medizco_quote_slider elementor-widget elementor-widget-elementskit-testimonial" data-id="62504a7" data-element_type="widget" data-widget_type="elementskit-testimonial.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="elementskit-testimonial-slider ekit-testimonia-style-4 slick-slider arrow_inside " data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:false,&quot;pauseOnHover&quot;:true,&quot;autoplay&quot;:false,&quot;speed&quot;:1000,&quot;slidesPerGroup&quot;:1,&quot;slidesPerView&quot;:1,&quot;loop&quot;:false,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1},&quot;768&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1},&quot;1024&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1}}}">
-<div class="swiper-container">
-<div class="slick-list swiper-wrapper">
-<div class="swiper-slide">
-<div class="slick-slide">
-<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementor-repeater-item-42f3647">
-<div class="elementskit-commentor-bio ">
-<span class="elementskit-profile-info">
- <strong class="elementskit-author-name">Kolis Muller</strong>
-<span class="elementskit-author-des">NY Citizen</span>
-</span>
-</div>
-<div class="elementskit-commentor-content">
-<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
-<i aria-hidden="true" class="icon icon-quote"></i> </span>
-<p>Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
-<ul class="elementskit-stars">
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slick-slide">
-<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementor-repeater-item-5a77dab">
-<div class="elementskit-commentor-bio ">
-<span class="elementskit-profile-info">
-<strong class="elementskit-author-name">Kolis Muller</strong>
-<span class="elementskit-author-des">NY Citizen</span>
-</span>
-</div>
-<div class="elementskit-commentor-content">
-<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
-<i aria-hidden="true" class="icon icon-quote"></i> </span>
-<p>Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
-<ul class="elementskit-stars">
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="slick-slide">
-<div class="elementskit-single-testimonial-slider elementskit-testimonial-slider-block-style elementor-repeater-item-bb61820">
-<div class="elementskit-commentor-bio ">
-<span class="elementskit-profile-info">
-<strong class="elementskit-author-name">Kolis Muller</strong>
-<span class="elementskit-author-des">NY Citizen</span>
-</span>
-</div>
-<div class="elementskit-commentor-content">
-<span class="elementskit-watermark-icon ekit_watermark_icon_custom_position">
-<i aria-hidden="true" class="icon icon-quote"></i> </span>
-<p>Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious.</p>
-<ul class="elementskit-stars">
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-<li><a href="#"><i class="eicon-star active"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<ul class="slick-dots swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></ul>
-<button type="button" class="slick-prev slick-arrow"><i class="icon icon-chevron-left"></i></button>
-<button type="button" class="slick-next slick-arrow"><i class="icon icon-chevron-right"></i></button>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-7d5b1a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d5b1a2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56fdaba" data-id="56fdaba" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-c7321a3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c7321a3" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2ef0ed0" data-id="2ef0ed0" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c8eb344" data-id="c8eb344" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-05e8e5c elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="05e8e5c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Jumlah Tempat Tidur
-</h2> <div class='ekit-heading__description'>
-<p>Layanan Gawat Darurat RSUD SYAMRABU BANGKALAN</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a36692d elementor-hidden-tablet elementor-hidden-phone" data-id="a36692d" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-a44c574 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a44c574" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-149f059 elementor-invisible" data-id="149f059" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-cffa765 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="cffa765" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
- <a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d5f6d9c elementor-invisible" data-id="d5f6d9c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-5b3d86a ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="5b3d86a" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-212f052 elementor-invisible" data-id="212f052" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e181bc6 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e181bc6" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-ae8cb88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ae8cb88" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c47c2f elementor-invisible" data-id="6c47c2f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-6337eb4 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="6337eb4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2a43444 elementor-invisible" data-id="2a43444" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-f456977 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="f456977" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-189b998 elementor-invisible" data-id="189b998" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-635b971 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="635b971" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
 
-<div class="elementskit-infobox text-left text-left icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-bed"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-79b6427 medizco_infographic_section elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="79b6427" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-91fa1ca" data-id="91fa1ca" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-6a70433 mr-auto ml-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="6a70433" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Skin Tightening &amp; Cellulite Treatments.
-</h2><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider elementskit-style-long"><div class="elementskit-border-divider elementskit-style-long"></div></div></div></div> </div>
-</div>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-34891c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34891c7" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4e3899f elementor-invisible" data-id="4e3899f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-9d740bb medizco-infographic-bd top-left ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="9d740bb" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
 
-<div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pigmentation Treatment </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmark sgrove </p>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cd999b6 elementor-invisible" data-id="cd999b6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-adf7fbe medizco-infographic-bd top-right el-d-text-right ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="adf7fbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Hydrafacial VI Peel </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmark sgrove </p>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<div class="elementor-element elementor-element-fb239ae elementor-invisible elementor-widget elementor-widget-image" data-id="fb239ae" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<img width="921" height="577" src="wp-content/uploads/2019/09/wakil.png" class="attachment-full size-full" alt="" loading="lazy" srcset="wp-content/uploads/2019/09/wakil.png 921w, wp-content/uploads/2019/09/treatment-300x188.png 300w, wp-content/uploads/2019/09/treatment-768x481.png 768w" sizes="(max-width: 921px) 100vw, 921px" /> </div>
-</div>
-</div>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-8e08c12 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e08c12" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-75fac08 elementor-invisible" data-id="75fac08" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:0}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-ebb5f02 medizco-infographic-bd bottom-left ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="ebb5f02" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Microneedling </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmark sgrove </p>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c60ed2b elementor-invisible" data-id="c60ed2b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-0bc0904 medizco-infographic-bd bottom-right el-d-text-right ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="0bc0904" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text- icon-lef-right-aligin elementor-animation-   ">
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Hydrafacial Facials </h3>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmark sgrove </p>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-2fb1cbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fb1cbf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-955f281" data-id="955f281" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-154848e mr-auto ml-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="154848e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Our primary mission and ultimate goal is to achieve clear and healthy skin
-</h2></div></div> </div>
-</div>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-260d7d5 elementor-columns-center elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="260d7d5" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-521a8e7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone" data-id="521a8e7" data-element_type="column">
- <div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ed9710d elementor-invisible" data-id="ed9710d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-116fbe5 elementor-widget elementor-widget-elementskit-funfact" data-id="116fbe5" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-atomic elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c5dfe16 elementor-invisible" data-id="c5dfe16" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2c63475 elementor-widget elementor-widget-elementskit-funfact" data-id="2c63475" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-abacus1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-eab34c0 elementor-invisible" data-id="eab34c0" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2db0854 elementor-widget elementor-widget-elementskit-funfact" data-id="2db0854" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-trophy1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
- </div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d426f9b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone" data-id="d426f9b" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<div class="elementor-element elementor-element-f7705a5 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="f7705a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:800}" data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper">
-<a href="tel:212-600-4274" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-button-text">Call 212-600-4274</span>
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-background-overlay"></div>
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Meet Our Specialist
-</h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-1.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Grace Amelia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-851fd73 elementor-invisible" data-id="851fd73" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-6977278 medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="6977278" data-element_type="widget" data-widget_type="elementskit-team.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-2.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Charlotte Olivia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-91820de elementor-invisible" data-id="91820de" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:900}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-3937e60 medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="3937e60" data-element_type="widget" data-widget_type="elementskit-team.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-3.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Grace Amelia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-5a1db1d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a1db1d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef3e729" data-id="ef3e729" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-a3ea3ae elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a3ea3ae" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-511cd5c" data-id="511cd5c" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-98ed28d" data-id="98ed28d" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-123f43b elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="123f43b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-News &amp; Blog
-</h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-07a5611 elementor-hidden-tablet elementor-hidden-phone" data-id="07a5611" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<div class="elementor-element elementor-element-ce45d68 elementor-invisible elementor-widget elementor-widget-elementskit-blog-posts" data-id="ce45d68" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="elementskit-blog-posts.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div id="post-items--ce45d68" class="row post-items">
-<div class="col-lg-4 col-md-6">
-<div class="elementskit-post-image-card">
-<div class="elementskit-entry-header">
-<a href="../blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
-<img src="../wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
-</a>
-<div class="elementskit-meta-lists elementskit-style-tag">
-<div class="elementskit-single-meta "><span class="elementskit-meta-wraper"><strong>20</strong>Aug</span></div>
-</div>
-</div>
-<div class="elementskit-post-body ">
- <div class="post-meta-list">
-<span class="meta-author">
-<i aria-hidden="true" class="icon icon-user"></i>
-<a href="../blog/author/medizco/index.html" class="author-name">Medizco</a>
-</span>
-<span class="post-cat">
-<i aria-hidden="true" class="icon icon-folder"></i>
-<a href="../blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> </span>
-</div>
-<h2 class="entry-title">
-<a href="../blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
-Result is a regal and trust worthy look that </a>
-</h2>
-</div>
-</div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-section elementor-top-section elementor-element elementor-element-3110 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3110" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31d3" data-id="31d3" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-7fc2 elementor-widget elementor-widget-elementskit-client-logo" data-id="7fc2" data-element_type="widget" data-widget_type="elementskit-client-logo.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementskit-clients-slider slick-slider slick-dotted dot_dotted simple_logo_image" data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:false,&quot;dots&quot;:true,&quot;pauseOnHover&quot;:false,&quot;autoplay&quot;:false,&quot;speed&quot;:1000,&quot;slidesPerView&quot;:5,&quot;slidesPerGroup&quot;:1,&quot;slidesPerColumn&quot;:1,&quot;loop&quot;:false,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1},&quot;768&quot;:{&quot;slidesPerView&quot;:3,&quot;slidesPerGroup&quot;:1},&quot;1024&quot;:{&quot;slidesPerView&quot;:5,&quot;slidesPerGroup&quot;:1}}}" data-direction="">
-<div class="swiper-container">
-<div class="slick-list swiper-wrapper">
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #1">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
- <img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-1.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #2">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-2.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #3">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-3.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #4">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-4.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #5">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-5.png" class="" alt="" loading="lazy" />
- </span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #6">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-1.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #7">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-2.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-<div class="elementskit-client-slider-item swiper-slide ">
-<div class="slick-slide">
-<div class="single-client image-switcher" title="Sponsor #8">
-<a href="https://your-link.com/" target="_blank" rel="nofollow">
-<span class="content-image">
-<img width="210" height="90" src="../wp-content/uploads/2019/09/home-3-sponsor-logo-3.png" class="" alt="" loading="lazy" />
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<ul class="slick-dots swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></ul>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 </div>
 </div>
 </div>

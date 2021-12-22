@@ -549,545 +549,149 @@ Pelayanan </h1>
 <div class="medizco_doctors medizco_doctors_filter" data-rtl="">
 <ul class="filter_nav d-flex flex-wrap justify-content-center">
 <li class="filter active" data-filter=".all-departments">Semua Layanan Penunjang</li>
-<li class="filter " data-filter=".cardiology">Radiologi</li>
-<li class="filter " data-filter=".dental">Laboratorium PK</li>
-<li class="filter " data-filter=".neurology">Laboratorium PA</li>
-<li class="filter " data-filter=".pediatric">Farmasi</li>
-<li class="filter " data-filter=".polmonary">Kemoterapi</li>
-<li class="filter " data-filter=".traumatology">Gizi</li>
-<li class="filter " data-filter=".x-ray">CSSD / LINEN</li>
-<li class="filter " data-filter=".cardiology">Pemulasaran Jenasah</li>
-<li class="filter " data-filter=".dental">Dental</li>
-<li class="filter " data-filter=".neurology">Ambulance</li>
+<li class="filter " data-filter=".radiologi">Radiologi</li>
+<li class="filter " data-filter=".pk">Laboratorium PK</li>
+<li class="filter " data-filter=".pk">Laboratorium PA</li>
+<li class="filter " data-filter=".farmasi">Farmasi</li>
+<li class="filter " data-filter=".kemo">Kemoterapi</li>
+<li class="filter " data-filter=".gizi">Gizi</li>
+<li class="filter " data-filter=".cssd">CSSD / LINEN</li>
+<li class="filter " data-filter=".jenasah">Pemulasaran Jenasah</li>
+<li class="filter " data-filter=".ambulan">Ambulance</li>
 </ul>
-<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
+
+<div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
- <li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_1.jpg 255w, wp-content/uploads/2019/08/r_1.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
 </div>
-
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Harrison Samuel</h3>
-<p class="doctor_box_role">Cardiology</p>
+<h3 class="doctor_box_title">CT Scan Multislice</h3>
 </div>
-<a href="../blog/doctor/harrison-samuel/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_2.jpg 255w, wp-content/uploads/2019/08/r_2.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Thomas Henry</h3>
-<p class="doctor_box_role">Dental</p>
+<h3 class="doctor_box_title">Ultrasonografi (USG)</h3>
 </div>
-<a href="../blog/doctor/thomas-henry/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_3.jpg 255w, wp-content/uploads/2019/08/r_3.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">James Alexander</h3>
-<p class="doctor_box_role">Neurology</p>
+<h3 class="doctor_box_title">General X-Ray</h3>
 </div>
-<a href="../blog/doctor/james-alexander/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_5.jpg 255w, wp-content/uploads/2019/08/r_5.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Andrew Sebastian</h3>
-<p class="doctor_box_role">Pediatric</p>
+<h3 class="doctor_box_title">Mobile Unit X-Ray</h3>
 </div>
-<a href="../blog/doctor/andrew-sebastian/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_6.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_6.jpg 255w, wp-content/uploads/2019/08/r_6.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Jack Barnes</h3>
-<p class="doctor_box_role">Polmonary</p>
+<h3 class="doctor_box_title">Fluoroscopy X-Ray</h3>
 </div>
-<a href="../blog/doctor/jack-barnes/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments traumatology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_7.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_7.jpg 255w, wp-content/uploads/2019/08/r_7.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Gary Lynch</h3>
-<p class="doctor_box_role">Traumatology</p>
+<h3 class="doctor_box_title">Mamografi</h3>
 </div>
-<a href="../blog/doctor/gary-lynch/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments x-ray">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_4.jpg 255w, wp-content/uploads/2019/08/r_4.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Michael Garrett</h3>
-<p class="doctor_box_role">X-Ray</p>
+<h3 class="doctor_box_title">Digital Panoramic</h3>
 </div>
-<a href="../blog/doctor/michael-garrett/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments cardiology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/r_8.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_8.jpg 255w, wp-content/uploads/2019/08/r_8.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Steven Castillo</h3>
-<p class="doctor_box_role">Cardiology</p>
+<h3 class="doctor_box_title">Computed Radiografi</h3>
 </div>
-<a href="../blog/doctor/steven-castillo/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments dental">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-2-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
+<a href="" class="doctor_box_link"></a>
 </div>
 
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Ronald Munoz</h3>
-<p class="doctor_box_role">Dental</p>
-</div>
-<a href="../blog/doctor/ronald-munoz/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments neurology">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/09/temp-5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/temp-5-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
 
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Craig Daniels</h3>
-<p class="doctor_box_role">Neurology</p>
-</div>
-<a href="../blog/doctor/craig-daniels/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pediatric">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-3-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
 
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Austin Shaw</h3>
-<p class="doctor_box_role">Pediatric</p>
-</div>
-<a href="../blog/doctor/austin-shaw/index.html" class="doctor_box_link"></a>
-</div>
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments polmonary">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="../wp-content/uploads/2019/08/team-4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4.jpg 255w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/08/team-4-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-linkedin" style="color: #0077b5;"></i>
-<span style="background-color: #0077b5;">
-Linkedin </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-facebook" style="color: #3b5998;"></i>
-<span style="background-color: #3b5998;">
-Facebook </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-twitter" style="color: #1da1f2;"></i>
-<span style="background-color: #1da1f2;">
-Twitter </span>
-</a>
-</li>
-<li>
-<a href="#" target="_blank">
-<i class="fa fa-youtube" style="color: #ff0000;"></i>
-<span style="background-color: #ff0000;">
-YouTube </span>
-</a>
-</li>
-</ul>
-</div>
 
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">Paul Stanley</h3>
-<p class="doctor_box_role">Polmonary</p>
-</div>
-<a href="../blog/doctor/paul-stanley/index.html" class="doctor_box_link"></a>
-</div>
+
+
 </div></div> </div>
 </div>
 </div>

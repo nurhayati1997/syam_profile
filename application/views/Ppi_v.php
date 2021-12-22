@@ -558,7 +558,9 @@ Consultation </a>
 <div class="elementor-widget-wrap">
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-fd53ad5 pricing_boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd53ad5" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
+
 <div class="elementor-row">
+
 <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
@@ -567,38 +569,21 @@ Consultation </a>
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Doctor Visits &amp; Urgent Care </h3>
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>15.00</span>
-<sub class="period"> Per Yearly</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
- <li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Cuci Tangan
 </li>
 </ul>
 </div>
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
@@ -606,46 +591,30 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1294fd1" data-id="1294fd1" data-element_type="column">
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e33d343 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="e33d343" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Your Physician &amp; Specialists </h3>
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>25.00</span>
-<sub class="period"> Per Yearly</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Alat Pelindung Diri (APD)
 </li>
 </ul>
 </div>
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
@@ -653,46 +622,31 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-78d2889" data-id="78d2889" data-element_type="column">
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-9ce9387 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="9ce9387" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Labs, X-Rays &amp; Screenings </h3>
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>35.00</span>
-<sub class="period"> Per Yearly</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Pemrosesan Peralatan Pasien dan 
+Penatalaksanaan Linen
 </li>
 </ul>
 </div>
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
@@ -700,49 +654,170 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-504ea35" data-id="504ea35" data-element_type="column">
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1953ddc pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="1953ddc" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">Emergency Room &amp; Coverage </h3>
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
 </div>
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
-<sup class="currency">$</sup>
-<span>65.00</span>
-<sub class="period"> Per Yearly</sub>
 </span>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Behind the word
-</li>
-<li class="elementor-repeater-item-f0737ea">
-mountains, far from the
-</li>
-<li class="elementor-repeater-item-24facbd">
-countries Vokalia and
-</li>
-<li class="elementor-repeater-item-60f87bf">
-Consonantia, there live the
-</li>
-<li class="elementor-repeater-item-e87ba5d">
-blind texts.
+Pengelolaan Limbah
 </li>
 </ul>
 </div>
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
+</div>
+</div>
+</div>
+</div>
+
+</div> </div>
+
+<div class="elementor-row">
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
+</div>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Kewaspadaan Isolasi
+</li>
+</ul>
+</div>
+<div class="elementskit-pricing-btn-wraper order-1">
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- hguj -->
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
+</div>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Perlindungan Petugas Kesehatan
+</li>
+</ul>
+</div>
+<div class="elementskit-pricing-btn-wraper order-1">
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
+</div>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Etika Batuk
+</li>
+</ul>
+</div>
+<div class="elementskit-pricing-btn-wraper order-1">
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">Kegiatan </h3>
+</div>
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+</span>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Praktik Menyuntik Yang Aman
+</li>
+</ul>
+</div>
+<div class="elementskit-pricing-btn-wraper order-1">
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
 </div>
 </div>
  </div>

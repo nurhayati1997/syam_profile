@@ -526,7 +526,7 @@ Consultation </a>
 Laporan 
 <span> </span> </h1>
 <ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center"><li class="curves left"></li><li class="curves right"></li>
-	<li><a>Reporting</a></li> 
+	<li><a>Arsip</a></li> 
 	<li class="seperator">-</li>
 </ul> 
 </div>
@@ -540,27 +540,40 @@ Laporan
 <div class="main-content-inner wooshop clearfix">
 <h1 class="page-title">Shop</h1>
 <div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-Showing 1&ndash;16 of 17 results</p>
+<!-- Showing 1&ndash;16 of 17 results</p> -->
 <form class="woocommerce-ordering" method="get">
 <select name="orderby" class="orderby" aria-label="Shop order">
 <option value="menu_order" selected='selected'>Default sorting</option>
-<option value="popularity">Sort by popularity</option>
-<option value="rating">Sort by average rating</option>
-<option value="date">Sort by latest</option>
-<option value="price">Sort by price: low to high</option>
-<option value="price-desc">Sort by price: high to low</option>
+<option value="popularity">2018</option>
+<option value="rating">2019</option>
+<option value="date">2020</option>
+<option value="price">2021</option>
+<option value="price-desc">2022</option>
 </select>
 <input type="hidden" name="paged" value="1" />
 </form>
 <ul class="products columns-4">
 <li class="product type-product post-17 status-publish first instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-<a href="../product/clinical-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Clinical Thermometer</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></span>
-</a><a href="index0ba2.html?add-to-cart=17" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="17" data-product_sku="woo-polo" aria-label="Add &ldquo;Clinical Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="../product/clinical-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">Clinical Thermometer</h2>
+		<span class="price"><span class="woocommerce-Price-amount amount">
+			<bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span>
+		</span>
+	</a>
+	<a href="index0ba2.html?add-to-cart=17" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="17" data-product_sku="woo-polo" aria-label="Add &ldquo;Clinical Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a>
+</li>
+
 <li class="product type-product post-28 status-publish instock product_cat-clothing has-post-thumbnail shipping-taxable product-type-grouped">
-<a href="../product/cloth-face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Cloth Face Mask</h2>
-<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></span>
-</a><a href="../product/cloth-face-mask/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="28" data-product_sku="logo-collection" aria-label="View products in the &ldquo;Cloth Face Mask&rdquo; group" rel="nofollow">View products</a></li>
+	<a href="../product/cloth-face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">Cloth Face Mask</h2>
+		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
+			<span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span>
+		</span>
+	</a>
+	<a href="../product/cloth-face-mask/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="28" data-product_sku="logo-collection" aria-label="View products in the &ldquo;Cloth Face Mask&rdquo; group" rel="nofollow">View products</a>
+</li>
 <li class="product type-product post-6 status-publish outofstock product_cat-tshirts has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
 <a href="../product/eye-protected-glass/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Eye Protected Glass</h2>
 <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></span>
@@ -630,13 +643,7 @@ Showing 1&ndash;16 of 17 results</p>
 <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span></ins></span>
 </a><a href="index9fdc.html?add-to-cart=4834" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4834" data-product_sku="woo-beanie" aria-label="Add &ldquo;Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
 </ul>
-<nav class="woocommerce-pagination">
-<ul class='page-numbers'>
-<li><span aria-current="page" class="page-numbers current">1</span></li>
-<li><a class="page-numbers" href="page/2/index.html">2</a></li>
-<li><a class="next page-numbers" href="page/2/index.html">&rarr;</a></li>
-</ul>
-</nav>
+
 </div> 
 </div>
 </div>
