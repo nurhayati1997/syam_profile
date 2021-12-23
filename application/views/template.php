@@ -383,13 +383,13 @@
                                     <a href="<?= base_url('admin_igd') ?>" class="nav-link">Gawat Darurat</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/dropdowns/index.html" class="nav-link">Rawat Jalan</a>
+                                    <a href="<?= base_url('admin_rajal') ?>" class="nav-link">Rawat Jalan</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/typography/index.html" class="nav-link">Rawat Inap</a>
+                                    <a href="<?= base_url('admin_ranap') ?>" class="nav-link">Rawat Inap</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/typography/index.html" class="nav-link">Penunjang</a>
+                                    <a href="<?= base_url('admin_penunjang') ?>" class="nav-link">Penunjang</a>
                                 </li>
                             </ul>
                             <!-- END : Ui Elements submenu list -->
