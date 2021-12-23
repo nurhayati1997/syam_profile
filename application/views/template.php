@@ -33,25 +33,7 @@
     <link rel="stylesheet" href="assets/pages/date-time-picker.min.330ee57394009c093856568eb64681b2ce36f4116824639d2d026dba7df6a31f.css">
 
 
-    [ REQUIRED ]
-    You must include this category in your project.
-
-
-    [ OPTIONAL ]
-    This is an optional plugin. You may choose to include it in your project.
-
-
-    [ DEMO ]
-    Used for demonstration purposes only. This category should NOT be included in your project.
-
-
-    [ SAMPLE ]
-    Here's a sample script that explains how to initialize plugins and/or components: This category should NOT be included in your project.
-
-
-    Detailed information and more samples can be found in the documentation.
-
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--- -->
+    
 </head>
 
 <body class="in-out-back">
