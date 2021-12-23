@@ -554,86 +554,80 @@ Laporan
 </form> -->
 <ul class="products columns-4">
 <li class="product type-product post-17 status-publish first instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="../product/clinical-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Clinical Thermometer</h2>
+	<a href="" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<img width="300" height="300" src="wp-content/uploads/2019/01/01.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/01.jpg 300w, wp-content/uploads/2019/01/01.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">LAKIP 2019</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount">
-			<bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span>
+			<bdi><span class="woocommerce-Price-currencySymbol"></span>Thn.2019</bdi></span>
 		</span>
 	</a>
-	<a href="index0ba2.html?add-to-cart=17" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="17" data-product_sku="woo-polo" aria-label="Add &ldquo;Clinical Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a>
 </li>
 
 <li class="product type-product post-28 status-publish instock product_cat-clothing has-post-thumbnail shipping-taxable product-type-grouped">
 	<a href="../product/cloth-face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Cloth Face Mask</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/02.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/02.jpg 300w, wp-content/uploads/2019/01/02.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">SAKIP 2020</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2020</bdi></span>
 		</span>
 	</a>
-	<a href="../product/cloth-face-mask/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="28" data-product_sku="logo-collection" aria-label="View products in the &ldquo;Cloth Face Mask&rdquo; group" rel="nofollow">View products</a>
 </li>
 <li class="product type-product post-6 status-publish outofstock product_cat-tshirts has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
 	<a href="../product/eye-protected-glass/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Eye Protected Glass</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/03.png 768w" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/03.png 300w, wp-content/uploads/2019/01/03.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">IKM 2021</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</bdi></span> &ndash; 
-			<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;
-			</span>20.00</bdi></span></span>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2021</bdi></span> 
+			<!-- <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">; -->
+			<!-- </span>20.00</bdi></span></span> -->
 	</a>
-	<a href="../product/eye-protected-glass/index.html" data-quantity="1" class="button product_type_variable" data-product_id="6" data-product_sku="woo-vneck-tee" aria-label="Select options for &ldquo;Eye Protected Glass&rdquo;" rel="nofollow">Select options</a>
 </li>
 <li class="product type-product post-4833 status-publish last instock product_cat-hoodies has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="../product/face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_7-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Face Mask</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/04.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/04.png 300w, wp-content/uploads/2019/01/04.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">LAKIP 2022</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</bdi>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2022</bdi>
 		</span></span>
 	</a>
-	<a href="index40a3.html?add-to-cart=4833" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4833" data-product_sku="woo-hoodie-with-logo" aria-label="Add &ldquo;Face Mask&rdquo; to your cart" rel="nofollow">Add to cart</a>
 </li>
 <li class="product type-product post-17 status-publish first instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="../product/clinical-thermometer/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_11-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_11.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Clinical Thermometer</h2>
+	<a href="" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<img width="300" height="300" src="wp-content/uploads/2019/01/01.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/01.jpg 300w, wp-content/uploads/2019/01/01.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">SAKIP 2019</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount">
-			<bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</bdi></span>
+			<bdi><span class="woocommerce-Price-currencySymbol"></span>Thn.2019</bdi></span>
 		</span>
 	</a>
-	<a href="index0ba2.html?add-to-cart=17" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="17" data-product_sku="woo-polo" aria-label="Add &ldquo;Clinical Thermometer&rdquo; to your cart" rel="nofollow">Add to cart</a>
 </li>
 
 <li class="product type-product post-28 status-publish instock product_cat-clothing has-post-thumbnail shipping-taxable product-type-grouped">
 	<a href="../product/cloth-face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_9-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_9.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Cloth Face Mask</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/02.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/02.jpg 300w, wp-content/uploads/2019/01/02.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">IKM 2020</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>18.00</bdi></span>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2020</bdi></span>
 		</span>
 	</a>
-	<a href="../product/cloth-face-mask/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="28" data-product_sku="logo-collection" aria-label="View products in the &ldquo;Cloth Face Mask&rdquo; group" rel="nofollow">View products</a>
 </li>
 <li class="product type-product post-6 status-publish outofstock product_cat-tshirts has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
 	<a href="../product/eye-protected-glass/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">Eye Protected Glass</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/03.png 768w" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/03.png 300w, wp-content/uploads/2019/01/03.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">SAKIP 2021</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</bdi></span> &ndash; 
-			<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;
-			</span>20.00</bdi></span></span>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2021</bdi></span>
+			<!-- <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">;
+			</span>20.00</bdi></span></span> -->
 	</a>
-	<a href="../product/eye-protected-glass/index.html" data-quantity="1" class="button product_type_variable" data-product_id="6" data-product_sku="woo-vneck-tee" aria-label="Select options for &ldquo;Eye Protected Glass&rdquo;" rel="nofollow">Select options</a>
 </li>
 <li class="product type-product post-4833 status-publish last instock product_cat-hoodies has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="../product/face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-		<img width="300" height="300" src="../wp-content/uploads/2019/01/medical_shop_7-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-300x300.jpg 300w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-150x150.jpg 150w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-768x768.jpg 768w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-600x600.jpg 600w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7-100x100.jpg 100w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/01/medical_shop_7.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Face Mask</h2>
+		<img width="300" height="300" src="wp-content/uploads/2019/01/04.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/04.png 300w, wp-content/uploads/2019/01/04.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
+		<h2 class="woocommerce-loop-product__title">LAKIP 2021</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol">&pound;</span>45.00</bdi>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2021</bdi>
 		</span></span>
 	</a>
-	<a href="index40a3.html?add-to-cart=4833" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4833" data-product_sku="woo-hoodie-with-logo" aria-label="Add &ldquo;Face Mask&rdquo; to your cart" rel="nofollow">Add to cart</a>
 </li>
 
 </ul>

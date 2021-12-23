@@ -618,6 +618,7 @@ Pelayanan </h1>
 Layanan Rawat Inap RSUD SYAMRABU BANGKALAN
 </h2></div></div> </div>
 </div>
+
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-d920675 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d920675" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
@@ -628,7 +629,7 @@ Layanan Rawat Inap RSUD SYAMRABU BANGKALAN
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_1.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_1.png 645w, wp-content/uploads/2019/10/ri_1.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -644,8 +645,8 @@ Layanan Rawat Inap RSUD SYAMRABU BANGKALAN
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA A <br> Penyakit Dalam </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -670,8 +671,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA B ATAS <br> Bedah Wanita </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -680,7 +681,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/ri_2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_2.jpg 645w, wp-content/uploads/2019/10/ri_2.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -694,7 +695,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_3.jpg 645w, wp-content/uploads/2019/10/ri_3.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -709,8 +710,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA B BAWAH <br> Bedah Pria </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -737,8 +738,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA B <br> Kelas I </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -747,28 +748,26 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/ri_4.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_4.jpg 645w, wp-content/uploads/2019/10/ri_4.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-
-<!-- GAMBAR SERVICE 2 -->
 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_5.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_5.jpg 645w, wp-content/uploads/2019/10/ri_5.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> 
 <a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
+
 <div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
 <div class="elementskit-box-header elementor-animation-">
 <div class="elementskit-info-box-icon  ">
@@ -777,8 +776,8 @@ Targeted Treatments 2 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA C <br> Obsetri & Ginekologi </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -787,10 +786,9 @@ Skin Rejuvenation 2</h3>
 </div>
 </div>
 </div>
-<!-- targeted 3 -->
+</div>
+</div>
 
-</div>
-</div>
 
 
 <!-- 6 GAMBAR -->
@@ -804,7 +802,7 @@ Skin Rejuvenation 2</h3>
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_6.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_6.png 645w, wp-content/uploads/2019/10/ri_6.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -820,8 +818,8 @@ Skin Rejuvenation 2</h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+PAVILLIUN <br> RA Kartini </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -846,8 +844,8 @@ Skin Rejuvenation </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA E <br> Anak </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -856,7 +854,7 @@ Targeted Treatments </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/ri_7.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_7.jpg 645w, wp-content/uploads/2019/10/ri_7.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -870,7 +868,7 @@ Targeted Treatments </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="../wp-content/uploads/2019/10/home3-service3.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service3-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_8.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_8.jpg 645w, wp-content/uploads/2019/10/ri_8.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -885,8 +883,8 @@ Targeted Treatments </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pigmentation Treatment 1 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA F <br> Infeksius </h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -913,8 +911,8 @@ Pigmentation Treatment 1 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Targeted Treatments 2 </h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA G <br> Neonatus</h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -923,28 +921,27 @@ Targeted Treatments 2 </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="../wp-content/uploads/2019/10/home3-service2.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service2-300x208.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="448" src="wp-content/uploads/2019/10/ri_9.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_9.jpg 645w, wp-content/uploads/2019/10/ri_9.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
 </div>
 </div>
 
-<!-- GAMBAR SERVICE 2 -->
 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fb075ae elementor-invisible" data-id="fb075ae" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-    <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/home3-service1.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1.jpg 645w, https://wp.xpeedstudio.com/medizco/wp-content/uploads/2019/10/home3-service1-300x209.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/ri_10.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/ri_10.jpg 645w, wp-content/uploads/2019/10/ri_10.jpg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> 
 <a href="#" target="_blank" rel="nofollow" class="ekit_global_links">
+
 <div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_top">
 <div class="elementskit-box-header elementor-animation-">
 <div class="elementskit-info-box-icon  ">
@@ -953,8 +950,8 @@ Targeted Treatments 2 </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Skin Rejuvenation 2</h3>
-<p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p>
+IRNA H</h3>
+<!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
 </a>
@@ -966,9 +963,6 @@ Skin Rejuvenation 2</h3>
 
 
 
-</div>
-</div>
-<!-- 6 GAMBAR -->
 
 </section>
 <!-- end jenis pelayanan IGD -->
