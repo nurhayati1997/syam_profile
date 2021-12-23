@@ -377,7 +377,7 @@
                             <!-- Ui Elements submenu list -->
                             <ul class="mininav-content nav collapse">
                                 <li class="nav-item">
-                                    <a href="ui-elements/buttons/index.html" class="nav-link">Unggulan</a>
+                                    <a href="<?= base_url('admin_unggulan') ?>"" class="nav-link">Unggulan</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="ui-elements/cards/index.html" class="nav-link">Gawat Darurat</a>
