@@ -7,7 +7,7 @@
         <section id="content" class="content">
             <div class="content__header content__boxed overlapping">
                 <div class="content__wrap pt-3 pb-4">
-                    <h1 class="page-title mb-2 mt-4">Layanan Rawat Jalan</h1>
+                    <h1 class="page-title mb-2 mt-4">Layanan Penunjang</h1>
 
                     <p class="lead">
                        RSUD SYAMRABU BANGKALAN
@@ -34,7 +34,7 @@
                                     <div class="card">
                                         <div class="card-header toolbar">
                                             <div class="toolbar-start">
-                                                <h5 class="m-0">Tambah Data Dokter Poli</h5>
+                                                <h5 class="m-0">Tambah Data Layanan Penunjang</h5>
                                             </div>
                                             <div class="toolbar-end">
                                                 <button type="button" class="btn btn-icon btn-light btn-xs" data-bs-toggle="collapse" data-bs-target="#_dm-collapsedByDefault" aria-expanded="true" aria-controls="_dm-collapsedByDefault">
@@ -45,33 +45,28 @@
                                         <div id="_dm-collapsedByDefault" class="collapse">
                                             <div class="card-body">
                                                 <form class="row g-3">
-                                                    <div class="col-md-6">
-                                                        <label for="inputState" class="form-label">Poli</label>
+                                                     <div class="col-md-6">
+                                                        <label for="inputState" class="form-label">Nama Penunjang</label>
                                                         <select id="inputState" class="form-select">
                                                             <option selected>Choose...</option>
-                                                            <option>Jantung & Pembuluh Darah</option>
-                                                            <option>Orthopedi</option>
-                                                            <option>Bedah Umum</option>
+                                                            <option>Radiologi</option>
+                                                            <option>Lab PA</option>
+                                                            <option>Lab PK</option>
+                                                            <option>Farmasi</option>
+                                                            <option>Kemotrapi</option>
                                                         </select>
                                                     </div>
+
                                                     <div class="col-md-6">
-                                                        <label for="_dm-inputNama_k" class="form-label">Nama Dokter</label>
+                                                        <label for="_dm-inputNama_k" class="form-label">Nama Alat</label>
                                                         <input id="_dm-inputNama_k" type="text" class="form-control">
                                                     </div>
 
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputEmail2" class="form-label">Jadwal Poli</label>
-                                                        <input id="_dm-inputEmail2" type="text" class="form-control">
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputjam" class="form-label">Jam </label>
-                                                        <input id="_dm-inputjam" type="text" class="form-control">
-                                                    </div>
                                                     <div class="col-md-12">
-                                                        <label for="_dm-inputjam" class="form-label">Keterangan </label>
-                                                        <input id="_dm-inputjam" type="text" class="form-control">
+                                                        <input type="file" class="form-control" aria-label="file example" required>
+                                                        <div class="invalid-feedback">Example invalid form file feedback</div>
                                                     </div>
-
+                                                    
                                                     <div class="col-12">
                                                         <button type="submit" class="btn btn-primary">Tambah</button>
                                                     </div>
@@ -91,74 +86,56 @@
                                 <table class="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Poli</th>
-                                            <th>Nama Dokter</th>
-                                            <th>Jadwal Poli</th>
-                                            <th>Jam</th>
-                                            <th>Keterangan</th>
+                                            <th>Nama Penunjang</th>
+                                            <th>Nama Alat</th>
+                                            <th>File</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Jantung & Pembuluh Darah</td>
-                                            <td>dr. Suryo Ardi Hutomo, Sp. JP</td>
-                                            <td>Senin, Sabtu, Selasa, Jum’at</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> Pagi, Sore</span></td> 
-                                            <td>-</td>
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                            <td>Radiologi</td>
+                                            <td>CT Scan Multislice</td>
+                                            <td>ct.jpg</td>
                                         </tr>
                                         <tr>
-                                            <td>Jantung & Pembuluh Darah</td>
-                                            <td>dr. Ayu Diajeng, Sp. JP</td>
-                                            <td>Selasa, Jum’at, Rabu </td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> Pagi,Sore</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                            <td>Radiologi</td>
+                                            <td>Ultrasonografi</td>
+                                            <td>usg.jpg</td>
                                         </tr>
-                                       <tr>
-                                            <td>Jantung & Pembuluh Darah</td>
-                                            <td>dr. Liemena Harold, Sp. JP </td>
-                                            <td>Rabu, Kamis, Senin, Kamis </td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> Pagi,Sore</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
-                                        </tr> 
                                         <tr>
-                                            <td>Orthopedi</td>
-                                            <td>dr. Agung Tristianto.Sp.OT </td>
-                                            <td>Senin, Rabu, Jum’at</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> pagi</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                            <td>Radiologi</td>
+                                            <td>General X-Ray</td>
+                                            <td>grx.jpg</td>
                                         </tr>
+                                        <tr>
+                                            <td>Radiologi</td>
+                                            <td>Mobile Unit X-Ray/td>
+                                            <td>mux.jpg</td>
+                                        </tr>
+                                        
+                                        <!-- <tr>
+                                            <td>Bed Tambahan</td>
+                                            <td>Igd_5.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pelayanan Triase</td>
+                                            <td>Igd_6.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ruang Ponek</td>
+                                            <td>Igd_7.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Depo Obat</td>
+                                            <td>Igd_8.jpg</td>
+                                        </tr> -->
+                                        
                                         
                                         
                                     </tbody>
                                 </table>
                             </div>
 
-                            <nav class="text-align-center mt-5" aria-label="Table navigation">
-                                <ul class="pagination justify-content-center">
-                                    <li class="page-item disabled">
-                                        <a class="page-link">Previous</a>
-                                    </li>
-                                    <li class="page-item active" aria-current="page">
-                                        <span class="page-link">1</span>
-                                    </li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item disabled"><a class="page-link" href="#">...</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">5</a></li>
-                                    <li class="page-item">
-                                        <a class="page-link" href="#">Next</a>
-                                    </li>
-                                </ul>
-                            </nav>
                         </div>
                     </div>
                     <!-- END : Table with toolbar -->
