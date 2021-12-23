@@ -23,7 +23,15 @@
     <!-- Nifty CSS [ REQUIRED ] -->
     <link rel="stylesheet" href="assets/css/nifty.min.b62b57e9970804afb27aad6829d5d500079b5caeacab36cb742a093376542acd.css">
 
+     <!-- Plugin styles [ OPTIONAL ] -->
+    <link rel="stylesheet" href="assets/pages/text-editor.b06b40089b1729567779a8f590d806566a273722244257b51fd0b4df01ae39f0.css">
     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---
+
+
+    
+    <!-Plugin styles [ OPTIONAL ] -->
+    <link rel="stylesheet" href="assets/pages/date-time-picker.min.330ee57394009c093856568eb64681b2ce36f4116824639d2d026dba7df6a31f.css">
+
 
     [ REQUIRED ]
     You must include this category in your project.
@@ -407,19 +415,19 @@
                             <!-- Forms submenu list -->
                             <ul class="mininav-content nav collapse">
                                 <li class="nav-item">
-                                    <a href="ui-elements/buttons/index.html" class="nav-link">Berita</a>
+                                    <a href="<?= base_url('admin_berita') ?>" class="nav-link">Berita</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/cards/index.html" class="nav-link">Kegiatan</a>
+                                    <a href="<?= base_url('admin_kegiatan') ?>" class="nav-link">Kegiatan</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/dropdowns/index.html" class="nav-link">Dokter</a>
+                                    <a href="<?= base_url('admin_dokter') ?>" class="nav-link">Dokter</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/typography/index.html" class="nav-link">RS Pendidikan</a>
+                                    <a href="<?= base_url('admin_pendidikan') ?>" class="nav-link">RS Pendidikan</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/typography/index.html" class="nav-link">PPI</a>
+                                    <a href="<?= base_url('admin_ppi') ?>" class="nav-link">PPI</a>
                                 </li>
                             </ul>
                             <!-- END : Forms submenu list -->
@@ -925,6 +933,14 @@
 
     <!-- Plugin scripts [ OPTIONAL ] -->
     <script src="assets/pages/dashboard-1.min.301deebb875bcdfd5c79de3e465bd8d8ef5029279086c1c35a1624cab3691d11.js" defer></script>
+
+    <!-- Katex - Required by Kothing-editor in Classic Mode [ OPTIONAL ] -->
+    <script src="cdn.jsdelivr.net/npm/katex%400.11.1/dist/katex.min.js"></script>
+    <!-- Plugin scripts [ OPTIONAL ] -->
+    <script src="assets/pages/text-editor.min.e33e55b647fccbbaf1e59a497369b374cf5dcb14d6d94797240cd4ce0d44c253.js" defer></script>
+
+    <!-- Plugin scripts [ OPTIONAL ] -->
+    <script src="assets/pages/date-time-picker.min.c041e7af9b7c9d3321be8869354953f41607b8c1564df9ade6bc2e1cb2e67f05.js" defer></script>
 
 </body>
 
