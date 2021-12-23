@@ -7,7 +7,7 @@
         <section id="content" class="content">
             <div class="content__header content__boxed overlapping">
                 <div class="content__wrap pt-3 pb-4">
-                    <h1 class="page-title mb-2 mt-4">Layanan Gawat </h1>
+                    <h1 class="page-title mb-2 mt-4">Layanan Gawat Darurat</h1>
 
                     <p class="lead">
                        RSUD SYAMRABU BANGKALAN
@@ -45,14 +45,14 @@
                                         <div id="_dm-collapsedByDefault" class="collapse">
                                             <div class="card-body">
                                                 <form class="row g-3">
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputNama_k" class="form-label">Nama Kegiatan</label>
+                                                    <div class="col-md-12">
+                                                        <label for="_dm-inputNama_k" class="form-label">Nama</label>
                                                         <input id="_dm-inputNama_k" type="text" class="form-control">
                                                     </div>
 
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputEmail2" class="form-label">Detail</label>
-                                                        <input id="_dm-inputEmail2" type="text" class="form-control">
+                                                    <div class="col-md-12">
+                                                        <input type="file" class="form-control" aria-label="file example" required>
+                                                        <div class="invalid-feedback">Example invalid form file feedback</div>
                                                     </div>
                                                     
                                                     <div class="col-12">
@@ -75,70 +75,49 @@
                                     <thead>
                                         <tr>
                                             <th>Nama</th>
-                                            <th>Detail</th>
-                                            <th>Hari date</th>
-                                            <th>Jam</th>
+                                            <th>File</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>BERSEMA</td>
-                                            <td>Bersalin Sehat Antar Sampai Rumah</td>
-                                            <td>Senin - Sabtu</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> 08.00 - 14.00</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                            <td>Pelayanan Triase</td>
+                                            <td>Igd_1.jpg</td>
                                         </tr>
                                         <tr>
-                                            <td>TAROMAH</td>
-                                            <td>Antar Obat Sampai Rumah</td>
-                                            <td>Senin - Sabtu</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> 08.00 - 14.00</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                            <td>Ruang Resutasi</td>
+                                            <td>Igd_2.jpg</td>
                                         </tr>
-                                       <tr>
-                                            <td>HOME CARE</td>
-                                            <td>Perawatan Rawat Jalan di Rumah </td>
-                                            <td>Senin - Sabtu</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> 08.00 - 14.00</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
-                                        </tr> <tr>
-                                            <td>AMPIBI </td>
-                                            <td>Ambulan Peduli Tretan Dhibik </td>
-                                            <td>Senin - Sabtu</td>
-                                            <td><span class="text-muted"><i class="demo-pli-clock"></i> 08.00 - 14.00</span></td> 
-                                            <!-- <td>
-                                                <div class="badge bg-success">Paid</div>
-                                            </td> -->
+                                        <tr>
+                                            <td>Ruang Observasi</td>
+                                            <td>Igd_3.jpg</td>
                                         </tr>
+                                        <tr>
+                                            <td>Tempat Tidur</td>
+                                            <td>Igd_4.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Bed Tambahan</td>
+                                            <td>Igd_5.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pelayanan Triase</td>
+                                            <td>Igd_6.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ruang Ponek</td>
+                                            <td>Igd_7.jpg</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Depo Obat</td>
+                                            <td>Igd_8.jpg</td>
+                                        </tr>
+                                        
                                         
                                         
                                     </tbody>
                                 </table>
                             </div>
 
-                            <nav class="text-align-center mt-5" aria-label="Table navigation">
-                                <ul class="pagination justify-content-center">
-                                    <li class="page-item disabled">
-                                        <a class="page-link">Previous</a>
-                                    </li>
-                                    <li class="page-item active" aria-current="page">
-                                        <span class="page-link">1</span>
-                                    </li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item disabled"><a class="page-link" href="#">...</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">5</a></li>
-                                    <li class="page-item">
-                                        <a class="page-link" href="#">Next</a>
-                                    </li>
-                                </ul>
-                            </nav>
                         </div>
                     </div>
                     <!-- END : Table with toolbar -->
