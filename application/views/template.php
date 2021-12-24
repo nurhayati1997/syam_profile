@@ -427,10 +427,10 @@
                             <!-- Tables submenu list -->
                             <ul class="mininav-content nav collapse">
                                 <li class="nav-item">
-                                    <a href="ui-elements/buttons/index.html" class="nav-link">Visi Misi</a>
+                                    <a href="<?= base_url('admin_vimi') ?>" class="nav-link">Visi Misi</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="ui-elements/cards/index.html" class="nav-link">Struktur</a>
+                                    <a href="<?= base_url('admin_struktur') ?>" class="nav-link">Struktur</a>
                                 </li>
                             </ul>
                             <!-- END : Tables submenu list -->
@@ -447,7 +447,7 @@
 
                          <!-- Regular menu link -->
                         <li class="nav-item">
-                            <a href="<?= base_url('jenis_karyawan') ?>" class="nav-link mininav-toggle"><i class="demo-pli-computer-secure fs-5 me-2"></i>
+                            <a href="<?= base_url('admin_pengaduan') ?>" class="nav-link mininav-toggle"><i class="demo-pli-computer-secure fs-5 me-2"></i>
 
                                 <span class="nav-label mininav-content">Laporan Pengaduan</span>
                             </a>
@@ -463,7 +463,7 @@
 
                          <!-- Regular menu link -->
                         <li class="nav-item">
-                            <a href="<?= base_url('jenis_karyawan') ?>" class="nav-link mininav-toggle"><i class="demo-pli-speech-bubble-5 fs-5 me-2"></i>
+                            <a href="<?= base_url('admin_laporan') ?>" class="nav-link mininav-toggle"><i class="demo-pli-speech-bubble-5 fs-5 me-2"></i>
 
                                 <span class="nav-label mininav-content">Arsip</span>
                             </a>
