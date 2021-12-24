@@ -62,7 +62,7 @@
                                                     </div>
                                                     <div class="col-md-6">
                                                         <label for="_dm-inputNama_k" class="form-label">Nama Foto</label>
-                                                        <input id="_dm-inputNama_k" type="date" class="form-control">
+                                                        <input id="_dm-inputNama_k" type="text" class="form-control">
                                                     </div>
                                                     <div class="col-md-12">
                                                         <textarea class="form-control" placeholder="Detail Berita" rows="14"></textarea>

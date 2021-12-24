@@ -7,7 +7,7 @@
         <section id="content" class="content">
             <div class="content__header content__boxed overlapping">
                 <div class="content__wrap pt-3 pb-4">
-                    <h1 class="page-title mb-2 mt-4">Informasi Kegiatan</h1>
+                    <h1 class="page-title mb-2 mt-4">Informasi PPI</h1>
 
                     <p class="lead">
                        RSUD SYAMRABU BANGKALAN
@@ -34,7 +34,7 @@
                                     <div class="card">
                                         <div class="card-header toolbar">
                                             <div class="toolbar-start">
-                                                <h5 class="m-0">Tambah Kegiatan</h5>
+                                                <h5 class="m-0">Tambah Kegiatan PPI</h5>
                                             </div>
                                             <div class="toolbar-end">
                                                 <button type="button" class="btn btn-icon btn-light btn-xs" data-bs-toggle="collapse" data-bs-target="#_dm-collapsedByDefault" aria-expanded="true" aria-controls="_dm-collapsedByDefault">
@@ -50,24 +50,10 @@
                                                         <input id="_dm-inputNama_k" type="date" class="form-control">
                                                     </div>
 
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputNama_k" class="form-label">Judul Kegiatan</label>
-                                                        <input id="_dm-inputNama_k" type="text" class="form-control">
-                                                    </div>
-
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputNama_k" class="form-label">Foto</label>
-                                                        <input type="file" class="form-control" aria-label="file example" required>
-                                                        <div class="invalid-feedback">Example invalid form file feedback</div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <label for="_dm-inputNama_k" class="form-label">Nama Foto</label>
-                                                        <input id="_dm-inputNama_k" type="text" class="form-control">
-                                                    </div>
                                                     <div class="col-md-12">
-                                                        <textarea class="form-control" placeholder="Detail Kegiatan" rows="14"></textarea>
+                                                        <label for="_dm-inputNama_k" class="form-label">Nama Kegiatan</label>
+                                                        <input id="_dm-inputNama_k" type="text" class="form-control">
                                                     </div>
-                                                    
                                                     <div class="col-12">
                                                         <button type="submit" class="btn btn-primary">Tambah</button>
                                                     </div>
@@ -88,13 +74,13 @@
                                     <thead>
                                         <tr>
                                             <th>Tanggal</th>
-                                            <th class="text-center">Judul Berita</th>
+                                            <th class="text-center">Nama Kegiatan</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>05/12/2021</td>
-                                            <td>Green Hospital</td>
+                                            <td>13/12/2021</td>
+                                            <td>Sosialisasi Cuci Tangan</td>
                                         </tr>
                                     </tbody>
                                 </table>
