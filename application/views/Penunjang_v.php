@@ -274,95 +274,17 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="../index.html">
-<img src="wp-content/uploads/elementor/thumbs/new.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
-<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
+
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
+<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
+Admin </a>
 </div>
 </div> </div>
 </div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#1a777f7e736079755a7d777b737634797577">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="18557d7c71627b77587f75797174367b7775">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
+
+
 </div>
 </div>
 </div>
@@ -551,7 +473,7 @@ Pelayanan </h1>
 <li class="filter active" data-filter=".all-departments">Semua Layanan Penunjang</li>
 <li class="filter " data-filter=".radiologi">Radiologi</li>
 <li class="filter " data-filter=".pk">Laboratorium PK</li>
-<li class="filter " data-filter=".pk">Laboratorium PA</li>
+<li class="filter " data-filter=".pa">Laboratorium PA</li>
 <li class="filter " data-filter=".farmasi">Farmasi</li>
 <li class="filter " data-filter=".kemo">Kemoterapi</li>
 <li class="filter " data-filter=".gizi">Gizi</li>
@@ -607,6 +529,8 @@ Pelayanan </h1>
 <a href="" class="doctor_box_link"></a>
 </div>
 
+
+
 </div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
 <div class="doctor_box">
 <div class="doctor_box_img">
@@ -619,6 +543,38 @@ Pelayanan </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">Mobile Unit X-Ray</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_2.jpg 255w, wp-content/uploads/2019/08/pk_2.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">BSC (BioSafety Cabinet)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_15.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_15.jpg 255w, wp-content/uploads/2019/08/pk_15.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Kulkas Reagen</h3>
 </div>
 <a href="" class="doctor_box_link"></a>
 </div>
@@ -655,7 +611,53 @@ Pelayanan </h1>
 <a href="" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_3.jpg 255w, wp-content/uploads/2019/08/pk_3.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Kulkas Penyimpanan Sampel PCR suhu -800 C</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_1.jpg 255w, wp-content/uploads/2019/08/pa_1.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Tissue Tek Vip 5 Jr (untuk processing Tissue) </h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments farmasi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/f_1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/f_1.jpeg 255w, wp-content/uploads/2019/08/f_1.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Depo Farmasi Rawat Inap</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div></div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/2019/08/r_4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_4.jpg 255w, wp-content/uploads/2019/08/r_4.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
@@ -667,6 +669,42 @@ Pelayanan </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">Digital Panoramic</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_5.jpg 255w, wp-content/uploads/2019/08/pk_5.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Laminary Flow </h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+
+
+
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_4.jpg 255w, wp-content/uploads/2019/08/pk_4.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Torax (Alat ekstraksi Otomatis PCR)</h3>
 </div>
 <a href="" class="doctor_box_link"></a>
 </div>
@@ -686,6 +724,290 @@ Pelayanan </h1>
 </div>
 <a href="" class="doctor_box_link"></a>
 </div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_5.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_5.jpg 255w, wp-content/uploads/2019/08/pa_5.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Zentrifugen  (proses pemisahan cairan)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_1.jpg 255w, wp-content/uploads/2019/08/pk_1.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Real Time PCR</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_6.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_6.jpg 255w, wp-content/uploads/2019/08/pk_6.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Architect Plus (Auto Analyzer Pemeriksaan Kimia Klinik)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_7.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_7.jpg 255w, wp-content/uploads/2019/08/pk_7.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Auto Analyzer Hematologi merk Ruby</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_8.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_8.jpg 255w, wp-content/uploads/2019/08/pk_8.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Auto Analyzer Hematologi merk Emerald</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_9.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_9.jpg 255w, wp-content/uploads/2019/08/pk_9.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Auto Analyzer  Imunologi (Merk BioMerieux)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_10.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_10.jpg 255w, wp-content/uploads/2019/08/pk_10.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Analisa Elektrolit (Merk Rapidchem)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_11.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_11.jpg 255w, wp-content/uploads/2019/08/pk_11.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Cobas E 411 (pemeriksaan antibodi Sarscov)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_12.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_12.jpg 255w, wp-content/uploads/2019/08/pk_12.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Stago Pemeriksaan Faal Hemostasis (PT/APTT))</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_13.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_13.jpg 255w, wp-content/uploads/2019/08/pk_13.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Urinalisa Lengkap/ Rutin</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div> 
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_14.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_14.jpg 255w, wp-content/uploads/2019/08/pk_14.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Sterilisator alat </h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_3.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_3.jpg 255w, wp-content/uploads/2019/08/pa_3.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Tissue Tek "TEC" ( untuk proses kaset jaringan) </h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_2.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_2.jpg 255w, wp-content/uploads/2019/08/pa_2.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Tissue Tek "DRS" (untuk Pengecatan)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_4.jpg 255w, wp-content/uploads/2019/08/pa_4.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Accu Cut  SRM (Pemotongan kaset / cutting Process)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_6.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_6.jpg 255w, wp-content/uploads/2019/08/pa_6.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Pemeriksaan TCM (Tes Cepat Molekuler)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pa">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pa_7.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pa_7.jpg 255w, wp-content/uploads/2019/08/pa_7.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Beckman Coulter ( idektifikasi kuman dan sensitifitas antibiotik)</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+</div>
+
+<div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments pk">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/pk_16.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/pk_16.jpg 255w, wp-content/uploads/2019/08/pk_16.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Centrifuge (untuk crossmatch) </h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+
+
 
 
 

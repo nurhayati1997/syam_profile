@@ -1702,6 +1702,39 @@ News &amp; Blog
 		<div class="elementskit-post-image-card">
 			<div class="elementskit-entry-header">
 				<a class="elementskit-entry-thumb">
+					<img src="wp-content/uploads/2019/08/berita03.jpg" alt="Result is a regal and trust worthy look that">
+				</a>
+				<div class="elementskit-meta-lists elementskit-style-tag">
+					<div class="elementskit-single-meta ">
+						<span class="elementskit-meta-wraper">
+							<strong>27</strong>Des
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="elementskit-post-body ">
+				<div class="post-meta-list">
+					<span class="meta-author">
+						<i aria-hidden="true" class="icon icon-user"></i>
+						<a  class="author-name">YASMITA RAHAJENG <br>Dokter Spesialis Penyakit Dalam RSUD Syamrabu</a>
+					</span>
+					<span class="post-cat">
+						<i aria-hidden="true" class="icon icon-folder"></i>
+						<a  rel="category tag">RSUD SYAMRABU</a> 
+					</span>
+				</div>
+				<h2 class="entry-title">
+					<a href="<?php echo site_url('berita27_12');?>">
+					Waspadai Penyakit DBD 
+					</a>
+				</h2>
+			</div>
+		</div>	
+	</div>
+<div class="col-lg-4 col-md-6">
+		<div class="elementskit-post-image-card">
+			<div class="elementskit-entry-header">
+				<a class="elementskit-entry-thumb">
 					<img src="wp-content/uploads/2019/08/berita02.jpg" alt="Result is a regal and trust worthy look that">
 				</a>
 				<div class="elementskit-meta-lists elementskit-style-tag">

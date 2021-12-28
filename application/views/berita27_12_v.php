@@ -268,7 +268,6 @@ img.emoji {
 <div class="elementor-widget-container">
 <div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
 <div class="elementor-inner">
-
 <div class="elementor-section-wrap">
 <section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
@@ -278,13 +277,93 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-
+<div class="elementor-image">
+<a href="index.html">
+<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
+</div>
+ <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
+</div>
+</div>
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
-Admin </a>
+<a href="#" class="elementskit-btn  whitespace--normal">
+Consultation </a>
 </div>
+</div> </div>
+</div>
+<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
+</div>
+<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
+<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
+</li>
+<li class="elementor-icon-list-item">
+<a href="tel:0000000000000">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
+<span class="elementor-icon-list-text">(000) 000-000-0000</span>
+</a>
+</li>
+<li class="elementor-icon-list-item">
+<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#670a02030e1d040827000a060e0b4904080a">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope"></i> </span>
+<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="4e032b2a27342d210e29232f2722602d2123">[email&#160;protected]</span></span>
+</a>
+</li>
+<li class="elementor-icon-list-item">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-clock"></i> </span>
+<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <ul class="ekit_social_media">
+<li class="elementor-repeater-item-bb0a9dd">
+<a href="https://facebook.com/" target="_blank" class="facebook">
+<i aria-hidden="true" class="fasicon icon-facebook"></i>
+</a>
+</li>
+<li class="elementor-repeater-item-525770f">
+<a href="https://facebook.com/" target="_blank" class="twitter">
+<i aria-hidden="true" class="fasicon icon-twitter"></i>
+</a>
+</li>
+<li class="elementor-repeater-item-3b5b739">
+<a href="https://facebook.com/" target="_blank" class="linkedin">
+<i aria-hidden="true" class="fasicon icon-linkedin"></i>
+</a>
+</li>
+<li class="elementor-repeater-item-f3e4f69">
+<a href="https://facebook.com/" target="_blank" class="instagram1">
+<i aria-hidden="true" class="fasicon icon-instagram1"></i>
+</a>
+</li>
+<li class="elementor-repeater-item-0d29ad9">
+<a href="https://facebook.com/" target="_blank" class="youtube">
+<i aria-hidden="true" class="fasicon icon-youtube"></i>
+</a>
+</li>
+</ul>
 </div> </div>
 </div>
 </div>
@@ -293,7 +372,6 @@ Admin </a>
 </div>
 </div>
 </section>
-
 </div>
 </div>
 </div>
@@ -979,221 +1057,105 @@ Elements </h3>
 <div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-Informasi </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
-    <li class="curves left"></li>
-    <li class="curves right"></li>
-    <li><a href="https://wp.xpeedstudio.com/medizco">Berita </a></li> 
-    <li class="seperator">-</li><li>RSUD</li></ul> </div>
+Waspadai Penyakit DBD </h1>
+</div>
 </div>
 </div>
 
-<div id="post-2" class="home-page-contents post-2 page type-page status-publish hentry" role="main">
-<div class="builder-content">
-<div data-elementor-type="wp-post" data-elementor-id="2" class="elementor elementor-2" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
+<div id="main-content" class="main-container blog-single" role="main">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-12">
+<article id="post-916" class="post-content post-single post-916 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+<div class="post-media post-image">
+<img width="800" height="490" src="wp-content/uploads/2019/08/berita03.jpg" class="img-fluid" alt="Hospital doctors examine patients so that" loading="lazy" srcset="wp-content/uploads/2019/08/berita03.jpg 800w, wp-content/uploads/2019/08/berita03.jpg 300w, wp-content/uploads/2019/08/berita03.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
+<div class="post-body clearfix">
 
+<header class="entry-header clearfix">
+<div class="post-meta">
+<span class="post-meta-date">
+<i class="fa fa-clock-o"></i>
+Desember 27, 2021</span><span class="meta-categories post-cat">
+<i class="fa fa-folder"></i>
+<a rel="category tag">RSUD SYAMRABU</a>
+</span> <span class="post-comment"><i class="fa fa-comment"></i><a href="#" class="comments-link"></a>0</span> </div>
+</header>
 
-<!-- list -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-77bccca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bccca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8728104" data-id="8728104" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4338bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4338bb" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-980d41f" data-id="980d41f" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bce3e8" data-id="3bce3e8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-	<div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
-		<h2 class="ekit-heading--title elementskit-section-title ">
-			News &amp; Blog
-		</h2> 
-		<div class='ekit-heading__description'>
-			<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
-		</div>
-	</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7927b41 elementor-hidden-tablet elementor-hidden-phone" data-id="7927b41" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+<div class="entry-content clearfix">
+<p>Demam berdarah dengue (DBD) harus diwaspadai saat musim hujan seperti saat ini. DBD banyak ditemukan di daerah tropis dan subtropis seperti di Asia Tenggara, termasuk Indonesia.</p>
+<p>Dokter Spesialis Penyakit Dalam RSUD Syamrabu Bangkalan Yasmita Rahajeng menjelaskan, DBD disebabkan oleh virus dari family flaviviradae. Virus itu dibawa dan disebarkan oleh nyamuk Aedes aegypti. Gejala yang ditimbulkan dari DBD yaitu demam tinggi 39–40 derajat.</p>
+<p>”Biasa terjadi antara empat sampai enam hari,” jelas alumnus Fakultas Kedokteran Universitas Brawijaya itu kemarin (26/12).</p>
+<p>Selain itu, sesorang yang terjangkit DBD akan mengalami sakit kepala, nyeri otot, sendi, dan diikuti adanya tanda-tanda perdarahan.  Seperti, bintik-bintik merah di kaki atau tangan, mimisan, gusi berdarah, ataupun buang air besar berwarna hitam.  ”Apabila seorang pasien sudah mengalami gejala seperti itu, harus dilakukan pemeriksaan laboratorium. Sehingga, akan ditemukan peningkatan hematokrit, penurunan leukosit, kadang disertai dengan penurunan trombosit dan juga peningkatan enzim liver,” paparnya.</p>
+<p>Ada beberapa tindakan yang harus dilakukan jika terdapat anggota keluarga yang mengalami gejala. Yaitu, segera dibawa ke fasilitas kesehatan (faskes), seperti puskesmas terdekat ataupun rumah sakit. Tujuannya, untuk mendapatkan perawatan dan penanganan medis yang maksimal.</p>
+<p>”Jika terlambat dibawa ke faskes, dapat menyebabkan timbulnya komplikasi, berupa penurunan kesadaran, perdarahan hebat, terakumulasinya cairan di paru disertai dengan gagal napas dan jatuh ke kondisi shock, bahkan bisa berujung kepada kematian,” tutur dokter berjilbab itu.</p>
+<p>Untuk mengantisipasi adanya anggota keluarga yang terjangkiti DBD, maka harus melakukan pencegahan dengan cara gerakan 3M plus. Yaitu menguras, menutup, dan mengubur.  Menguras, artinya membersihkan tempat-tempat penampungan air seperti bak mandi, kendi, toren air, drum, dan tempat penampungan air lainnya.</p>
+<p>Kemudian, menutup kembali tempat-tempat penampungan air yang telah dikuras. Terakhir, mengubur barang-barang bekas yang berpotensi menjadi sarang atau tempat nyamuk berkembang biak. Contohnya, kaleng bekas yang terdapat di halaman rumah.</p>
+<p>Sementara plus-nya yaitu, berupa tindakan tambahan berupa memelihara ikan pemakan jentik nyamuk, menggunakan obat antinyamuk saat tidur, dan memasang kawat kasa pada jendela dan ventilasi. Lalu, memberikan larvasida pada penampungan air yang susah dikuras dan tidak menaruh pakaian kotor sembarangan.</p>
+<p>”Salah satu yang paling penting lagi, semangat gotong royong dalam membersihkan lingkungan,” pungkasnya. </p>
+<div class="post-footer clearfix">
+</div> 
+</div> 
+</div> 
+</article>
 
-<div class="elementor-element elementor-element-5c5f752 elementor-widget elementor-widget-elementskit-blog-posts" data-id="5c5f752" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div id="post-items--5c5f752" class="row post-items">
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita03.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>27</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">YASMITA RAHAJENG <br>Dokter Spesialis Penyakit Dalam RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita27_12');?>">
-					Waspadai Penyakit DBD 
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita02.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>21</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">dr. Irwan Wibowo, Sp.An <br>Dokter Penanggung Jawab Anestesi RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita21_12');?>">
-					Pemulihan Operasi ERACS Lebih Cepat 
-					</a>
-				</h2>
-			</div>
-		</div>	
+<!-- <nav class="post-navigation clearfix">
+<div class="post-previous">
+<a href="../the-website-of-the-royal-melbourne-hospital/index.html">
+<h3>The website of the Royal Melbourne Hospital</h3>
+<span><i class="fa fa-long-arrow-left"></i>Previous post</span>
+</a>
+</div>
+<div class="post-next">
+</div>
+</nav> -->
+<div id="comments" class="blog-post-comment">
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small>
+			<a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small>
+		</h3>
+		<form action="https://wp.xpeedstudio.com/medizco/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+			<p class="comment-notes">
+				<span id="email-notes"></span>  
+				<span class="required"></span></p><div class="comment-info row"><div class="col-md-6">
+					
 	</div>
 
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita01.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>13</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">Taufik Qurrohman Perawat Bedah</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita13_12');?>">
-					Perawatan Pasca Operasi Hernia 
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
+</div>
+ </div>
+</div>
+</div> 
+<div class="col-lg-4 col-md-12">
+<aside id="sidebar" class="sidebar" role="complementary">
+<div id="search-2" class="widget widget_search">
+<form method="get" action="https://wp.xpeedstudio.com/medizco/" class="medizco-serach xs-search-group">
+<div class="input-group">
+<input type="search" class="form-control" name="s" placeholder="Search" value="">
+<button class="input-group-btn search-button"><i class="fa fa-search"></i></button>
+</div>
+</form></div>
+<div id="recent-posts-2" class="widget widget_recent_entries">
+<h3 class="widget-title">Recent Posts</h3>
+<ul>
+<li>
+<a href="<?php echo site_url('berita13_12');?>" aria-current="page">Perawatan Pasca Operasi Hernia</a>
+</li>
+<li>
+<!-- <a href="../the-website-of-the-royal-melbourne-hospital/index.html">The website of the Royal Melbourne Hospital</a> -->
+</li>
+<li>
+<!-- <a href="../../20/result-is-a-regal-and-trust-worthy-look-that/index.html">Result is a regal and trust worthy look that</a> -->
+</li>
+</ul>
+</div><div id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>
+<ul>
+<li><a>Desember 2021</a></li>
+</ul>
+</div> </aside> 
+</div>
+</div> 
+</div> 
+</div> 
 
-	<!-- <div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>20</strong>Aug
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a href="blog/author/medizco/index.html" class="author-name">Medizco</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a href="blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
-						hdfhgjyjtf
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div> -->
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
