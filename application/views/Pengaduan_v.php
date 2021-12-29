@@ -617,7 +617,7 @@ Pengaduan </h1>
 <div class="elementor-element elementor-element-154848e mr-auto ml-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="154848e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Indeks Mutu
+Indikator Mutu
 </h2></div></div> </div>
 </div>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-260d7d5 elementor-columns-center elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="260d7d5" data-element_type="section">

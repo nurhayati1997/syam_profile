@@ -624,7 +624,7 @@ Praktik Dokter
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="wp-content/uploads/2019/10/igd_1.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_1.png 645w, wp-content/uploads/2019/10/igd_1.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs1.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs1.jpeg 645w, wp-content/uploads/2019/10/rs1.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -640,7 +640,7 @@ Praktik Dokter
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Pelayanan Triase </h3>
+Praktek Dokter Muda UWK di poli Kandungan </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -666,7 +666,7 @@ Pelayanan Triase </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Ruang Resutasi </h3>
+Praktek Dokter Muda UWK di poli Gigi </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -676,7 +676,7 @@ Ruang Resutasi </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="wp-content/uploads/2019/10/igd_2.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_2.png 645w, wp-content/uploads/2019/10/igd_2.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs2.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs2.jpeg 645w, wp-content/uploads/2019/10/rs2.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -690,7 +690,7 @@ Ruang Resutasi </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/igd_3.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_3.png 645w, wp-content/uploads/2019/10/igd_3.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs3.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs3.jpeg 645w, wp-content/uploads/2019/10/rs3.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -705,7 +705,7 @@ Ruang Resutasi </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Ruang Observasi </h3>
+Pemberian Cidera Mata Dokter Muda UNISMA selesai KOAS </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -733,7 +733,7 @@ Ruang Observasi </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Tempat Tidur </h3>
+Orientasi ATEM POLTEK Surabaya </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -743,7 +743,7 @@ Tempat Tidur </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="wp-content/uploads/2019/10/igd_4.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_4.png 645w, wp-content/uploads/2019/10/igd_4.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs4.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs4.jpeg 645w, wp-content/uploads/2019/10/rs4.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -767,7 +767,7 @@ Tempat Tidur </h3>
 <div class="elementor-element elementor-element-56ded25 elementor-widget elementor-widget-image" data-id="56ded25" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="449" src="wp-content/uploads/2019/10/igd_5.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_5.png 645w, wp-content/uploads/2019/10/igd_5.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs5.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs5.jpeg 645w, wp-content/uploads/2019/10/rs5.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-c36fed4 icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="c36fed4" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -783,7 +783,9 @@ Tempat Tidur </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Bed Tambahan </h3>
+Orientasi Penerimaan <br> D3 Gizi (IKLBIS)
+<br> D3 Kebidanan (POLTEKES Surabaya)
+<br> SI Keperawatan (NHM) </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -809,7 +811,7 @@ Bed Tambahan </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Ruang Ponek </h3>
+Orientasi Penerimaan Profesi NERS STIKES BINA SEHAT PPNI MOJOKERTO </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -819,7 +821,7 @@ Ruang Ponek </h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="wp-content/uploads/2019/10/igd_6.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_6.png 645w, wp-content/uploads/2019/10/igd_6.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs6.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs6.jpeg 645w, wp-content/uploads/2019/10/rs6.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
@@ -833,7 +835,7 @@ Ruang Ponek </h3>
 <div class="elementor-widget-container">
 <div class="elementor-image">
     <!-- GAMBAR -->
-<img width="645" height="449" src="wp-content/uploads/2019/10/igd_7.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_7.png 645w, wp-content/uploads/2019/10/igd_7.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs7.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs7.jpeg 645w, wp-content/uploads/2019/10/rs7.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-e2ffbbe icon_box_3 text-center ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="e2ffbbe" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
@@ -848,7 +850,7 @@ Ruang Ponek </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Petugas Medis & Paramedis </h3>
+Permohonan MOU STIKES BINA SEHAT PPNI MOJOKERTO </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -876,7 +878,7 @@ Petugas Medis & Paramedis </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Depo Obat</h3>
+Orientasi Analis NHM </h3>
 <!-- <p>Our exceptional and experienced staff is dedicated to improving our patients’ dental health and enhancing </p> -->
 </div>
 </div>
@@ -886,7 +888,7 @@ Depo Obat</h3>
 <div class="elementor-element elementor-element-2740c19 elementor-widget elementor-widget-image" data-id="2740c19" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="645" height="448" src="wp-content/uploads/2019/10/igd_8.png" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/igd_8.png 645w, wp-content/uploads/2019/10/igd_8.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
+<img width="645" height="449" src="wp-content/uploads/2019/10/rs8.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="wp-content/uploads/2019/10/rs8.jpeg 645w, wp-content/uploads/2019/10/rs8.jpeg 300w" sizes="(max-width: 645px) 100vw, 645px" /> </div>
 </div>
 </div>
 </div>
