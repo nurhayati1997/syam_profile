@@ -1210,7 +1210,7 @@ Informasi </h1>
 <div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments gigi">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.soniya.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.soniya.png 255w, wp-content/uploads/spesialis/dr.soniya.png" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
 <div class="doctor_box_icon">
@@ -1264,7 +1264,7 @@ Informasi </h1>
 <div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bedah_saraf jiwa">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/spesialis/dr.dokter.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.dokter.jpg 255w, wp-content/uploads/spesialis/dr.dokter.jpg" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
+<img width="255" height="255" src="wp-content/uploads/spesialis/dr.indra.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/spesialis/dr.indra.png 255w, wp-content/uploads/spesialis/dr.indra.png" sizes="(max-width: 255px) 100vw, 255px" /> <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
 <div class="doctor_box_icon">
@@ -1272,7 +1272,7 @@ Informasi </h1>
 </div>
 <div class="doctor_box_content">
 <h3 class="doctor_box_title">dr. Indra Damayanti, Sp. Bs</h3>
-<p class="doctor_box_role">Bedah Saraf</p>
+<p class="doctor_box_role">Bedah Saraf & Jiwa</p>
 </div>
 <a  class="doctor_box_link"></a>
 </div>
