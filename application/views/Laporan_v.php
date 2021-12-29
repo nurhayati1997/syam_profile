@@ -556,7 +556,14 @@ Laporan
 <li class="product type-product post-17 status-publish first instock product_cat-tshirts has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 		<img width="300" height="300" src="wp-content/uploads/2019/01/01.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/01.jpg 300w, wp-content/uploads/2019/01/01.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">LAKIP 2019</h2>
+		<h2 class="woocommerce-loop-product__title">
+			<div class="button_01">
+				<a href="wp-content/uploads/file/LAKIP_2019.pdf" text="center">LAKIP 2019</a>
+			</div>
+			<!-- <a href="wp-content/uploads/file/LAKIP_2019.pdf"> -->
+		</h2>
+		
+		<!-- <embed type="application/pdf" src="wp-content/uploads/file/LAKIP_2019.pdf" width="600" height="400"></embed> -->
 		<span class="price"><span class="woocommerce-Price-amount amount">
 			<bdi><span class="woocommerce-Price-currencySymbol"></span>Thn.2019</bdi></span>
 		</span>
@@ -575,7 +582,11 @@ Laporan
 <li class="product type-product post-6 status-publish outofstock product_cat-tshirts has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
 	<a href="../product/eye-protected-glass/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 		<img width="300" height="300" src="wp-content/uploads/2019/01/03.png 768w" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/03.png 300w, wp-content/uploads/2019/01/03.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">IKM 2021</h2>
+		<h2 class="woocommerce-loop-product__title">
+			<div class="button_01">
+				<a href="wp-content/uploads/file/skm_2021.pdf" text="center">SKM 2021</a>
+			</div>
+		</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
 			<span class="woocommerce-Price-currencySymbol"></span>Thn.2021</bdi></span> 
 			<!-- <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">; -->
@@ -585,9 +596,13 @@ Laporan
 <li class="product type-product post-4833 status-publish last instock product_cat-hoodies has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="../product/face-mask/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 		<img width="300" height="300" src="wp-content/uploads/2019/01/04.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/04.png 300w, wp-content/uploads/2019/01/04.png 768w" sizes="(max-width: 300px) 100vw, 300px" />
-		<h2 class="woocommerce-loop-product__title">LAKIP 2022</h2>
+		<h2 class="woocommerce-loop-product__title">
+			<div class="button_01">
+				<a href="wp-content/uploads/file/LAKIP_2020.pdf" text="center">LAKIP 2020</a>
+			</div>
+		</h2>
 		<span class="price"><span class="woocommerce-Price-amount amount"><bdi>
-			<span class="woocommerce-Price-currencySymbol"></span>Thn.2022</bdi>
+			<span class="woocommerce-Price-currencySymbol"></span>Thn.2020</bdi>
 		</span></span>
 	</a>
 </li>
