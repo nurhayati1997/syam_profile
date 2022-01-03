@@ -657,7 +657,89 @@ Pelayanan </h1>
 <h3 class="doctor_box_title">Depo Farmasi Rawat Inap</h3>
 </div>
 <a href="" class="doctor_box_link"></a>
-</div></div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments farmasi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/f_2.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/f_2.jpeg 255w, wp-content/uploads/2019/08/f_2.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Depo Farmasi Rawat Jalan</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments farmasi">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/f_3.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/f_3.jpeg 255w, wp-content/uploads/2019/08/f_3.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Kamar Obat Rawat Jalan</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments ambulan">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/a_1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/a_1.jpeg 255w, wp-content/uploads/2019/08/a_1.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Mobil Ambulance</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments ambulan">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/a_2.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/a_2.jpeg 255w, wp-content/uploads/2019/08/a_2.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Crew Ambulance</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments ambulan">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/a_3.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/a_3.jpeg 255w, wp-content/uploads/2019/08/a_3.jpeg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">Unit Ambulance</h3>
+</div>
+<a href="" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments radiologi">
 <div class="doctor_box">
 <div class="doctor_box_img">
 <img width="255" height="255" src="wp-content/uploads/2019/08/r_4.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2019/08/r_4.jpg 255w, wp-content/uploads/2019/08/r_4.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /> 
