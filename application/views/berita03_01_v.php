@@ -268,7 +268,6 @@ img.emoji {
 <div class="elementor-widget-container">
 <div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
 <div class="elementor-inner">
-
 <div class="elementor-section-wrap">
 <section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
@@ -287,13 +286,13 @@ Admin </a>
 </div>
 </div> </div>
 </div>
+
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
-
 </div>
 </div>
 </div>
@@ -979,255 +978,102 @@ Elements </h3>
 <div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-Informasi </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
-    <li class="curves left"></li>
-    <li class="curves right"></li>
-    <li><a href="https://wp.xpeedstudio.com/medizco">Berita </a></li> 
-    <li class="seperator">-</li><li>RSUD</li></ul> </div>
+Waspadai Penyakit DBD  terhadap Anak
+</h1>
+</div>
 </div>
 </div>
 
-<div id="post-2" class="home-page-contents post-2 page type-page status-publish hentry" role="main">
-<div class="builder-content">
-<div data-elementor-type="wp-post" data-elementor-id="2" class="elementor elementor-2" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
+<div id="main-content" class="main-container blog-single" role="main">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-md-12">
+<article id="post-916" class="post-content post-single post-916 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+<div class="post-media post-image">
+<img width="800" height="490" src="wp-content/uploads/2019/08/berita04.jpg" class="img-fluid" alt="Hospital doctors examine patients so that" loading="lazy" srcset="wp-content/uploads/2019/08/berita04.jpg 800w, wp-content/uploads/2019/08/berita04.jpg 300w, wp-content/uploads/2019/08/berita04.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
+<div class="post-body clearfix">
 
+<header class="entry-header clearfix">
+<div class="post-meta">
+<span class="post-meta-date">
+<i class="fa fa-clock-o"></i>
+Januari 03, 2022</span><span class="meta-categories post-cat">
+<i class="fa fa-folder"></i>
+<a rel="category tag">RSUD SYAMRABU</a>
+</span> <span class="post-comment"><i class="fa fa-comment"></i><a href="#" class="comments-link"></a>0</span> </div>
+</header>
 
-<!-- list -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-77bccca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bccca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8728104" data-id="8728104" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4338bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4338bb" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-980d41f" data-id="980d41f" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bce3e8" data-id="3bce3e8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-	<div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-">
-		<h2 class="ekit-heading--title elementskit-section-title ">
-			News &amp; Blog
-		</h2> 
-		<div class='ekit-heading__description'>
-			<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
-		</div>
-	</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7927b41 elementor-hidden-tablet elementor-hidden-phone" data-id="7927b41" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+<div class="entry-content clearfix">
+<p>Demam berdarah dengue (DBD) menjadi salah satu penyakit yang harus diwaspadai. Penyakit berbahaya itu dapat menyerang siapa saja, tidak mengenal orang dewasa ataupun anak-anak.</p>
+<p>Dokter Penanggung Jawab Poli Anak RSUD Syamrabu dr. Shirley Ferlina, M.Ked., Sp.A menjelaskan, DBD merupakan infeksi virus dengue. Kasus itu banyak ditemukan di negara dengan iklim tropis, salah satunya Indonesia. Virus itu ditularkan oleh gigitan nyamuk Aedes aegypti dan Aedes albopictus.</p>
+<p>Virus dengue terdiri atas empat tipe. Sedangkan tipe yang paling dominan ditemukan di Indonesia yaitu DEN-3. Tipe DEN-3 sangat berhubungan dengan kasus yang berat sehingga dapat mengancam nyawa penderita.</p>
+<p>”Kalau target WHO (World Health Organization) untuk infeksi virus dengue adalah menekan angka kematian kurang dari satu persen,” terangnya kemarin (2/1).</p>
+<p>Dari 84 kasus DBD yang masuk perawatan RSUD Syamrabu, penderita didominasi kelompok usia tiga sampai sepuluh tahun atau anak. Karena itu, peran orang tua sangat penting agar anak tidak terjangkiti virus berbahaya itu.</p>
+<p>Pencegahan dan pengendalian DBD bergantung pada pengendalian nyamuk yang efektif melalui gerakan 3M plus. Yakni, menguras tempat penampungan air, menutup, dan mengubur barang bekas. ”Hindari gigitan nyamuk dengan memakai kelambu dan obat nyamuk saat tidur,” sarannya.</p>
+<div class="post-footer clearfix">
+</div> 
+</div> 
+</div> 
+</article>
 
-<div class="elementor-element elementor-element-5c5f752 elementor-widget elementor-widget-elementskit-blog-posts" data-id="5c5f752" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div id="post-items--5c5f752" class="row post-items">
-	
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita04.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>3</strong>Jan
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">dr. Shirley Ferlina, M.Ked., Sp.A <br>Dokter Penanggung Jawab Poli Anak RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita03_01');?>">
-					Waspadai Penyakit DBD  terhadap Anak
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita03.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>27</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">YASMITA RAHAJENG <br>Dokter Spesialis Penyakit Dalam RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita27_12');?>">
-					Waspadai Penyakit DBD 
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita02.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>21</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">dr. Irwan Wibowo, Sp.An <br>Dokter Penanggung Jawab Anestesi RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita21_12');?>">
-					Pemulihan Operasi ERACS Lebih Cepat 
-					</a>
-				</h2>
-			</div>
-		</div>	
+<!-- <nav class="post-navigation clearfix">
+<div class="post-previous">
+<a href="../the-website-of-the-royal-melbourne-hospital/index.html">
+<h3>The website of the Royal Melbourne Hospital</h3>
+<span><i class="fa fa-long-arrow-left"></i>Previous post</span>
+</a>
+</div>
+<div class="post-next">
+</div>
+</nav> -->
+<div id="comments" class="blog-post-comment">
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small>
+			<a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small>
+		</h3>
+		<form action="https://wp.xpeedstudio.com/medizco/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+			<p class="comment-notes">
+				<span id="email-notes"></span>  
+				<span class="required"></span></p><div class="comment-info row"><div class="col-md-6">
+					
 	</div>
 
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita01.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>13</strong>Des
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">Taufik Qurrohman Perawat Bedah</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita13_12');?>">
-					Perawatan Pasca Operasi Hernia 
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
+</div>
+ </div>
+</div>
+</div> 
+<div class="col-lg-4 col-md-12">
+<aside id="sidebar" class="sidebar" role="complementary">
+<div id="search-2" class="widget widget_search">
+<form method="get" action="https://wp.xpeedstudio.com/medizco/" class="medizco-serach xs-search-group">
+<div class="input-group">
+<input type="search" class="form-control" name="s" placeholder="Search" value="">
+<button class="input-group-btn search-button"><i class="fa fa-search"></i></button>
+</div>
+</form></div>
+<div id="recent-posts-2" class="widget widget_recent_entries">
+<h3 class="widget-title">Recent Posts</h3>
+<ul>
+<li>
+<a href="<?php echo site_url('berita13_12');?>" aria-current="page">Waspadai Penyakit DBD  terhadap Anak</a>
+</li>
+<li>
+<!-- <a href="../the-website-of-the-royal-melbourne-hospital/index.html">The website of the Royal Melbourne Hospital</a> -->
+</li>
+<li>
+<!-- <a href="../../20/result-is-a-regal-and-trust-worthy-look-that/index.html">Result is a regal and trust worthy look that</a> -->
+</li>
+</ul>
+</div><div id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>
+<ul>
+<li><a>Januari 2022</a></li>
+</ul>
+</div> </aside> 
+</div>
+</div> 
+</div> 
+</div> 
 
-	<!-- <div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html" class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/post-03.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>20</strong>Aug
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a href="blog/author/medizco/index.html" class="author-name">Medizco</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a href="blog/category/uncategorized/index.html" rel="category tag">Uncategorized</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="blog/2019/08/20/result-is-a-regal-and-trust-worthy-look-that/index.html">
-						hdfhgjyjtf
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div> -->
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
 <div class="footer_copyright">
 <div class="container">
 <div class="footer_copyright_text wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
