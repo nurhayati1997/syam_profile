@@ -1172,8 +1172,8 @@ Elements </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Terapi &amp; Dukungan Spesialis </h3>
-<p> Rumah sakit berharap menjadi Rumah sakit pilihan Utama layanan rehabilitasi oleh spesialis ahli</p>
+MOTTO </h3>
+<p>Kesembuhan Anda Komitmen Kami</p>
 </div>
 </div>
 </a>
@@ -1198,8 +1198,8 @@ Terapi &amp; Dukungan Spesialis </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Diagnosis &amp; Investigasi </h3>
-<p>Dokter rumah sakit melakukan pemeriksaan pasien sehingga mereka dapat mendiagnosis dan mengobati pasien</p>
+Slogan</h3>
+<p>"BERTASBIH" <br> Bersih Ramah Tanggap Siaga Bekerja Ikhlas</p>
 </div>
 </div>
 </a>
@@ -1224,8 +1224,8 @@ Diagnosis &amp; Investigasi </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Perawatan Medis &amp; Bedah </h3>
-<p>Bidang Kedokteran yang sangat luas Memungkinan banyaknya dokter spesialis dan Beberapa dokter umum </p>
+Janji Pelayanan</h3>
+<p>Mendahulukan Kepentingan Pasien dan Pendidikan</p>
 </div>
 </div>
 </a>
