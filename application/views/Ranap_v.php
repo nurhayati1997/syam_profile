@@ -277,95 +277,16 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="../index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
-<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
+
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
+<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
+Admin </a>
 </div>
 </div> </div>
 </div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#7e131b1a17041d113e19131f1712501d1113">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="9ed3fbfaf7e4fdf1def9f3fff7f2b0fdf1f3">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
+
 </div>
 </div>
 </div>
@@ -975,127 +896,6 @@ IRNA H</h3>
 
 
 
-
-
-<section class="elementor-section elementor-top-section elementor-element elementor-element-2fb1cbf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fb1cbf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-955f281" data-id="955f281" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-154848e mr-auto ml-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="154848e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Our primary mission and ultimate goal is to achieve clear and healthy skin
-</h2></div></div> </div>
-</div>
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-260d7d5 elementor-columns-center elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="260d7d5" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-521a8e7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone" data-id="521a8e7" data-element_type="column">
- <div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ed9710d elementor-invisible" data-id="ed9710d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-116fbe5 elementor-widget elementor-widget-elementskit-funfact" data-id="116fbe5" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-atomic elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c5dfe16 elementor-invisible" data-id="c5dfe16" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2c63475 elementor-widget elementor-widget-elementskit-funfact" data-id="2c63475" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-abacus1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-eab34c0 elementor-invisible" data-id="eab34c0" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2db0854 elementor-widget elementor-widget-elementskit-funfact" data-id="2db0854" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-trophy1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Skincare Treatments</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
- </div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d426f9b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone" data-id="d426f9b" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<div class="elementor-element elementor-element-f7705a5 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="f7705a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:800}" data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper">
-<a href="tel:212-600-4274" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-button-text">Call 212-600-4274</span>
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
 <section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-background-overlay"></div>
 <div class="elementor-container elementor-column-gap-no">
@@ -1120,7 +920,7 @@ Our primary mission and ultimate goal is to achieve clear and healthy skin
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
 Jumlah Tempat Tidur
 </h2> <div class='ekit-heading__description'>
-<p>Behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right</p>
+<p>Berikut Jumlah Tempat Tidur</p>
 </div>
 </div></div> </div>
 </div>
@@ -1141,42 +941,16 @@ Jumlah Tempat Tidur
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="profile-card elementor-animation- text-center ekit-team-style-default">
-<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block">
-<img loading="lazy" width="270" height="270" src="../wp-content/uploads/2019/09/home-3-team-1.jpg" class="attachment-medium size-medium" alt="" /> </div>
-<div class="profile-body">
-<div class="profile-icon">
-<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
-<h2 class="profile-title">
-Grace Amelia </h2>
-<p class="profile-designation">Therapist</p>
-</div>
-<div class="profile-footer">
-<ul class="ekit-team-social-list">
-<li class="elementor-repeater-item-b37fad5">
-<a href="https://facebook.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-facebook"></i> </a>
-</li>
-<li class="elementor-repeater-item-1a3ab10">
-<a href="https://twitter.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-twitter"></i> </a>
-</li>
-<li class="elementor-repeater-item-7f57670">
-<a href="https://linkedin.com/" target="_blank" rel="nofollow">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i> </a>
-</li>
-<li class="elementor-repeater-item-44f5c48">
-<a href="https://youtube.com/">
-<i aria-hidden="true" class="fasicon icon-youtube"></i> </a>
-</li>
-</ul>
-</div>
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/tt.png" class="attachment-medium size-medium" alt="" /> </div>
+
 </div>
 </div> </div>
 </div>
