@@ -275,95 +275,17 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
-<div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
+
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
+<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
+Admin </a>
 </div>
 </div> </div>
 </div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#c2afa7a6abb8a1ad82a5afa3abaeeca1adaf">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="0a476f6e637069654a6d676b636624696567">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
+
+
 </div>
 </div>
 </div>
@@ -559,34 +481,47 @@ Consultation </a>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-fd53ad5 pricing_boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd53ad5" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title"> BERSEMA </h3>
-</div>
+
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
 <!-- <sup class="currency">$</sup> -->
-<span>Senin <br> - <br>Sabtu</span>
-<sub class="period"> Jam Kerja</sub>
+<span>Pendaftaran Online <br> "Yuk Ngantri syamrabu"</span>
+<sub> <br> Jam Pelayanan: <br> Pendaftaran dilakukan sejak H-1 sampai batas kuota.( jam 10.00 hari pelayanan )</sub>
 </span>
+</div>
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">CP: 031-3095088, 3091111, 3097761 </h3>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Bersalin Sehat Antar Sampai Rumah
+Definisi : Sistem pendaftaran dengan menggunakan  aplikasi yang bisa diakses di smartphone Untuk mempermudah dan mempercepat proses pendaftaran ke rawat jalan melalui pendaftaran online sehingga tidak terjadi antrian di pelayanan
+rawat jalan di RSUD Syamrabu melalui aplikasi google play store "Yuk Antri syamrabu"
 </li>
 </ul>
 </div>
+
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+
+Alur Pelayanan : 
+<br>1.	Instal aplikasi Yukngantri Syamrabu dari google playstore di smartphone 
+<br>2.	Setelah terinstal buka aplikasi kemudian login dengan akun google anda 
+<br>3.	Selanjutnya anda akan masuk menu pendaftaran online RSUD Syamrabu untuk mengambil antrian 
+<br>4.	Isi data diri anda sesuai dengan kolom yang ada diperintah , lalu tekan oke 
+<br>5.	Setelah semua data diri diisi anda akan mendapatkan nonor antrian 
+<br>6.	Pendaftaran dilakukan sejak H-1 sampai batas kuota.( jam 10.00 hari pelayanan ) 
+<br>7.	Pasien menuju loket khusus antrian online untuk melakukan verifikasi nomor antrian dan melakukan pendaftaran
+
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
@@ -594,68 +529,49 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1294fd1" data-id="1294fd1" data-element_type="column">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e33d343 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="e33d343" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con">
 <div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">TAROMAH</h3>
-</div>
+
 <div class=" elementskit-pricing-price-wraper has-tag order-1">
 <div class="elementskit-pricing-tag"></div>
 <span class="elementskit-pricing-price">
 <!-- <sup class="currency">$</sup> -->
-<span>Senin <br> - <br>Sabtu</span>
-<sub class="period"> Jam Kerja</sub>
+<span>Taromah <br> (Pengantaran Obat Ke Rumah)</span>
+<sub> <br> Jam Pelayanan: 
+<br> Pasien pagi 	: Pengantaran obat dimulai jam 13.00
+<br> Pasien Sore 	: Pengantaran obat H+ 1
+</sub>
 </span>
 </div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Antar Obat Sampai Rumah
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-78d2889" data-id="78d2889" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-9ce9387 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="9ce9387" data-element_type="widget" data-widget_type="elementskit-pricing.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
 <div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">HOME CARE</h3>
-</div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<span>Senin <br> - <br>Sabtu</span>
-<sub class="period"> Jam Kerja</sub>
-</span>
+<h3 class=" elementskit-pricing-title">CP: 0823-3179-0353 </h3>
 </div>
 <div class="elementskit-pricing-content ">
 <ul class="elementskit-pricing-lists">
 <li class="elementor-repeater-item-85ee855">
-Perawatan Rawat Jalan di Rumah
+Definisi : merupakan layanan antar obat untuk pasien rawat jalan di RSUD Syamrabu Bangkalan secara gratis (untuk wilayah yang sudah ditentukan). Obat akan diantar sampai rumah, sehingga pasien tidak perlu mengantri dan menunggu lama di Rumah sakit. Dengan adanya layanan ini diharapkan mengurangi penumpukan antrian saat mengambil obat, sehingga dapat meningkatkan kenyamanan dan kepuasan pasien dalam mendapatkan pelayanan kesehatan.
+
 </li>
 </ul>
 </div>
+
 <div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Alur Pelayanan : 
+<br>1.	Instal aplikasi Yukngantri Syamrabu dari google playstore di smartphone 
+<br>2.	Setelah terinstal buka aplikasi kemudian login dengan akun google anda 
+<br>3.	Selanjutnya anda akan masuk menu pendaftaran online RSUD Syamrabu untuk mengambil antrian 
+<br>4.	Isi data diri anda sesuai dengan kolom yang ada diperintah , lalu tekan oke 
+<br>5.	Setelah semua data diri diisi anda akan mendapatkan nonor antrian 
+<br>6.	Pendaftaran dilakukan sejak H-1 sampai batas kuota.( jam 10.00 hari pelayanan ) 
+<br>7.	Pasien menuju loket khusus antrian online untuk melakukan verifikasi nomor antrian dan melakukan pendaftaran
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div> </div>
@@ -663,43 +579,255 @@ Book Now<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-504ea35" data-id="504ea35" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1953ddc pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="1953ddc" data-element_type="widget" data-widget_type="elementskit-pricing.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-single-pricing d-flex flex-column">
-<div class="elementskit-pricing-header ">
-<h3 class=" elementskit-pricing-title">AMPIBI </h3>
-</div>
-<div class=" elementskit-pricing-price-wraper has-tag order-1">
-<div class="elementskit-pricing-tag"></div>
-<span class="elementskit-pricing-price">
-<span>Senin <br> - <br>Sabtu</span>
-<sub class="period"> Jam Kerja</sub>
-</span>
-</div>
-<div class="elementskit-pricing-content ">
-<ul class="elementskit-pricing-lists">
-<li class="elementor-repeater-item-85ee855">
-Ambulan Peduli Tretan Dhibik
-</li>
-</ul>
-</div>
-<div class="elementskit-pricing-btn-wraper order-1">
-<a href="#" class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
-Book Now<i aria-hidden="true" class="icon icon-chevron-right"></i> </a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
- </div>
-</div>
+
 </div>
 </div>
 </section>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-a0bcc33 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0bcc33" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<!-- <sup class="currency">$</sup> -->
+<span>HomeCare <br> "Padeh Beres"</span>
+<sub> <br> Jam Pelayanan: 
+<br>jam kerja 07.00 - 14.00 WIB
+</sub>
+</span>
+</div>
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">CP :031-3095088, 3091111, 3097761 </h3>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Definisi : suatu bentuk pelayanan kesehatan yang komprehensif dan bertujuan memandirikan klien dan keluarga. Pelayanan kesehatan diberikan kepada klien dengan melibatkan klien dan keluarga sebagai subyek yang ikut berpartisipasi dan merencanakan kegiatan pelayanan.
+</li>
+</ul>
+</div>
+
+<div class="elementskit-pricing-btn-wraper order-1">
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Alur Pelayanan : 
+<br>1.	Keluarga pasien/ Klien pesan langsung melalui call Center Atau CP
+<br>2.	Keluarga pasien/ Klien mengisi formulir pendaftaran dan Inform Consent
+<br>3.	Petugas datang ke rumah melakukan anamnese
+<br>4.	Petugas konsul ke DPJP
+<br>5.	Petugas melakukan pengobatan/ Perawatan/ Tindak lanjut
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<!-- <sup class="currency">$</sup> -->
+<span>Bersema <br> (Bersalin Sehat Antar Sampai Rumah)</span>
+<sub> <br> Jam Pelayanan: 
+<br> - Bersema 	09.00 - 13.00 WIB
+<br> - Akte		09.00 - 14.00 WIB
+
+</sub>
+</span>
+</div>
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">CP: -	Emi N		0813-3058-9372
+<br>-	Dewi 		0831-1025-1774
+<br>-	Anis S		0823-0103-8181
+ </h3>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Definisi:  Pelayanan penuh yang diberikan kepada ibu yang melahirkan di RSUD Syamrabu Bangkalan baik itu  pasien Jampersal/ Biakes maupun  pasien Umum, mulai dari pemantauan, pertolongan persalinan baik secara normal maupun operasi Caesar, perawatan post partum/ post operasi, sampai dengan mengantarkan pasien kembali ke rumah. Pasien Bersema juga mendapatkan fasilitas berupa foto bayi gratis dan fasilitas pengurusan akte gratis. 
+Untuk saat ini Bersema melayani khusus wilayah kabupaten Bangkalan
+ 
+
+
+</li>
+</ul>
+</div>
+
+<div class="elementskit-pricing-btn-wraper order-1">
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Alur Pelayanan
+<br>1.	Pasien bersema yang sudah diijinkan pulang oleh DPJP (Dokter Penanggung Jawab Pelayanan) akan langsung diproses kelengkapan administrasinya. Khusus pasien umum dianjurkan untuk melakukan pembayaran 
+<br>2.	Petugas ruangan menghubungi tim medsos terkait rencana perpulangan pasien bersema
+<br>3.	Tim Medsos mempersiapkan driver dan mobil untuk pengantaran pasien
+<br>4.	Setelah mobil dan driver siap, petugas ruangan mengantar pasien ke mobil bersema
+<br>5.	Tim medsos mengantar perpulangan pasien sampai ke rumah 
+<br>6.	Tim medsos mencatat perpulangan pasien pada buku register pasien bersema
+
+
+<br>Catatan: 
+Untuk pengurusan akte bayi akan dilakukan pihak Rumah Sakit dengan bekerjasama dengan dispenduk.
+Pasien hanya perlu menyerahkan berkas - berkas persyaratan akte ke petugas antara lain:
+1.	Surat kelahiran asli
+2.	KSK (Kartu Susunan Keluarga)
+3.	Foto kopi Surat Nikah
+4.	Nama bayi yang akan dicatatkan pada akte
+5.	No HP/ WA yang mudah dihubungi
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd53ad5 pricing_boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd53ad5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<!-- <sup class="currency">$</sup> -->
+<span>Ampibi <br> (Ambulan Peduli tretan dibik)</span>
+<sub> <br> Jam Pelayanan: 24 jam melayani</sub>
+</span>
+</div>
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">CP: 081 8383 1119
+<br> 0812 5252 7776
+ </h3>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Definisi : salah satu layanan unggulan RSUD Syamrabu Kabupaten bangkalan yang bertujuan untuk mempermudah masyarakat bangkalan untuk menjangkau pelayanan di RSUD Syamrabu Bangkalan. Layanan AMPIBI ini gratis untuk masyarakat yang terdaftar BPJS kesehatan atau biakes Maskin yang sudah lulus verifikasi. Pasien umum juga bisa mendapatkan pelayanan ini sesuai dengan syarat dan ketentuan yang berlaku. Dengan adanya layanan AMPIBI ini diharapkan RSUD Syamrabu Bangkalan dapat lebih dekat di hati masyarakat khususnya masyarakat kabupaten Bangkalan.
+</li>
+</ul>
+</div>
+
+<div class="elementskit-pricing-btn-wraper order-1">
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+
+Alur Pelayanan : 
+<br>1.	Pasien/Keluarga pasien menghubungi call center : 3091111 / 081 83 83 119 / 0812 52 52 77 76
+<br>2.	Penelopon menyebutkan identitas : 
+a.	Nama 
+b.	Alamat rumah / alamat kejadian
+c.	No telp / hp yang bisa dihubungi
+<br>3.	Penelopon memberikan informasi kondisi ; jika memungkinkan menyebutkan riwayat dan keluhan
+4.	Dalam kondisi yang memungkinkan ; penelpon diminta untuk menyiapkan barang-barang kebutuhan selama rawat inap, seperti : baju, perlengkapan mandi dll
+<br>
+<br>Penting :
+<br>1.	Selama tidak menanyakan tarif/ biaya, tidak perlu memberikan informasi tentang tarif/ biaya.
+<br>2.	Tarif / biaya yang berlaku sesuai tarif dalam Perda
+<br>3.	Program AMPIBI bisa melayani :
+a.	Pasien dengan emergency akibat kecelakaan lalu lintas
+b.	Bisa mengantar pasien yang membutuhkan ke Rumah Sakit lain ( luar Kabupaten Bangkalan ) : berlaku pasien umum dengan ketentuan biaya atau tarif sesuai Perda, diminta foto rujukan ke Rumah Sakit tujuan. 
+<br>4.	Selama beroperasi program AMPIBI, di dampingi tenaga profesional
+
+
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-021d261" data-id="021d261" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd95756 pricing_box elementor-widget elementor-widget-elementskit-pricing" data-id="cd95756" data-element_type="widget" data-widget_type="elementskit-pricing.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="elementskit-single-pricing d-flex flex-column">
+
+<div class=" elementskit-pricing-price-wraper has-tag order-1">
+<div class="elementskit-pricing-tag"></div>
+<span class="elementskit-pricing-price">
+<!-- <sup class="currency">$</sup> -->
+<span>PPE</span>
+<sub> <br> Jam Pelayanan: 
+<br> PCR 	: Senin - Sabtu 
+		  Shift Pagi	10.00 WIB
+		  Shift Sore	16.00 WIB
+<br>Antigen	: Senin - Minggu (07.00 - 21.00)
+<br>Antibodi	: Senin - Minggu (07.00 - 21.00)
+
+</sub>
+</span>
+</div>
+<div class="elementskit-pricing-header ">
+<h3 class=" elementskit-pricing-title">CP: 031-3095088, 3091111, 3097761 </h3>
+</div>
+<div class="elementskit-pricing-content ">
+<ul class="elementskit-pricing-lists">
+<li class="elementor-repeater-item-85ee855">
+Definisi : Pelayanan Penunjang Eksekutif yang melayani pemeriksaan PCR, Antigen, 
+Antibodi atau sampling darah baik dari rawat Jalan, Rawat Inap, maupun IGD.
+
+</li>
+</ul>
+</div>
+
+<div class="elementskit-pricing-btn-wraper order-1">
+<a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
+Alur Pelayanan : 
+<br>1.	Pasien melakukan pendaftaran ke FO (Front Office)
+<br>2.	Setelah mendaftar, pasien diarahkan ke PPE oleh petugas
+<br>3.	Petugas melakukan pengambilan sampel pada pasien
+<br>4.	Pasien diarahkan untuk melakukan pembayaran ke kasir
+<br>5.	Pasien melakukan pembayaran dikasir
+<br>6.	Pasien menerima bukti pembayaran
+<br>7.	Pasien mengambil hasil pemeriksaan dengan membawa bukti pembayaran pada waktu yang sudah ditentukan 
+
+<i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+
 </div>
 </div>
 </div>
