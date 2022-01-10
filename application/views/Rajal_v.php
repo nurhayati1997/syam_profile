@@ -562,10 +562,10 @@ Pelayanan </h1>
 <table class="table">
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Poli</th>
+      <th scope="col">Nama Poli</th>
       <th scope="col">Nama Dokter</th>
       <th scope="col">Jadwal Poli</th>
-      <th scope="col">Jam</th>
+      <th scope="col">Jam Pelayanan</th>
       <th scope="col">Ket</th>
     </tr>
   </thead>
@@ -911,7 +911,7 @@ Pelayanan </h1>
 	<!-- JIWA -->
 	<tr>
 	  <td>JIWA</td>
-      <td>dr. Indra Damayanti, Sp. Bs</td>
+      <td>dr. Indriana Lestariningtias,Sp.KJ</td>
       <td>Senin dan Sabtu</td>
       <td>Pagi, Sore</td>
       <td>-</td>

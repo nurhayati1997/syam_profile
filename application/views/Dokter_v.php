@@ -1190,7 +1190,7 @@ Informasi </h1>
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">dr. Indra Damayanti, Sp. Bs</h3>
+<h3 class="doctor_box_title">dr. Indriana Lestariningtias,Sp.KJ</h3>
 <p class="doctor_box_role">Bedah Saraf & Jiwa</p>
 </div>
 <a  class="doctor_box_link"></a>

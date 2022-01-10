@@ -564,13 +564,14 @@ Definisi : merupakan layanan antar obat untuk pasien rawat jalan di RSUD Syamrab
 <div class="elementskit-pricing-btn-wraper order-1">
 <a class="elementskit-pricing-btn  ekit-pricing-btn-icon-pos-right">
 Alur Pelayanan : 
-<br>1.	Instal aplikasi Yukngantri Syamrabu dari google playstore di smartphone 
-<br>2.	Setelah terinstal buka aplikasi kemudian login dengan akun google anda 
-<br>3.	Selanjutnya anda akan masuk menu pendaftaran online RSUD Syamrabu untuk mengambil antrian 
-<br>4.	Isi data diri anda sesuai dengan kolom yang ada diperintah , lalu tekan oke 
-<br>5.	Setelah semua data diri diisi anda akan mendapatkan nonor antrian 
-<br>6.	Pendaftaran dilakukan sejak H-1 sampai batas kuota.( jam 10.00 hari pelayanan ) 
-<br>7.	Pasien menuju loket khusus antrian online untuk melakukan verifikasi nomor antrian dan melakukan pendaftaran
+<br>1.	Pasien datang ke depo Obat rawat jalan dan menyerahkan resep ke bagian penerimaan resep
+<br>2.	Petugas apotek menawarkan layanan pengantaran obat "Taromah" untuk wilayah yang sudah ditentukan
+<br>3.	a.   Untuk pasien yang menghendaki obat di antar:
+<br> -Pasien mendapatkan informasi obat dari petugas farmasi
+<br> -Pasien mengisi data yang harus dilengkapi
+<br> -Pasien dapat meninggalkan Rumah sakit dan obat akan diantar ke rumah oleh petugas
+<br>b. Untuk pasien yang tidak menghendaki obat diantar, maka pasien harus menunggu obat di depo rawat jalan
+
 <i aria-hidden="true" class="fasicon icon-chevron-right"></i> </a>
 </div>
 </div>
