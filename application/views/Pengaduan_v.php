@@ -198,7 +198,7 @@ img.emoji {
 
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="(031) 6778907">
+<a href="#">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
 <span class="elementor-icon-list-text">Informasi: (031) 6778907</span>
@@ -210,11 +210,11 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
+<a href="#">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
-	Informasi: (031) 6778907
+	Informasi IGD: (031)-3095349
 </span>
 </a>
 </li>
@@ -563,60 +563,16 @@ Indikator Mutu
 </div>
 <div class="funfact-content">
 <div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Total Pengaduan</p> </div>
+<span class="number-percentage" >
+<a href="https://forms.gle/YqD2Mm5QXNcTFcF2A" class="elementor-size-sm" role="button">Form Pengaduan Masyarakat 
+</span>
+</div>
+<p class="funfact-title"> Klik tulisan diatas</p> </div>
 </div>
 </div>
 </div> </div>
 </div>
 </div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c5dfe16 elementor-invisible" data-id="c5dfe16" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2c63475 elementor-widget elementor-widget-elementskit-funfact" data-id="2c63475" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-abacus1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Proses</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-eab34c0 elementor-invisible" data-id="eab34c0" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:600}">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2db0854 elementor-widget elementor-widget-elementskit-funfact" data-id="2db0854" data-element_type="widget" data-widget_type="elementskit-funfact.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con">
-<div class="elementskit-funfact text-center     ">
-<div class="elementskit-funfact-inner">
-<div class="funfact-icon"> <i></i>
-<i class="icon icon-trophy1 elementskit-funfact-icon" aria-hidden="true"></i>
-</div>
-<div class="funfact-content">
-<div class="number-percentage-wraper">
-<span class="number-percentage" data-value="956" data-animation-duration="3500">0</span>
-+ </div>
-<p class="funfact-title">Tindak Lanjut</p> </div>
-</div>
-</div>
-</div> </div>
-</div>
- </div>
 </div>
 </div>
 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d426f9b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone" data-id="d426f9b" data-element_type="column">
@@ -631,11 +587,13 @@ Indikator Mutu
 <div class="elementor-element elementor-element-f7705a5 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="f7705a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:800}" data-widget_type="button.default">
 <div class="elementor-widget-container">
 <div class="elementor-button-wrapper">
-<a href="tel:212-600-4274" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href="
+0812-8815-1616" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-icon elementor-align-icon-left">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-button-text">Call 212-600-4274</span>
+<span class="elementor-button-text">
+WA Pengaduan 0812-8815-1616</span>
 </span>
 </a>
 </div>

@@ -364,59 +364,6 @@ Admin </a>
 <!-- end pelayanan -->
 
 
-
-
-
-<!-- layanan penunjang -->
-<!-- <li id="menu-item-4621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4621 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
-	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Penunjang
-		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
-	</a>
-	<ul class="elementskit-dropdown elementskit-submenu-panel">
-		<li id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="doctors/index.html" class=" dropdown-item">Radiologi</a> 
-			<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Laboratorium PK</a>
-				<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Laboratorium PA</a>
-					<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-						<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Farmasi</a>
-						<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-							<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Kemoterapi</a>
-							<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-								<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Gizi</a>
-								<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-									<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">CSSD/LINEN</a>
-									<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-										<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Pemulasaran Jenazah</a>
-										<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-medizco-doctor menu-item-3651 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-											<a href="blog/doctor/harrison-samuel/index.html" class=" dropdown-item">Ambulance</a>
-	</ul>
-</li> -->
-<!-- END PENUNJANG -->
-
-<!-- layanan Unggulan -->
-<!-- <li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2823 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
-	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Layanan Unggulan
-		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
-	</a>
-	<ul class="elementskit-dropdown elementskit-submenu-panel">
-	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-		<a href="about/index.html" class=" dropdown-item">Home Care</a> 
-		<li id="menu-item-1748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1748 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="pricing/index.html" class=" dropdown-item">Ampibi</a> 
-			<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="appointment/index.html" class=" dropdown-item">BERSEMA</a>
-				<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="appointment/index.html" class=" dropdown-item">TAROMAH</a>
-					<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-						<a href="appointment/index.html" class=" dropdown-item">PPE</a>
-						<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2087 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-							<a href="appointment/index.html" class=" dropdown-item">Akta Gratis</a>
-			</ul>
-	</li> -->
-<!-- end layanan unggulan -->
-
 <!-- informasi -->
 <li id="menu-item-4620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4620 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Informasi
@@ -465,471 +412,6 @@ Admin </a>
 <!-- end tab menu -->
 
 
-<!-- elements -->
-<!-- <li id="menu-item-2305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2305 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-megamenu-has elementskit-mobile-builder-content" data-vertical-menu=750px><a href="#" class="ekit-menu-nav-link">Elements<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a><ul class="elementskit-megamenu-panel"> <div data-elementor-type="wp-post" data-elementor-id="2817" class="elementor elementor-2817" data-elementor-settings="[]">
-<div class="elementor-inner">
-<div class="elementor-section-wrap">
-<section class="elementor-section elementor-top-section elementor-element elementor-element-5a1a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a1a" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10c5" data-id="10c5" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-1b3c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1b3c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-570c" data-id="570c" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4ce0 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="4ce0" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  text-center">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-home1"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Home Pages </h3>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-67ab2bd elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="67ab2bd" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="index.html" class="elementor-repeater-item-162722f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Home Page 01</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="home-page-02/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Home Page 02</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="home-page-03/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Home Page 03</span>
-</span>
-</div>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-3a62c36 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="3a62c36" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  text-center">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-scroll-button"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-One Pages </h3>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-a0b8196 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="a0b8196" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="one-page-01/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">One Page 01</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="one-page-02/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">One Page 02</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="one-page-03/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">One Page 03</span>
-</span>
-</div>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-34d1" data-id="34d1" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-5b36 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="5b36" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  text-center">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-file-1"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pages </h3>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-f3d9a70 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="f3d9a70" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="about/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">About</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="contact/index.html" class="elementor-repeater-item-66bb753 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Contact</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="pricing/index.html" class="elementor-repeater-item-0c1d817 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Pricing</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="appointment/index.html" class="elementor-repeater-item-0ad15e6 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Appointment</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="department/index.html" class="elementor-repeater-item-9c8a46b ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Department</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="doctors/index.html" class="elementor-repeater-item-90de2a8 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Doctors</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="doctor/harrison-samuel/index.html" class="elementor-repeater-item-5a42529 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Doctor Details</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="services/index.html" class="elementor-repeater-item-e050ddf ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Services</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="service/trauma-intensive-care/index.html" class="elementor-repeater-item-da98d32 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Service Details</span>
-</span>
-</div>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-74c2" data-id="74c2" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-300caa5 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="300caa5" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-
-<div class="elementskit-infobox text- text-left icon-lef-right-aligin elementor-animation- media  ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  text-center">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-ek_line_icon"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Elements </h3>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="elementor-element elementor-element-1023f4d elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="1023f4d" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/accordion/index.html" class="elementor-repeater-item-bd30e8c ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Accordion</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/blog/index.html" class="elementor-repeater-item-bd1c857 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Blog</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/client-logo/index.html" class="elementor-repeater-item-a8cdf07 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Client Logos</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/count-down-timer/index.html" class="elementor-repeater-item-4221c7f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Count Down Timer</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/faq/index.html" class="elementor-repeater-item-5ce886c ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">FAQ</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/fun-fact/index.html" class="elementor-repeater-item-b5330e6 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Fun Fact</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/icon-box/index.html" class="elementor-repeater-item-3a65c89 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Icon Box</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/tab/index.html" class="elementor-repeater-item-162722f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Tab</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/team/index.html" class="elementor-repeater-item-c0c5d39 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Team</span>
-</span>
-</div>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-792f" data-id="792f" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-051f994 elementor-align-left elementor-widget elementor-widget-elementskit-page-list" data-id="051f994" data-element_type="widget" data-widget_type="elementskit-page-list.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div class="elementor-icon-list-items ">
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/image-accordion/index.html" class="elementor-repeater-item-bd30e8c ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Image Accordion</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/image-box/index.html" class="elementor-repeater-item-410a4e7 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Image Box</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/progress-bar/index.html" class="elementor-repeater-item-a9ee8b3 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Progress Bar</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/testimonial/index.html" class="elementor-repeater-item-318c4ff ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Testimonial</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/pie-chart/index.html" class="elementor-repeater-item-447fab7 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Pie Chart</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/pricing/index.html" class="elementor-repeater-item-81f418f ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Pricing</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/forms/index.html" class="elementor-repeater-item-a75ebdc ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Forms</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/image-comparison/index.html" class="elementor-repeater-item-bf0c587 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Image Comparison</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/gallery/index.html" class="elementor-repeater-item-931996c ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Gallery</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/video/index.html" class="elementor-repeater-item-10ba7f1 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Video</span>
-</span>
-</div>
-</a>
-</div>
-<div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="elements/call-to-action/index.html" class="elementor-repeater-item-e598426 ekit_badge_left">
-<div class="ekit_page_list_content">
-<span class="elementor-icon-list-text">
-<span class="ekit_page_list_title_title">Call To Action</span>
-</span>
-</div>
-</a>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</ul></li>
-</ul> -->
-<!-- end -->
 <div class="elementskit-nav-identity-panel">
 <div class="elementskit-site-title">
 <a class="elementskit-nav-logo"  target="_self" rel="">
@@ -978,7 +460,7 @@ Elements </h3>
 <div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-Waspadai Penyakit DBD  terhadap Anak
+Harus Tetap Disiplin Prokes
 </h1>
 </div>
 </div>
@@ -990,26 +472,32 @@ Waspadai Penyakit DBD  terhadap Anak
 <div class="col-lg-8 col-md-12">
 <article id="post-916" class="post-content post-single post-916 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
 <div class="post-media post-image">
-<img width="800" height="490" src="wp-content/uploads/2019/08/berita04.jpg" class="img-fluid" alt="Hospital doctors examine patients so that" loading="lazy" srcset="wp-content/uploads/2019/08/berita04.jpg 800w, wp-content/uploads/2019/08/berita04.jpg 300w, wp-content/uploads/2019/08/berita04.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
+<img width="800" height="490" src="wp-content/uploads/2019/08/berita06.jpg" class="img-fluid" alt="Hospital doctors examine patients so that" loading="lazy" srcset="wp-content/uploads/2019/08/berita06.jpg 800w, wp-content/uploads/2019/08/berita06.jpg 300w, wp-content/uploads/2019/08/berita06.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
 <div class="post-body clearfix">
 
 <header class="entry-header clearfix">
 <div class="post-meta">
 <span class="post-meta-date">
 <i class="fa fa-clock-o"></i>
-Januari 03, 2022</span><span class="meta-categories post-cat">
+Januari 10, 2022</span><span class="meta-categories post-cat">
 <i class="fa fa-folder"></i>
 <a rel="category tag">RSUD SYAMRABU</a>
 </span> <span class="post-comment"><i class="fa fa-comment"></i><a href="#" class="comments-link"></a>0</span> </div>
 </header>
 
 <div class="entry-content clearfix">
-<p>Demam berdarah dengue (DBD) menjadi salah satu penyakit yang harus diwaspadai. Penyakit berbahaya itu dapat menyerang siapa saja, tidak mengenal orang dewasa ataupun anak-anak.</p>
-<p>Dokter Penanggung Jawab Poli Anak RSUD Syamrabu dr. Shirley Ferlina, M.Ked., Sp.A menjelaskan, DBD merupakan infeksi virus dengue. Kasus itu banyak ditemukan di negara dengan iklim tropis, salah satunya Indonesia. Virus itu ditularkan oleh gigitan nyamuk Aedes aegypti dan Aedes albopictus.</p>
-<p>Virus dengue terdiri atas empat tipe. Sedangkan tipe yang paling dominan ditemukan di Indonesia yaitu DEN-3. Tipe DEN-3 sangat berhubungan dengan kasus yang berat sehingga dapat mengancam nyawa penderita.</p>
-<p>”Kalau target WHO (World Health Organization) untuk infeksi virus dengue adalah menekan angka kematian kurang dari satu persen,” terangnya kemarin (2/1).</p>
-<p>Dari 84 kasus DBD yang masuk perawatan RSUD Syamrabu, penderita didominasi kelompok usia tiga sampai sepuluh tahun atau anak. Karena itu, peran orang tua sangat penting agar anak tidak terjangkiti virus berbahaya itu.</p>
-<p>Pencegahan dan pengendalian DBD bergantung pada pengendalian nyamuk yang efektif melalui gerakan 3M plus. Yakni, menguras tempat penampungan air, menutup, dan mengubur barang bekas. ”Hindari gigitan nyamuk dengan memakai kelambu dan obat nyamuk saat tidur,” sarannya.</p>
+<p>Tren kasus Covid-19 memang melandai. Namun, penerapan protokol kesehatan (prokes) Covid-19 tetap tidak boleh diabaikan. Apalagi Covid-19 varian Omicron sudah terdeteksi di beberapa kabupaten/kota di tanah air.</p>
+<p>Penanggung Jawab Pengendalian dan Pencegahan Infeksi RSUD Syamrabu Bangkalan Nur Setiawati, S.Kep., Ns. menjelaskan, prokes adalah serangkaian aturan yang dikeluarkan oleh pemerintah melalui Kementerian Kesehatan. Tujuannya, memberikan keamanan beraktivitas selama masa pandemi Covid-19.</p>
+<p>”Prokes dapat membantu masyarakat untuk dapat beraktivitas secara aman dan tidak membahayakan kondisi kesehatan orang lain,” terangnya kemarin (9/1).</p>
+<p>Vaksinasi memang sudah dilakukan untuk meminimalkan seseorang terpapar Covid-19. Bahkan vaksin booster untuk tenaga kesehatan juga telah diberikan untuk tenaga kesehatan (nakes). Tetapi tetap saja, penerapan prokes tidak boleh dikesampingkan.</p>
+<p>Prokes yang dimaksud yaitu dengan disiplin menerapkan 5M. Yakni mencuci tangan, menggunakan masker, menjaga jarak, menjauhi kerumunan, dan mengurangi mobilitas di luar rumah. Mencuci tangan yang efektif agar tidak terpapar Covid-19 yaitu menggunakan air mengalir dan sabun atau antiseptik selama 40–60 detik.</p>
+<p>”Mencuci tangan sebelum menyentuh makanan, setelah beraktifitas di luar rumah, setelah dari toilet dan pasca memegang hewan peliharaan,” sarannya.</p>
+<p>Seementara penggunaan  masker tidak hanya wajib digunakan saat di luar rumah. Tetapi, juga harus digunakan saat di dalam rumah pada kondisi dan situasi tertentu. Seperti, terdapat anggota keluarga yang terpaoar covid-19.</p>
+<p>“Mengganti masker harus digunakan secara rutin. Maksimal empat jam atau saat masker sudah basah, maka harus diganti,” imbaunya.</p>
+<p>Menurut perempuan berhijab itu, menjaga jarak setidaknya 1 meter harus dilakukan dengan lawan biacara atau orang lain. Tujuannya, mencegah paparan droplet dari orang yang batuk, bersin atau bicara.</p>
+<p>Kerumunan menjadi salah satu biang keladi cepatnya persebaran Covid-19. Untuk mengantisipasi itu, pemerintah secara tegas meniadakan semua kegiatan yang dapat menimbulkan kerumunan. Sedangkan langkah terakhir yaitu mengurangi mobilitas di luar rumah.</p>
+<p>”Ingat, semakin banyak bertemu orang, maka kemungkinan terinfeksi virus Corona pun semakin tinggi,” pesannya.</p>
+
 <div class="post-footer clearfix">
 </div> 
 </div> 
@@ -1055,7 +543,7 @@ Januari 03, 2022</span><span class="meta-categories post-cat">
 <h3 class="widget-title">Recent Posts</h3>
 <ul>
 <li>
-<a href="<?php echo site_url('berita13_12');?>" aria-current="page">Waspadai Penyakit DBD  terhadap Anak</a>
+<a href="<?php echo site_url('berita10_01');?>" aria-current="page">Harus Tetap Disiplin Prokes</a>
 </li>
 <li>
 <!-- <a href="../the-website-of-the-royal-melbourne-hospital/index.html">The website of the Royal Melbourne Hospital</a> -->

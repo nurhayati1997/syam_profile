@@ -198,7 +198,7 @@ img.emoji {
 
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="(031) 6778907">
+<a>
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
 <span class="elementor-icon-list-text">Informasi: (031) 6778907</span>
@@ -210,11 +210,11 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#88e1e6eee7c8edf0e9e5f8e4eda6ebe7e5">
+<a href="#">
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
-	Informasi: (031) 6778907
+	Informasi IGD: (031)-3095349
 </span>
 </a>
 </li>

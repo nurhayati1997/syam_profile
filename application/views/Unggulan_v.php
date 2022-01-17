@@ -213,7 +213,7 @@ img.emoji {
 <li class="elementor-icon-list-item elementor-inline-item">
 <a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5">
 <span class="elementor-icon-list-text">
-	Informasi: (031) 6778907
+	Informasi IGD: (031)-3095349
 </span>
 </a>
 </li>
