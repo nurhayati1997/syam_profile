@@ -521,7 +521,7 @@ Admin </a>
 			Selamat Datang di
 		</rs-layer>
 		<p id="slider-4-slide-11-layer-9" class="rs-layer" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:50px,50px,0,0;y:t,t,t,m;yo:383px,383px,255px,31px;" data-text="w:normal;s:17,17,17,16;l:27,27,27,22;a:inherit,inherit,center,center;" data-dim="w:539px,539px,553px,418px;" data-padding="r:0,0,0,15;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;e:power4.out;st:1720;sp:1600;sR:1720;" data-frame_999="o:0;tp:600;st:w;sR:5680;" style="z-index:9;font-family:'Roboto';">
-			Kami mewujudkan Rumah Sakit Piliha Utama Masyarakat di Madura dan Sekitarnya dengan mengedepankan sisi Pelayanan, Pendidikan dan Penelitian
+			Kami mewujudkan Rumah Sakit Pilihan Utama Masyarakat di Madura dan Sekitarnya dengan mengedepankan sisi Pelayanan, Pendidikan dan Penelitian
 		</p>
 		<!-- <rs-layer id="slider-4-slide-11-layer-10" class="banner-btn rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:l,l,c,c;xo:50px,50px,0,0;yo:496px,496px,391px,350px;" data-text="w:normal,normal,normal,nowrap;s:14,14,14,12;l:24,24,24,26;fw:700,700,700,500;a:inherit;" data-rsp_bd="off" data-padding="t:18,18,18,10;r:53,53,53,30;b:18,18,18,10;l:53,53,53,30;" data-border="bor:30px,30px,30px,30px;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;st:2200;sp:1160;sR:2200;" data-frame_999="o:0;tp:600;st:w;sR:5640;" data-frame_hover="bgc:#1cba9f;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:200ms;e:power3.out;" style="z-index:10;background-color:#223a66;font-family:'Exo';cursor:pointer;">
 			Book Now <i class="fa-angle-right"></i>
