@@ -480,7 +480,7 @@ Laporan
 		<img width="300" height="300" src="wp-content/uploads/2019/01/01.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="wp-content/uploads/2019/01/01.jpg 300w, wp-content/uploads/2019/01/01.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
 		<h2 class="woocommerce-loop-product__title">
 			<div class="button_01">
-				<a href="wp-content/uploads/file/LAKIP_2019.pdf" text="center">LAKIP 2019</a>
+				<a href="wp-content/uploads/file/RENSTRA 2018-2023.pdf" text="center">Renstra 2018-2023</a>
 			</div>
 			<!-- <a href="wp-content/uploads/file/LAKIP_2019.pdf"> -->
 		</h2>
