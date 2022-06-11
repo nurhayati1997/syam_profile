@@ -200,10 +200,10 @@ img.emoji {
 <div class="elementor-widget-container">
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="(031) 6778907">
+<!-- <a href="(031) 6778907"> -->
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">Informasi: (031) 6778907</span>
+<span class="elementor-icon-list-text">Informasi: (031) 3091111</span>
 </a>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
@@ -212,11 +212,11 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="#">
+<!-- <a href="#"> -->
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
-	Informasi IGD: (031)-3095349
+	Informasi IGD: (031) 3095359
 </span>
 </a>
 </li>
@@ -246,7 +246,8 @@ img.emoji {
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-offcanvas-toggle-wraper">
 <a href="#" class="ekit_navSidebar-button ekit_offcanvas-sidebar">
-<i aria-hidden="true" class="fasicon icon-menu-7"></i> </a>
+<!-- <i aria-hidden="true" class="fasicon icon-menu-7"></i> </a> -->
+<i aria-hidden="true" class=""></i> </a>
 </div>
 
 
@@ -256,7 +257,7 @@ img.emoji {
 <div class="ekit_sidebar-widget-container">
 <div class="ekit_widget-heading">
 <a href="#" class="ekit_close-side-widget">
-<i aria-hidden="true" class="fasicon icon-cross"></i>
+<!-- <i aria-hidden="true" class="fasicon icon-cross"></i> -->
 </a>
 </div>
 <div class="ekit_sidebar-textwidget">
@@ -283,8 +284,7 @@ img.emoji {
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal">
-Admin </a>
+<!-- <a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal"> Admin </a> -->
 </div>
 </div> </div>
 </div>
@@ -378,9 +378,9 @@ Admin </a>
 	</a>
 	<ul class="elementskit-dropdown elementskit-submenu-panel">
 	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-		<a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a> 
+		<!-- <a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a>  -->
 		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a>
+			<!-- <a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a> -->
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -399,7 +399,7 @@ Admin </a>
 <!-- laporan -->
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<!-- <a href="shop/index.html" class="ekit-menu-nav-link">Laporan</a></li> -->
-	<a href="<?php echo site_url('laporan');?>" class="ekit-menu-nav-link">Laporan</a></li>
+	<a href="<?php echo site_url('laporan');?>" class="ekit-menu-nav-link">Arsip</a></li>
 <!-- end laporan -->
 
 <!-- tentang kami -->
@@ -585,7 +585,7 @@ Admin </a>
 							<div class="elementor-widget-container">
 								<div class="ekit-wid-con"> 
 									<div class="ekit-btn-wraper">
-										<a href="#berita" class="elementskit-btn services_cta_btn whitespace--normal">
+										<a href="#unggulan" class="elementskit-btn services_cta_btn whitespace--normal">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 426.667 426.667" style="enable-background:new 0 0 426.667 426.667;" xml:space="preserve">
 											<g>
 											<g>
@@ -596,7 +596,7 @@ Admin </a>
 											</g>
 											</g>
 											</svg>
-											Berita SYAMRABU
+											Pelayanan Unggulan
 										</a>
 									</div>
 								</div> 
@@ -621,7 +621,7 @@ Admin </a>
 </div>
 <div class="box-body">
 <span class="elementskit-info-box-title">
-0812-8815-1616 </span>
+0812-5252-5117 </span>
 <p>WA Center</p>
 </div>
 </div>
@@ -636,161 +636,7 @@ Admin </a>
 </section>
 
 <!-- list -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-77bccca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bccca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" id="berita">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8728104" data-id="8728104" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-e4338bb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4338bb" data-element_type="section">
-<div class="elementor-container elementor-column-gap-no">
-<div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-980d41f" data-id="980d41f" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bce3e8" data-id="3bce3e8" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f6e8fd elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="4f6e8fd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-	Berita Terbaru
-</h2> <div class='ekit-heading__description'>
-<p>Simak Berita Seputar RSUD SYAMRABU Bangkalan</p>
-</div>
-</div></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7927b41 elementor-hidden-tablet elementor-hidden-phone" data-id="7927b41" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<div class="elementor-element elementor-element-5c5f752 elementor-widget elementor-widget-elementskit-blog-posts" data-id="5c5f752" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <div id="post-items--5c5f752" class="row post-items">
-
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita06.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>10</strong>Jan
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">Nur Setiawati, S.Kep., Ns., Penanggung Jawab Pengendalian dan Pencegahan Infeksi</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita10_01');?>">
-					Harus Tetap Disiplin Prokes
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita05.jpeg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>7</strong>Jan
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">Bupati Bangkalan R. Abdul Latif Amin Imron didampingi Wakil Direktur Pelayanan Medik RSUD Syamrabu dr. Farhat Suryaningrat berbincang langsung dengan seorang pasien penderita tumor</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita07_01');?>">
-					Blusukan ke Rumah Sakit, Bupati Ra Latif Jenguk Pasien Tumor
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-
-	<div class="col-lg-4 col-md-6">
-		<div class="elementskit-post-image-card">
-			<div class="elementskit-entry-header">
-				<a class="elementskit-entry-thumb">
-					<img src="wp-content/uploads/2019/08/berita04.jpg" alt="Result is a regal and trust worthy look that">
-				</a>
-				<div class="elementskit-meta-lists elementskit-style-tag">
-					<div class="elementskit-single-meta ">
-						<span class="elementskit-meta-wraper">
-							<strong>3</strong>Jan
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="elementskit-post-body ">
-				<div class="post-meta-list">
-					<span class="meta-author">
-						<i aria-hidden="true" class="icon icon-user"></i>
-						<a  class="author-name">dr. Shirley Ferlina, M.Ked., Sp.A <br>Dokter Penanggung Jawab Poli Anak RSUD Syamrabu</a>
-					</span>
-					<span class="post-cat">
-						<i aria-hidden="true" class="icon icon-folder"></i>
-						<a  rel="category tag">RSUD SYAMRABU</a> 
-					</span>
-				</div>
-				<h2 class="entry-title">
-					<a href="<?php echo site_url('berita03_01');?>">
-					Waspadai Penyakit DBD  terhadap Anak
-					</a>
-				</h2>
-			</div>
-		</div>	
-	</div>
-
-	</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-f58d0f3 equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f58d0f3" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
@@ -873,6 +719,7 @@ Janji Pelayanan</h3>
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </section>
@@ -977,6 +824,17 @@ Mengembangkan Pendidikan </h3>
 </div>
 </div> </div>
 </div>
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0cb496e" data-id="0cb496e" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-0592e1b elementor-widget__width-initial elementor-widget-tablet__width-inherit mw-100 elementor-invisible elementor-widget elementor-widget-heading" data-id="0592e1b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Maklumat Pelayanan : </h2>
+	<h3 class="elementskit-info-box-title"> Direksi beserta seluruh staff menyatakan sanggup menyelenggarakan pelayanan dengan penuh rasa tanggungjawab yang berorientasi pelayanan prima sesuai dengan standar pelayanan Publik. Dan Apabila kami tidak menepati janji ini kami siap menerima sanksi sesuai peraturan perundang-Undangan yang berlaku </h3>
+<!-- <h2 class="elementor-heading-title elementor-size">Menjadi Rumah Sakit Pilihan Utama Masyarakat di Madura dan Sekitarnya, dengan
+mengedepankan Sisi Pelayanan, pendidikan dan Penelitian</h2>  -->
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -1053,7 +911,7 @@ IGD </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-(031)-3095349 </h3>
+(031)-3095359 </h3>
 </div>
 </div>
 </a>
@@ -1077,7 +935,7 @@ IGD </h3>
 
 
 
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1fce90b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fce90b" data-element_type="section">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1fce90b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fce90b" data-element_type="section" id="unggulan">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488b2ba" data-id="488b2ba" data-element_type="column">
