@@ -197,10 +197,10 @@ img.emoji {
 <div class="elementor-widget-container">
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="#">
+<!-- <a href="(031) 6778907"> -->
 <span class="elementor-icon-list-icon">
 <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">Informasi: (031) 6778907</span>
+<span class="elementor-icon-list-text">Informasi: (031) 3091111</span>
 </a>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
@@ -209,9 +209,11 @@ img.emoji {
 <span class="elementor-icon-list-text">Senin - Sabtu (7am - 2pm)</span>
 </li>
 <li class="elementor-icon-list-item elementor-inline-item">
-<a href="#">
+<!-- <a href="#"> -->
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="far fa-envelope"></i> </span>
 <span class="elementor-icon-list-text">
-	Informasi IGD: (031)-3095349
+	Informasi IGD: (031) 3095359
 </span>
 </a>
 </li>
@@ -222,17 +224,16 @@ img.emoji {
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="elementor-icon-list-items  elementor-inline-items">
 <div class="elementor-icon-list-item   ">
-<a target=_blank rel="" href="../index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
+<a target=_blank rel="" href="index.html" class="elementor-repeater-item-f48a0b1 ekit_badge_left">
 <div class="ekit_page_list_content">
 <span class="elementor-icon-list-icon">
-<i class="icon icon-online-shopping-cart" aria-hidden="true"></i>
+<!-- <i class="icon icon-online-shopping-cart" aria-hidden="true"></i> -->
 </span>
 <span class="elementor-icon-list-text">
 <span class="ekit_page_list_title_title"> </span>
 </span>
 </div>
-<span class="ekit_menu_label">
-3 </span>
+<!-- <span class="ekit_menu_label"> 3 </span> -->
 </a>
 </div>
 </div>
@@ -242,7 +243,8 @@ img.emoji {
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-offcanvas-toggle-wraper">
 <a href="#" class="ekit_navSidebar-button ekit_offcanvas-sidebar">
-<i aria-hidden="true" class="fasicon icon-menu-7"></i> </a>
+<!-- <i aria-hidden="true" class="fasicon icon-menu-7"></i> </a> -->
+<i aria-hidden="true" class=""></i> </a>
 </div>
 
 
@@ -252,7 +254,7 @@ img.emoji {
 <div class="ekit_sidebar-widget-container">
 <div class="ekit_widget-heading">
 <a href="#" class="ekit_close-side-widget">
-<i aria-hidden="true" class="fasicon icon-cross"></i>
+<!-- <i aria-hidden="true" class="fasicon icon-cross"></i> -->
 </a>
 </div>
 <div class="ekit_sidebar-textwidget">
@@ -265,6 +267,7 @@ img.emoji {
 <div data-elementor-type="wp-post" data-elementor-id="212" class="elementor elementor-212" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-478a8ae elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="478a8ae" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
@@ -273,101 +276,26 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-cf2f730 elementor-widget elementor-widget-image" data-id="cf2f730" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<div class="elementor-image">
-<a href="index.html">
-<img src="wp-content/uploads/elementor/thumbs/logo-2-og82lchzwe2h4fi9x469v5aiuvok36tnwqkz74djh4.png" title="logo-2" alt="logo-2" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4568037 elementor-widget elementor-widget-heading" data-id="4568037" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">About Us</h2> </div>
-</div>
- <div class="elementor-element elementor-element-e2236e0 elementor-widget elementor-widget-text-editor" data-id="e2236e0" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix">
-<p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts off the system and expound.</p> </div>
-</div>
-</div>
+
+
 <div class="elementor-element elementor-element-774daf5 elementor-widget elementor-widget-elementskit-button" data-id="774daf5" data-element_type="widget" data-widget_type="elementskit-button.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"> <div class="ekit-btn-wraper">
-<a href="#" class="elementskit-btn  whitespace--normal">
-Consultation </a>
+<!-- <a href="<?php echo site_url('login');?>" class="elementskit-btn  whitespace--normal"> Admin </a> -->
 </div>
 </div> </div>
 </div>
-<div class="elementor-element elementor-element-adcb817 elementor-widget elementor-widget-heading" data-id="adcb817" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Contact Info</h2> </div>
-</div>
-<div class="elementor-element elementor-element-be2e17b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="be2e17b" data-element_type="widget" data-widget_type="icon-list.default">
-<div class="elementor-widget-container">
-<ul class="elementor-icon-list-items">
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-map-marked-alt"></i> </span>
-<span class="elementor-icon-list-text">Rock St 12, Newyork City, USA</span>
-</li>
-<li class="elementor-icon-list-item">
-<a href="tel:0000000000000">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
-<span class="elementor-icon-list-text">(000) 000-000-0000</span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<a href="https://wp.xpeedstudio.com/cdn-cgi/l/email-protection#620f07060b18010d22050f030b0e4c010d0f">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-envelope"></i> </span>
-<span class="elementor-icon-list-text"><span class="__cf_email__" data-cfemail="eda0888984978e82ad8a808c8481c38e8280">[email&#160;protected]</span></span>
-</a>
-</li>
-<li class="elementor-icon-list-item">
-<span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="far fa-clock"></i> </span>
-<span class="elementor-icon-list-text">Week Days: 09.00 to 18.00 Sunday: Closed</span>
-</li>
-</ul>
-</div>
-</div>
-<div class="elementor-element elementor-element-d834e99 elementor-widget elementor-widget-elementskit-social-media" data-id="d834e99" data-element_type="widget" data-widget_type="elementskit-social-media.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <ul class="ekit_social_media">
-<li class="elementor-repeater-item-bb0a9dd">
-<a href="https://facebook.com/" target="_blank" class="facebook">
-<i aria-hidden="true" class="fasicon icon-facebook"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-525770f">
-<a href="https://facebook.com/" target="_blank" class="twitter">
-<i aria-hidden="true" class="fasicon icon-twitter"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-3b5b739">
-<a href="https://facebook.com/" target="_blank" class="linkedin">
-<i aria-hidden="true" class="fasicon icon-linkedin"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-f3e4f69">
-<a href="https://facebook.com/" target="_blank" class="instagram1">
-<i aria-hidden="true" class="fasicon icon-instagram1"></i>
-</a>
-</li>
-<li class="elementor-repeater-item-0d29ad9">
-<a href="https://facebook.com/" target="_blank" class="youtube">
-<i aria-hidden="true" class="fasicon icon-youtube"></i>
-</a>
-</li>
-</ul>
-</div> </div>
-</div>
+
+
+
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
+
+
 </div>
 </div>
 </div>
@@ -386,6 +314,7 @@ Consultation </a>
 </div>
 </div>
 </section>
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-2e7172a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e7172a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
@@ -396,6 +325,8 @@ Consultation </a>
 <div class="elementor-widget-container">
 <div class="elementor-image">
 <a href="index.html">
+<!-- <img src="wp-content/uploads/elementor/thumbs/logo-og82mvyh801z9kcnxkd4t5ljyynyfx2a46zcxahjdk.png" title="logo" alt="logo" /> </a> -->
+<!-- logo besar -->
 <img src="wp-content/uploads/elementor/thumbs/new.png" title="logo" alt="logo" /> </a>
 </div>
 </div>
@@ -405,13 +336,16 @@ Consultation </a>
 <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"> <button class="elementskit-menu-hamburger elementskit-menu-toggler">
 <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
 </button>
-
 <!-- home -->
 <div id="ekit-megamenu-menu-style-1" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_plus_icon ekit-nav-menu-one-page-no">
 	<ul id="menu-menu-style-1" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon">
 		<li id="menu-item-2822" class="menu-item menu-item-type menu-item-object-page menu-item-1757 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 			<a href="<?php echo site_url('Profile');?>" class="ekit-menu-nav-link">Home
 			</a>
+<!-- <ul class="elementskit-dropdown elementskit-submenu-panel">
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-174 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="index.html" class=" dropdown-item active">Home Page 01</a> <li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-02/index.html" class=" dropdown-item">Home Page 02</a> <li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-page-03/index.html" class=" dropdown-item">Home Page 03</a> <li id="menu-item-4768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4768 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-4/index.html" class=" dropdown-item">Home Page 04</a> <li id="menu-item-4759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4759 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-5/index.html" class=" dropdown-item">Home Page 05</a> <li id="menu-item-4760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4760 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="home-6/index.html" class=" dropdown-item">Home Page 06</a> <li id="menu-item-4851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4851 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-one/index.html" class=" dropdown-item">Covid-19 One</a> <li id="menu-item-4852" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4852 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="covid-two/index.html" class=" dropdown-item">Covid-19 Two</a> <li id="menu-item-2638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-01/index.html" class=" dropdown-item">One Page 01</a> <li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2681 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-02/index.html" class=" dropdown-item">One Page 02</a> <li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="one-page-03/index.html" class=" dropdown-item">One Page 03</a></ul>
+</li> -->
+<!-- end home -->
 
 <!-- pelayanan -->
 <li id="menu-item-2823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2823 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -433,6 +367,7 @@ Consultation </a>
 	</li>
 <!-- end pelayanan -->
 
+
 <!-- informasi -->
 <li id="menu-item-4620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4620 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Informasi
@@ -440,18 +375,38 @@ Consultation </a>
 	</a>
 	<ul class="elementskit-dropdown elementskit-submenu-panel">
 	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-	<a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a> 
+		<!-- <a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a>  -->
 		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-			<a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a>
+			<!-- <a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a> -->
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-					<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
-				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">RS Pendidikan</a>
+				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
 		</ul>
 	</li>
 <!-- end informasi -->
+
+<!-- pendidikan -->
+<li id="menu-item-4620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4620 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
+	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Rs Pendidikan
+		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
+	</a>
+	<ul class="elementskit-dropdown elementskit-submenu-panel">
+	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+		<!-- <a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a>  -->
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+			<!-- <a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a> -->
+			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">Jejaring Satelit</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Diklat');?>" class=" dropdown-item">Diklat</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Litbang');?>" class=" dropdown-item">Litbang</a>
+		</ul>
+	</li>
+<!-- end informasi -->
+
+
 
 <!-- pengaduan -->
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -461,7 +416,7 @@ Consultation </a>
 <!-- laporan -->
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 	<!-- <a href="shop/index.html" class="ekit-menu-nav-link">Laporan</a></li> -->
-	<a href="<?php echo site_url('laporan');?>" class="ekit-menu-nav-link">Laporan</a></li>
+	<a href="<?php echo site_url('laporan');?>" class="ekit-menu-nav-link">Arsip</a></li>
 <!-- end laporan -->
 
 <!-- tentang kami -->
@@ -479,34 +434,6 @@ Consultation </a>
 			</ul>
 </li>
 <!-- end tab menu -->
-
-
-<div class="elementskit-nav-identity-panel">
-<div class="elementskit-site-title">
-<a class="elementskit-nav-logo" href="https://wp.xpeedstudio.com/medizco" target="_self" rel="">
-<img width="160" height="60" src="wp-content/uploads/2019/08/logo.png" class="attachment-full size-full" alt="" loading="lazy" />
-</a>
-</div>
-<button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
-</div>
-</div><div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div></div> </div>
-</div>
-<div class="elementor-element elementor-element-e050231 elementor-widget__width-auto header_1_search_btn ml-auto tab_ml_0 elementor-widget elementor-widget-elementskit-header-search" data-id="e050231" data-element_type="widget" data-widget_type="elementskit-header-search.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <a href="#ekit_modal-popup-e050231" class="ekit_navsearch-button ekit-modal-popup">
-<i aria-hidden="true" class="icon icon-search2"></i> </a>
-
-
-<div class="zoom-anim-dialog mfp-hide ekit_modal-searchPanel" id="ekit_modal-popup-e050231">
-<div class="ekit-search-panel">
-
-<form role="search" method="get" class="ekit-search-group" action="https://wp.xpeedstudio.com/medizco/">
-<input type="search" class="ekit_search-field" placeholder="Search..." value="" name="s" />
-<button type="submit" class="ekit_search-button">
-<i aria-hidden="true" class="icon icon-search2"></i> </button>
-</form>
-</div>
-</div>
 
 </div> </div>
 </div>

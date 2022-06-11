@@ -384,12 +384,32 @@ img.emoji {
 			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
-				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">RS Pendidikan</a>
-				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
 		</ul>
 	</li>
 <!-- end informasi -->
+
+<!-- pendidikan -->
+<li id="menu-item-4620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4620 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content" data-vertical-menu=750px>
+	<a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Rs Pendidikan
+		<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i>
+	</a>
+	<ul class="elementskit-dropdown elementskit-submenu-panel">
+	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+		<!-- <a href="<?php echo site_url('Berita');?>" class=" dropdown-item">Berita</a>  -->
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-medizco-service menu-item-3652 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+			<!-- <a href="<?php echo site_url('Kegiatan');?>" class=" dropdown-item">Kegiatan</a> -->
+			<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Pendidikan');?>" class=" dropdown-item">Jejaring Satelit</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Diklat');?>" class=" dropdown-item">Diklat</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Litbang');?>" class=" dropdown-item">Litbang</a>
+		</ul>
+	</li>
+<!-- end informasi -->
+
+
 
 <!-- pengaduan -->
 <li id="menu-item-4841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4841 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
@@ -418,32 +438,6 @@ img.emoji {
 </li>
 <!-- end tab menu -->
 
-<div class="elementskit-nav-identity-panel">
-<div class="elementskit-site-title">
-<a class="elementskit-nav-logo"  target="_self" rel="">
-<img width="160" height="60" src="wp-content/uploads/2019/08/new.png" class="attachment-full size-full" alt="" loading="lazy" />
-</a>
-</div>
-<button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
-</div>
-</div><div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div></div> </div>
-</div>
-<div class="elementor-element elementor-element-e050231 elementor-widget__width-auto header_1_search_btn ml-auto tab_ml_0 elementor-widget elementor-widget-elementskit-header-search" data-id="e050231" data-element_type="widget" data-widget_type="elementskit-header-search.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> <a href="#ekit_modal-popup-e050231" class="ekit_navsearch-button ekit-modal-popup">
-<i aria-hidden="true" class="icon icon-search2"></i> </a>
-
-
-<div class="zoom-anim-dialog mfp-hide ekit_modal-searchPanel" id="ekit_modal-popup-e050231">
-<div class="ekit-search-panel">
-
-<form role="search" method="get" class="ekit-search-group" action="https://wp.xpeedstudio.com/medizco/">
-<input type="search" class="ekit_search-field" placeholder="Search..." value="" name="s" />
-<button type="submit" class="ekit_search-button">
-<i aria-hidden="true" class="icon icon-search2"></i> </button>
-</form>
-</div>
-</div>
 
 </div> </div>
 </div>
