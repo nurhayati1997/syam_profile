@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Berita21_12 extends CI_Controller {
+class Diklat extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +20,6 @@ class Berita21_12 extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('berita21_12_v');
+		$this->load->view('Diklat_v');
 	}
 }

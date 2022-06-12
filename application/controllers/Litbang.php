@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class admin_rajal extends CI_Controller {
+class Litbang extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -18,18 +18,8 @@ class admin_rajal extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-	public function __construct()
-	{
-		parent::__construct();
-		if (!$this->session->userdata("id_user")) {
-			redirect("login");
-		}
-		$this->load->model('db_model');
-	}
-	
 	public function index()
 	{
-		// $this->load->view('dashboard_v');
-		$this->template->load('template','admin_rajal_v');
+		$this->load->view('Litbang_v');
 	}
 }
