@@ -618,33 +618,51 @@ INFORMASI PENELITIAN
 <div class="elementor-widget-container">
 <div class="medizco_doctors medizco_doctors_filter" data-rtl="">
 <ul class="filter_nav d-flex flex-wrap justify-content-center">
-<li class="filter active" data-filter=".all-departments">E-Library</li>
+<li class="filter active" data-filter=".all-departments">All</li>
+<li class="filter " data-filter=".library">E-Library</li>
 <li class="filter " data-filter=".kesehatan">Kesehatan</li>
 <li class="filter " data-filter=".umum">Umum</li>
 <li class="filter " data-filter=".bahasa">Bahasa</li>
 <li class="filter " data-filter=".sosial">Sosial</li>
-<li class="filter " data-filter=".jurnal">Jurnal</li>
+<li class="filter " data-filter=".jurnal">Jurnal Lain</li>
 </ul>
 
 <div class="filter_items row"><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/s1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </div>
 <div class="doctor_box_icon">
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Kaki Pengkor: Penanganan
+Dengan Metode Ponseti</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/Kaki Pengkor.pdf" class="doctor_box_link"></a>
+</div>
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments library">
+<div class="doctor_box">
+<div class="doctor_box_img">
+<img width="255" height="255" src="wp-content/uploads/2019/08/l1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<ul class="doctor_box_social d-flex flex-column justify-content-end">
+</ul>
+</div>
+<div class="doctor_box_icon">
+<i class="fa fa-heartbeat doctor_box_icon_item"></i>
+</div>
+<div class="doctor_box_content">
+<h3 class="doctor_box_title">UNISMA Repository</h3>
+</div>
+<a href="http://repository.unisma.ac.id/" class="doctor_box_link"></a>
 </div>
 
 </div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/s1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -652,15 +670,18 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Panduan Praktik Klinis
+BAGI DOKTER
+Edisi Revisi Tahun 2014
+DI FASILITAS PELAYANAN KESEHATAN PRIMER</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/Buku Pedoman Klinik.pdf" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments umum">
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments library">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/s1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/l1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -668,17 +689,16 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Library UNISMA</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="http://library.unisma.ac.id/eresources" class="doctor_box_link"></a>
 </div>
 
 
-
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bahasa">
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/w1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -686,15 +706,16 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">BUKU PRAKTIS
+KARDIOLOGI</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/KARDIOLOGY.pdf" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments jurnal">
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/w1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -702,15 +723,20 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Orthopaedic
+Neurology
+A Diagnostic Guide to
+Neurologic Levels </h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/Orthopaedic Neurology_ A Diagnostic Guide to Neurologic Levels ( PDFDrive ).pdf" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments sosial">
+
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/w1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -718,15 +744,16 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Netter's Concise Atlas of Orthopaedic Anatomy</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/Netter's concise atlas of orthopaedic anatomy ( PDFDrive ).pdf" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments umum">
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/p1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -734,15 +761,16 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Advanced Trauma Life Support</h3>
 </div>
-<a href="" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/ATLS.pdf" class="doctor_box_link"></a>
 </div>
 
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bahasa">
+
+</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments kesehatan">
 <div class="doctor_box">
 <div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/p1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
+<img width="255" height="255" src="wp-content/uploads/2019/08/u1.jpeg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
 <ul class="doctor_box_social d-flex flex-column justify-content-end">
 </ul>
 </div>
@@ -750,28 +778,11 @@ INFORMASI PENELITIAN
 <i class="fa fa-heartbeat doctor_box_icon_item"></i>
 </div>
 <div class="doctor_box_content">
-<h3 class="doctor_box_title">Judul</h3>
+<h3 class="doctor_box_title">Apley and Solomon’s
+Concise System of Orthopaedics and Trauma</h3>
 </div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
+<a href="wp-content/uploads/file/Apley and Solomon's Concise System of Orthopaedics and Trauma, Fourth Edition ( PDFDrive ).pdf" class="doctor_box_link"></a>
 </div>
-
-</div><div class="filter_item mix col-lg-3 col-md-6 col-sm-12 all-departments bahasa">
-<div class="doctor_box">
-<div class="doctor_box_img">
-<img width="255" height="255" src="wp-content/uploads/2019/08/p1.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-<ul class="doctor_box_social d-flex flex-column justify-content-end">
-</ul>
-</div>
-<div class="doctor_box_icon">
-<i class="fa fa-heartbeat doctor_box_icon_item"></i>
-</div>
-<div class="doctor_box_content">
-<h3 class="doctor_box_title">judul</h3>
-</div>
-<a href="wp-content/uploads/file/IKU 2021.pdf" class="doctor_box_link"></a>
-</div>
-
-
 
 
 
