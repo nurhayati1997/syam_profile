@@ -385,6 +385,8 @@ img.emoji {
 				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Indikator');?>" class=" dropdown-item">Indikator Mutu</a>
 		</ul>
 	</li>
 <!-- end informasi -->
@@ -1039,9 +1041,8 @@ TAROMAH </h3>
 </div>
 </div>
 <div class="box-body">
-<h3 class="elementskit-info-box-title">
-PPE </h3>
-<p>Pelayanan Penunjang Eksekutif merupakan layanan Laboratorium dengan jam operasional senin - minggu </p>
+<h3 class="elementskit-info-box-title" >Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
+<p>Sistem pendaftaran dengan menggunakan  aplikasi </p>
 </div>
 </div>
 </a>
@@ -1098,34 +1099,8 @@ AMPIBI </h3>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-BERSEMA </h3>
+BERSEMA & AKTE GRATIS </h3>
 <p>Bersalin Sehat Antar Rumah</p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f6ecc2" data-id="2f6ecc2" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-89601db ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="89601db" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-heartbeat"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Akta Gratis </h3>
-<p>Pengurusan Akta Gratis Untuk bayi yang melahirkan di RSUD SYAMRABU BANGKALAN </p>
 </div>
 </div>
 </a>

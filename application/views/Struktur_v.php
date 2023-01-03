@@ -383,6 +383,8 @@ img.emoji {
 				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Indikator');?>" class=" dropdown-item">Indikator Mutu</a>
 		</ul>
 	</li>
 <!-- end informasi -->

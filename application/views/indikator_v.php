@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:55 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/home-page-03/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:15:08 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
@@ -54,8 +54,8 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons8d5a.css?ver=2.4.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min05c8.css?ver=5.13.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-4824-css' href='wp-content/uploads/elementor/css/post-48242fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href=wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1746-css' href='wp-content/uploads/elementor/css/post-1746f4bf.css?ver=1637149382' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global2fad.css?ver=1637149344' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1152-css' href='wp-content/uploads/elementor/css/post-11526b11.css?ver=1637159183' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CExo%3A300%2C300i%2C400%2C700%2C700i%2C900' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/medizco/assets/css/bootstrap.minb2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
@@ -85,20 +85,20 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.minb045.js?ver=3.4.8' id='font-awesome-4-shim-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1746.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/1152.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.8.2" />
 <meta name="generator" content="WooCommerce 5.9.0" />
 <link rel="canonical" href="index.html" />
-<link rel='shortlink' href='index807c.html?p=1746' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embede886.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embede2d4?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fpricing%2F&amp;format=xml" />
+<link rel='shortlink' href='index59b0.html?p=1152' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed5d60.json?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fhome-page-03%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed38b7?url=https%3A%2F%2Fwp.xpeedstudio.com%2Fmedizco%2Fhome-page-03%2F&amp;format=xml" />
 <noscript><style type="text/css">.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:table!important}.mptt-shortcode-wrapper .mptt-shortcode-table .mptt-event-container:hover{height:auto!important;min-height:100%!important}body.mprm_ie_browser .mptt-shortcode-wrapper .mptt-event-container{height:auto!important}@media (max-width:767px){.mptt-shortcode-wrapper .mptt-shortcode-table:first-of-type{display:none!important}}</style></noscript> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <meta name="generator" content="Powered by Slider Revolution 6.5.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2019/08/sicon.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/2019/08/favicon.png" />
@@ -152,7 +152,7 @@ img.emoji {
 				}					   
 			//});
 		  };</script>
- <style type="text/css" id="wp-custom-css">
+<style type="text/css" id="wp-custom-css">
 			
 .xs_overflow {
 	overflow: hidden !important;
@@ -182,10 +182,8 @@ img.emoji {
     color: #f13a66 !important;
 }		</style>
 </head>
-
-<body class="page-template page-template-template page-template-template-page page-template-templatetemplate-page-php page page-id-1746 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-1746">
-<div class="medizco-preloder">
-	<img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+<body class="page-template page-template-template page-template-template-home page-template-templatetemplate-home-php page page-id-1152 theme-medizco woocommerce-no-js sidebar-active elementor-default elementor-kit-4824 elementor-page elementor-page-1152">
+<div class="medizco-preloder"><img src="wp-content/themes/medizco/assets/images/preloader/puff.svg" width="50" alt="preloader"></div><div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
 <div data-elementor-type="wp-post" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
@@ -197,6 +195,7 @@ img.emoji {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-8723ae7 elementor-icon-list--layout-inline elementor-align-left mr-auto elementor-widget__width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8723ae7" data-element_type="widget" data-widget_type="icon-list.default">
 <div class="elementor-widget-container">
+
 <ul class="elementor-icon-list-items elementor-inline-items">
 <li class="elementor-icon-list-item elementor-inline-item">
 <!-- <a href="(031) 6778907"> -->
@@ -384,6 +383,8 @@ img.emoji {
 				<a href="<?php echo site_url('Dokter');?>" class=" dropdown-item">Dokter</a>
 				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
 				<a href="<?php echo site_url('Ppi');?>" class=" dropdown-item">PPI</a>
+				<li id="menu-item-4611" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4611 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px>
+				<a href="<?php echo site_url('Indikator');?>" class=" dropdown-item">Indikator Mutu</a>
 		</ul>
 	</li>
 <!-- end informasi -->
@@ -450,61 +451,117 @@ img.emoji {
 </div>
 </div>
 </div>
-<!-- under banner -->
+
+<!-- banner -->
 <div class="page_banner">
 <div class="page_banner_img">
-<img src="wp-content/themes/medizco/assets/images/banner/page-banner-img.jpg" width="1920" height="400" class="w-100" alt="Clinical Thermometer"> </div>
-<div class="page_banner_content  overlay" style="background-image: url(wp-content/themes/medizco/assets/images/banner/page-banner-bg.png);">
+<img src="wp-content/uploads/2019/09/doctors-page-header-img.jpg" alt="Dokter">
+</div>
+<div class="page_banner_content  overlay" style="background-image: url(wp-content/uploads/2019/09/about-breadcrumb-bg.png);; --banner-overlay-color: rgba(28, 186, 159, 0.68); --banner-breadcumb-color: rgba(28, 186, 159, 1)">
 <div class="container d-lg-flex justify-content-between">
 <h1 class="page_banner_title">
-     Pelayanan
-<span> </span> </h1>
-<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center"><li class="curves left"></li><li class="curves right"></li>
-	<li><a>Layanan</a></li> 
-	<li class="seperator">- Unggulan</li>
-</ul> 
-</div>
+LAPORAN INDIKATOR MUTU PRIORITAS RUMAH SAKIT </h1>
+<ul class="medizco_breadcrumblist d-inline-flex flex-wrap flex-lg-nowrap align-items-center">
+    <li class="curves left"></li>
+    <li class="curves right"></li>
+    <li><a href="https://wp.xpeedstudio.com/medizco">RSUD </a></li> 
+    <li class="seperator">-</li><li>SYAMRABU</li></ul> </div>
 </div>
 </div>
 
 
-<div id="post-1746" class="page-contents post-1746 page type-page status-publish hentry" role="main">
+
+<div id="post-1152" class="home-page-contents post-1152 page type-page status-publish hentry" role="main">
 <div class="builder-content">
-<div data-elementor-type="wp-post" data-elementor-id="1746" class="elementor elementor-1746" data-elementor-settings="[]">
+<div data-elementor-type="wp-post" data-elementor-id="1152" class="elementor elementor-1152" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1fce90b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fce90b" data-element_type="section" id="unggulan">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-8d07b36 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8d07b36" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-488b2ba" data-id="488b2ba" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38a1318" data-id="38a1318" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-9a6f750 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a6f750" data-element_type="section">
+<div class="elementor-element elementor-element-129ea54 elementor-widget elementor-widget-slider_revolution" data-id="129ea54" data-element_type="widget" data-widget_type="slider_revolution.default">
+<div class="elementor-widget-container">
+<div class="wp-block-themepunch-revslider">
+<p class="rs-p-wp-fix"></p>
+<rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;max-width:0;">
+<rs-module id="rev_slider_2_1" style="" data-version="6.5.8">
+<rs-slides>
+<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-1-bg-100x50.jpg" data-in="y:(-100%);col:5;">
+<img loading="lazy" src="../wp-content/plugins/revslider/public/assets/assets/dummy.png" title="banner-3-slide-1-bg" width="1600" height="700" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-1-bg.jpg" data-no-retina>
+<rs-layer id="slider-2-slide-2-layer-4" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-178px,-178px,161px,61px;" data-text="w:normal,normal,nowrap,nowrap;s:22;l:32;fw:700;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:12;font-family:'Exo';">Skin Treatment
+</rs-layer><p id="slider-2-slide-2-layer-9" class="rs-layer" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:365px,365px,381px,267px;" data-text="w:normal;s:18,18,18,16;l:26,26,26,22;fw:500;a:inherit;" data-dim="w:50%,50%,50%,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;e:power4.out;st:1720;sp:1600;sR:1720;" data-frame_999="o:0;tp:600;st:w;sR:5680;" style="z-index:8;font-family:'Roboto';">Small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+</p><rs-layer id="slider-2-slide-2-layer-10" class="banner-btn rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="xo:50px,50px,10px,10px;yo:479px,479px,521px,370px;" data-text="w:normal,normal,normal,nowrap;s:18;l:24,24,24,26;fw:600,600,600,700;a:inherit;" data-rsp_bd="off" data-padding="t:16,16,16,10;r:35,35,35,30;b:16,16,16,10;l:35,35,35,30;" data-border="bos:solid;boc:#223a66;bow:2px,2px,2px,2px;bor:30px,30px,30px,30px;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;st:2200;sp:1160;sR:2200;" data-frame_999="o:0;tp:600;st:w;sR:5640;" data-frame_hover="c:#223a66;bgc:#fff;boc:#fff;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:250ms;e:power3.out;" style="z-index:9;background-color:#223a66;font-family:'Exo';cursor:pointer;"><i class="fa-phone"></i> Call 212-600-4274
+</rs-layer><rs-layer id="slider-2-slide-2-layer-12" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:265px,265px,281px,181px;" data-text="w:normal;s:70,70,70,50;l:74,74,74,54;fw:700;a:inherit,inherit,center,left;" data-dim="w:50%,50%,auto,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:5420;" style="z-index:10;font-family:'Exo';">Live beautiful
+</rs-layer><rs-layer id="slider-2-slide-2-layer-20" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-120px,-120px,219px,119px;" data-text="w:normal,normal,nowrap,nowrap;s:48,48,48,38;l:54,54,54,48;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:11;font-family:'Exo';">Inside and out
+</rs-layer> </rs-slide>
+<rs-slide style="position: absolute;" data-key="rs-18" data-title="Slide" data-thumb="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-2-bg-100x50.jpg" data-in="y:(-100%);col:5;">
+<img loading="lazy" src="../wp-content/plugins/revslider/public/assets/assets/dummy.png" title="banner-3-slide-2-bg" width="1600" height="700" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-2-bg.jpg" data-no-retina>
+<rs-layer id="slider-2-slide-18-layer-4" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-178px,-178px,161px,61px;" data-text="w:normal,normal,nowrap,nowrap;s:22;l:32;fw:700;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:12;font-family:'Exo';">Skin Treatment
+</rs-layer><p id="slider-2-slide-18-layer-9" class="rs-layer" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:365px,365px,381px,267px;" data-text="w:normal;s:18,18,18,16;l:26,26,26,22;fw:500;a:inherit;" data-dim="w:50%,50%,50%,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;e:power4.out;st:1720;sp:1600;sR:1720;" data-frame_999="o:0;tp:600;st:w;sR:5680;" style="z-index:8;font-family:'Roboto';">Small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+</p><rs-layer id="slider-2-slide-18-layer-10" class="banner-btn rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="xo:50px,50px,10px,10px;yo:479px,479px,521px,370px;" data-text="w:normal,normal,normal,nowrap;s:18;l:24,24,24,26;fw:600,600,600,700;a:inherit;" data-rsp_bd="off" data-padding="t:16,16,16,10;r:35,35,35,30;b:16,16,16,10;l:35,35,35,30;" data-border="bos:solid;boc:#223a66;bow:2px,2px,2px,2px;bor:30px,30px,30px,30px;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;st:2200;sp:1160;sR:2200;" data-frame_999="o:0;tp:600;st:w;sR:5640;" data-frame_hover="c:#223a66;bgc:#fff;boc:#fff;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:250ms;e:power3.out;" style="z-index:9;background-color:#223a66;font-family:'Exo';cursor:pointer;"><i class="fa-phone"></i> Call 212-600-4274
+</rs-layer><rs-layer id="slider-2-slide-18-layer-12" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:265px,265px,281px,181px;" data-text="w:normal;s:70,70,70,50;l:74,74,74,54;fw:700;a:inherit,inherit,center,left;" data-dim="w:50%,50%,auto,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:5420;" style="z-index:10;font-family:'Exo';">Live beautiful
+</rs-layer><rs-layer id="slider-2-slide-18-layer-20" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-120px,-120px,219px,119px;" data-text="w:normal,normal,nowrap,nowrap;s:48,48,48,38;l:54,54,54,48;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:11;font-family:'Exo';">Inside and out
+</rs-layer> </rs-slide>
+<rs-slide style="position: absolute;" data-key="rs-19" data-title="Slide" data-thumb="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-3-bg-100x50.jpg" data-in="y:(-100%);col:5;">
+<img loading="lazy" src="../wp-content/plugins/revslider/public/assets/assets/dummy.png" title="banner-3-slide-3-bg" width="1600" height="700" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//wp.xpeedstudio.com/medizco/wp-content/uploads/2019/09/banner-3-slide-3-bg.jpg" data-no-retina>
+<rs-layer id="slider-2-slide-19-layer-4" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-178px,-178px,161px,61px;" data-text="w:normal,normal,nowrap,nowrap;s:22;l:32;fw:700;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:12;font-family:'Exo';">Skin Treatment
+</rs-layer><p id="slider-2-slide-19-layer-9" class="rs-layer" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:365px,365px,381px,267px;" data-text="w:normal;s:18,18,18,16;l:26,26,26,22;fw:500;a:inherit;" data-dim="w:50%,50%,50%,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;e:power4.out;st:1720;sp:1600;sR:1720;" data-frame_999="o:0;tp:600;st:w;sR:5680;" style="z-index:8;font-family:'Roboto';">Small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+</p><rs-layer id="slider-2-slide-19-layer-10" class="banner-btn rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="xo:50px,50px,10px,10px;yo:479px,479px,521px,370px;" data-text="w:normal,normal,normal,nowrap;s:18;l:24,24,24,26;fw:600,600,600,700;a:inherit;" data-rsp_bd="off" data-padding="t:16,16,16,10;r:35,35,35,30;b:16,16,16,10;l:35,35,35,30;" data-border="bos:solid;boc:#223a66;bow:2px,2px,2px,2px;bor:30px,30px,30px,30px;" data-frame_0="x:left;o:1;tp:600;" data-frame_1="tp:600;st:2200;sp:1160;sR:2200;" data-frame_999="o:0;tp:600;st:w;sR:5640;" data-frame_hover="c:#223a66;bgc:#fff;boc:#fff;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:250ms;e:power3.out;" style="z-index:9;background-color:#223a66;font-family:'Exo';cursor:pointer;"><i class="fa-phone"></i> Call 212-600-4274
+</rs-layer><rs-layer id="slider-2-slide-19-layer-12" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;yo:265px,265px,281px,181px;" data-text="w:normal;s:70,70,70,50;l:74,74,74,54;fw:700;a:inherit,inherit,center,left;" data-dim="w:50%,50%,auto,100%;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:5420;" style="z-index:10;font-family:'Exo';">Live beautiful
+</rs-layer><rs-layer id="slider-2-slide-19-layer-20" data-type="text" data-rsp_ch="on" data-xy="xo:50px,50px,0,0;y:m,m,t,t;yo:-120px,-120px,219px,119px;" data-text="w:normal,normal,nowrap,nowrap;s:48,48,48,38;l:54,54,54,48;a:inherit;" data-padding="r:0,0,10,10;l:0,0,10,10;" data-frame_0="o:1;tp:600;" data-frame_0_chars="d:5;x:50px;o:0;" data-frame_1="tp:600;e:power4.inOut;sp:1970;sR:10;" data-frame_1_chars="d:5;" data-frame_999="o:0;tp:600;st:w;sR:6570;" style="z-index:11;font-family:'Exo';">Inside and out
+</rs-layer> </rs-slide>
+</rs-slides>
+</rs-module>
+<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_2_1',rl:[1240,1240,778,480],el:[700,700,700,500],gw:[1240,1240,778,480],gh:[700,700,700,500],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider21"]!==undefined) {window.RS_MODULES.modules["revslider21"].once = false;window.revapi2 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+</rs-module-wrap>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e7d2323" data-id="e7d2323" data-element_type="column">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
 <div class="elementor-column-wrap">
 <div class="elementor-widget-wrap">
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6ae0322" data-id="6ae0322" data-element_type="column">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
- <div class="elementor-element elementor-element-ee43f2c elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="ee43f2c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
+<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
-Pelayanan Unggulan
+Ketepatan Pemberian Aspirin dalam 24 Jam Pertama pada Pasien IMA
 </h2> <div class='ekit-heading__description'>
-<p>Inovasi Pelayanan RSUD SYAMRABU Bangkalan dalam upaya meningkatkan mutu pelayanan sehingga dapat mewujudkan VISI MISI RSUD SYAMRABU BANGKALAN</p>
+<p>RSUD Syarifah Ambami Rato Ebu Bangkalan</p>
 </div>
 </div></div> </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7d09e3f elementor-hidden-tablet elementor-hidden-phone" data-id="7d09e3f" data-element_type="column">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
 <div class="elementor-column-wrap">
 <div class="elementor-widget-wrap">
 </div>
@@ -514,119 +571,29 @@ Pelayanan Unggulan
 </div>
 </section>
 
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-a7d5b2d equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7d5b2d" data-element_type="section">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0af4f21" data-id="0af4f21" data-element_type="column">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-03a07f1 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="03a07f1" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
 <div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<img width="255" height="255" src="wp-content/uploads/2019/08/homcare.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-
-<div class="elementskit-box-header elementor-animation-">
-
-<!-- <div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-briefcase1"></i>
+<div class="ekit-wid-con">
+<div class="profile-card elementor-animation- text-center ekit-team-style-default">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/ketepatan.png" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
+<div class="profile-icon">
+<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
+<h2 class="profile-title">
+Grace Amelia </h2>
+<p class="profile-designation">Therapist</p>
 </div> -->
 
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-HOME CARE </h3>
-<p>"Padha Beres" merupakan Layanan Kesehatan di Rumah Anda Bersifat : Promotif, Kuratif dan Rehabilitatif
-<br>
-CP: 031-3095088, 3091111, 3097761
-</p>
-Alur Pelayanan : 
-<br>1.	Keluarga pasien/ Klien pesan langsung melalui call Center Atau CP
-<br>2.	Keluarga pasien/ Klien mengisi formulir pendaftaran dan Inform Consent
-<br>3.	Petugas datang ke rumah melakukan anamnese
-<br>4.	Petugas konsul ke DPJP
-<br>5.	Petugas melakukan pengobatan/ Perawatan/ Tindak lanjut
 
-<p>
-</p>
 </div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-97fb2de" data-id="97fb2de" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-4f15f8b ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="4f15f8b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<img width="255" height="255" src="wp-content/uploads/2019/08/ampibi.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-<div class="elementskit-box-header elementor-animation-">
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-AMPIBI </h3>
-<p>Ambulan Peduli Tereran Dhibi' merupakan upaya RSUD SYAMRABU untuk dekat dengan masyarakat dalam akses rawat inap <br>CP : 081 8383 1119 / 0812 5252 7776
- </p>
- <br>
-<p>Alur Pelayanan : 
-<br>1.	Pasien/Keluarga pasien menghubungi call center : 3091111 / 081 83 83 119 / 0812 52 52 77 76
-<br>2.	Penelopon menyebutkan identitas : 
-<br>a.	Nama 
-<br>b.	Alamat rumah / alamat kejadian
-<br>c.	No telp / hp yang bisa dihubungi
-<br>3.	Penelepon memberikan informasi kondisi ; jika memungkinkan menyebutkan riwayat dan keluhan
-<br>4.	Dalam kondisi yang memungkinkan ; penelpon diminta untuk menyiapkan barang-barang kebutuhan selama rawat inap, seperti : baju, perlengkapan mandi dll
-
- </p>
-</div>
-</div>
-</a>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c4eb72d" data-id="c4eb72d" data-element_type="column">
-<div class="elementor-column-wrap elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-71f4723 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="71f4723" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<img width="255" height="255" src="wp-content/uploads/2019/08/taromah.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-<div class="elementskit-box-header elementor-animation-">
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-TAROMAH </h3>
-<p>Layanan Penunjang antar obat sampai Rumah <br>CP: 0823-3179-0353 </p>
-<br>
-<p>Alur Pelayanan: 
-<br>1.	Pasien datang ke depo Obat rawat jalan dan menyerahkan resep ke bagian penerimaan resep
-<br>2.	Petugas apotek menawarkan layanan pengantaran obat "Taromah" untuk wilayah yang sudah ditentukan
-<br>3.	a.   Untuk pasien yang menghendaki obat di antar:
-<br>1.	Pasien mendapatkan informasi obat dari petugas farmasi
-<br>2.	Pasien mengisi data yang harus dilengkapi
-<br>3.	Pasien dapat meninggalkan Rumah sakit dan obat akan diantar ke rumah oleh petugas
-<br>b. Untuk pasien yang tidak menghendaki obat diantar, maka pasien harus menunggu obat di depo rawat jalan
- 
-</p>
-</div>
-</div>
-</a>
 </div> </div>
 </div>
 </div>
@@ -636,88 +603,359 @@ TAROMAH </h3>
 </div>
 </div>
 </section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
 
-<section class="elementor-section elementor-inner-section elementor-element elementor-element-a7d5b2d equal-info-boxes elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7d5b2d" data-element_type="section">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Kelengkapan Informed Consent Pemberian Trombolitik Pada Pasien Jantung Telah Mendapatkan Informasi yang Jelas
+</h2> <div class='ekit-heading__description'>
+<p>RSUD Syarifah Ambami Rato Ebu Bangkalan</p>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0af4f21" data-id="0af4f21" data-element_type="column">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-03a07f1 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="03a07f1" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
 <div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
-
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<img width="255" height="255" src="wp-content/uploads/2019/08/bersema.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-
-<div class="elementskit-box-header elementor-animation-">
-
-<!-- <div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-briefcase1"></i>
+<div class="ekit-wid-con">
+<div class="profile-card elementor-animation- text-center ekit-team-style-default">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/kelengkapan.png" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
+<div class="profile-icon">
+<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
+<h2 class="profile-title">
+Grace Amelia </h2>
+<p class="profile-designation">Therapist</p>
 </div> -->
 
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-BERSEMA & AKTE GRATIS </h3>
-<p>"Bersalin Sehat Antar Sampai Rumah" merupakan LPelayanan penuh yang diberikan kepada ibu yang melahirkan di RSUD Syamrabu Bangkalan baik itu  pasien Jampersal/ Biakes maupun  pasien Umum
-<br>
-CP: Emi N		0813-3058-9372,Dewi 		0831-1025-1774, Anis S		0823-0103-8181
 
-</p>
-Alur Pelayanan
-<br>1.	Pasien bersema yang sudah diijinkan pulang oleh DPJP (Dokter Penanggung Jawab Pelayanan) akan langsung diproses kelengkapan administrasinya. Khusus pasien umum dianjurkan untuk melakukan pembayaran 
-<br>2.	Petugas ruangan menghubungi tim medsos terkait rencana perpulangan pasien bersema
-<br>3.	Tim Medsos mempersiapkan driver dan mobil untuk pengantaran pasien
-<br>4.	Setelah mobil dan driver siap, petugas ruangan mengantar pasien ke mobil bersema
-<br>5.	Tim medsos mengantar perpulangan pasien sampai ke rumah 
-<br>6.	Tim medsos mencatat perpulangan pasien pada buku register pasien bersema
-
-
-<p>
-</p>
 </div>
-</div>
-</a>
 </div> </div>
 </div>
 </div>
 </div>
 </div>
 
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a34ebd9" data-id="a34ebd9" data-element_type="column">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
 <div class="elementor-column-wrap elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-08acc62 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="08acc62" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
 <div class="elementor-widget-container">
-<div class="ekit-wid-con"> 
-<a href="#" target="_self" rel="" class="ekit_global_links">
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Ketersediaan obat jantung untuk pasien Provider BPJS Sesuai Formularium Nasional di rawat inap
+</h2> <div class='ekit-heading__description'>
+<p>RSUD Syarifah Ambami Rato Ebu Bangkalan</p>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-<div class="elementskit-infobox text-center text- icon-top-align elementor-animation-  gradient-active  hover_from_left">
-<img width="255" height="255" src="wp-content/uploads/2019/08/online.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" /> 
-<div class="elementskit-box-header elementor-animation-">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="profile-card elementor-animation- text-center ekit-team-style-default">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/ketersediaan.png" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
+<div class="profile-icon">
+<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
+<h2 class="profile-title">
+Grace Amelia </h2>
+<p class="profile-designation">Therapist</p>
+</div> -->
+
 
 </div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
-<p>Sistem pendaftaran dengan menggunakan  aplikasi <br>CP: 031-3095088, 3091111, 3097761</p>
-<br>
-<p>Alur Pelayanan : 
-<br>1.	Instal aplikasi Yukngantri Syamrabu dari google playstore di smartphone 
-<br>2.	Setelah terinstal buka aplikasi kemudian login dengan akun google anda 
-<br>3.	Selanjutnya anda akan masuk menu pendaftaran online RSUD Syamrabu untuk mengambil antrian 
-<br>4.	Isi data diri anda sesuai dengan kolom yang ada diperintah , lalu tekan oke 
-<br>5.	Setelah semua data diri diisi anda akan mendapatkan nonor antrian 
-<br>6.	Pendaftaran dilakukan sejak H-1 sampai batas kuota.( jam 10.00 hari pelayanan ) 
-<br>7.	Pasien menuju loket khusus antrian online untuk melakukan verifikasi nomor antrian dan melakukan pendaftaran.
-</p>
+</div> </div>
 </div>
 </div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Pelaksanaan Pengisian Assesmen Ulang Resiko Jatuh Pasien Penyakit Jantung
+</h2> <div class='ekit-heading__description'>
+<p>RSUD Syarifah Ambami Rato Ebu Bangkalan</p>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="profile-card elementor-animation- text-center ekit-team-style-default">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/pelaksanaan.png" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
+<div class="profile-icon">
+<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
+<h2 class="profile-title">
+Grace Amelia </h2>
+<p class="profile-designation">Therapist</p>
+</div> -->
+
+
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7af8" data-id="7af8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0ac987b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac987b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-58a192c" data-id="58a192c" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5717fe0" data-id="5717fe0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c834f98 elementor-invisible elementor-widget elementor-widget-elementskit-heading" data-id="c834f98" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="elementskit-heading.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+Ketepatan Waktu Lapor Nilai Kritis Pemeriksaan Troponin I Pada Pasien Jantung
+</h2> <div class='ekit-heading__description'>
+<p>RSUD Syarifah Ambami Rato Ebu Bangkalan</p>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b3228e5 elementor-hidden-tablet elementor-hidden-phone" data-id="b3228e5" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b27c0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b27c0e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bb807fa elementor-invisible" data-id="bb807fa" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1e2ef9a medizco_team_box_2 elementor-widget elementor-widget-elementskit-team" data-id="1e2ef9a" data-element_type="widget" data-widget_type="elementskit-team.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con">
+<div class="profile-card elementor-animation- text-center ekit-team-style-default">
+<div class="profile-header">
+<img loading="lazy" width="270" height="270" src="wp-content/uploads/2019/09/lapor.png" class="attachment-medium size-medium" alt="" /> </div>
+<!-- <div class="profile-body">
+<div class="profile-icon">
+<i aria-hidden="true" class="fasicon icon-doctor"></i> </div>
+<h2 class="profile-title">
+Grace Amelia </h2>
+<p class="profile-designation">Therapist</p>
+</div> -->
+
+
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4e58608 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="4e58608" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f96f6d5" data-id="f96f6d5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-0868337 mx-auto mw-100 elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-heading" data-id="0868337" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Kesehatan Anda Adalah Komitmen Kami</h2> </div>
+</div>
+<div class="elementor-element elementor-element-cad8247 medizco_video_btn elementor-invisible elementor-widget elementor-widget-elementskit-video" data-id="cad8247" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="elementskit-video.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con"> <div class="video-content">
+<a href="https://www.youtube.com/watch?v=692dhrQoC68?autoplay=1&amp;playlist=692dhrQoC68&amp;loop=no&amp;controls=0&amp;mute=no&amp;start=&amp;end=&amp;version=3" class="ekit-video-popup ekit-video-popup-btn  glow-btn">
+<i aria-hidden="true" class="fas fa-play"></i> <span>Play Video</span>
 </a>
+</div>
 </div> </div>
 </div>
 </div>
@@ -727,29 +965,10 @@ Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
 </div>
 </section>
 
-
-
 </div>
 </div>
 </div>
-</div>
-</div>
-</section>
-
-
-
-
-
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
-</div>
+ </div>
 </div>
 <div class="footer_copyright">
 <div class="container">
@@ -757,7 +976,7 @@ Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
 &copy; 2021, Creat By. IT RSUD SYAMRABU </div>
 </div>
 </div>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 			window.RS_MODULES = window.RS_MODULES || {};
 			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
 			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
@@ -765,6 +984,7 @@ Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
+<link href="https://fonts.googleapis.com/css?family=Exo:700%2C600%2C400%7CRoboto:500%2C400&amp;display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css">
 <script type="text/javascript">
 		(function () {
 			var c = document.body.className;
@@ -772,15 +992,21 @@ Pendaftaran Online "Yuk Ngantri syamrabu" </h3>
 			document.body.className = c;
 		})();
 	</script>
+<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0" media="all" />
+<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
 <link rel='stylesheet' id='elementor-post-212-css' href='wp-content/uploads/elementor/css/post-2122fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-2817-css' href='wp-content/uploads/elementor/css/post-28172fad.css?ver=1637149344' type='text/css' media='all' />
 <link rel='stylesheet' id='medizco-widget-styles-pro-css' href='wp-content/themes/medizco/assets/css/widget-styles-prob2d8.css?ver=2.8' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.minb045.css?ver=3.4.8' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/rs6069c.css?ver=6.5.8' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
+		.banner_caption_text > .rs_splitted_lines,.banner_caption_text > .rs_splitted_lines > .rs_splitted_words,.banner_caption_text > .rs_splitted_lines > .rs_splitted_words > .rs_splitted_chars{text-decoration:inherit}.banner-btn > i[class^="fa-"]{margin-left:5px;  font-size:20px;  vertical-align:-2px}@media (min-width:778px) and (max-width:1200px){.banner_img img{float:right;  max-width:480px !important}}@media (max-width:777px){.banner_img img{display:block;  width:50% !important;  margin-left:auto;  margin-right:auto}}.tparrows.uranus:hover:before{color:#558dca}.tparrows.uranus.tp-rightarrow{border-top:1px solid #fff}@media (max-width:777px){.tparrows.uranus{display:none}}
+		#rev_slider_2_1_wrapper .uranus.tparrows{width:40px; height:60px; background:rgba(255,255,255,0)}#rev_slider_2_1_wrapper .uranus.tparrows:before{width:40px; height:60px; line-height:60px; font-size:24px; transition:all 0.3s;-webkit-transition:all 0.3s}#rev_slider_2_1_wrapper .uranus.tparrows.rs-touchhover:before{opacity:0.75}
 </style>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rbtools.min069c.js?ver=6.5.8' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src=wp-content/plugins/revslider/public/assets/js/rbtools.min069c.js?ver=6.5.8' defer async id='tp-tools-js'></script>
 <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/rs6.min069c.js?ver=6.5.8' defer async id='revmin-js'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min272a.js?ver=2.7.0-wc.5.9.0' id='jquery-blockui-js'></script>
 <script type='text/javascript' id='wc-add-to-cart-js-extra'>
@@ -816,15 +1042,15 @@ var wc_cart_fragments_params = {"ajax_url":"\/medizco\/wp-admin\/admin-ajax.php"
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/slick.minb2d8.js?ver=2.8' id='slick-js'></script>
 <script type='text/javascript' src='wp-content/themes/medizco/assets/js/scriptb2d8.js?ver=2.8' id='medizco-script-js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min080f.js?ver=5.8.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/webpack.runtime.minb045.js?ver=3.4.8' id='elementor-webpack-runtime-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend-modules.minb045.js?ver=3.4.8' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='wp/content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6' id='swiper-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/share-link/share-link.minb045.js?ver=3.4.8' id='share-link-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1746,"title":"Pricing%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.8","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/wp.xpeedstudio.com\/medizco\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1152,"title":"Home%20Page%2003%20%E2%80%93%20Medizco","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='wp-content/plugins/elementor/assets/js/frontend.minb045.js?ver=3.4.8' id='elementor-frontend-js'></script>
 <script type='text/javascript' src='wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle8d5a.js?ver=2.4.0' id='animate-circle-js'></script>
@@ -842,7 +1068,66 @@ var MPTT = {"table_class":"mptt-shortcode-table"};
 </script>
 <script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/events/event.minfc3c.js?ver=2.4.4' id='mptt-event-object-js'></script>
 <script type='text/javascript' src='wp-content/plugins/mp-timetable/media/js/mptt-elementor-editor.minfc3c.js?ver=2.4.4' id='mptt-editor-panel-js-js'></script>
+<script type="text/javascript" id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi2;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider21"] = {once: RS_MODULES.modules["revslider21"]!==undefined ? RS_MODULES.modules["revslider21"].once : undefined, init:function() {
+			window.revapi2 = window.revapi2===undefined || window.revapi2===null || window.revapi2.length===0  ? document.getElementById("rev_slider_2_1") : window.revapi2;
+			if(window.revapi2 === null || window.revapi2 === undefined || window.revapi2.length==0) { window.revapi2initTry = window.revapi2initTry ===undefined ? 0 : window.revapi2initTry+1; if (window.revapi2initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider21"].init()}); return;}
+			window.revapi2 = jQuery(window.revapi2);
+			if(window.revapi2.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_2_1"); return;}
+			revapi2.revolutionInit({
+					revapi:"revapi2",
+					visibilityLevels:"1240,1240,778,480",
+					gridwidth:"1240,1240,778,480",
+					gridheight:"700,700,700,500",
+					lazyType:"smart",
+					spinner:"spinner0",
+					perspectiveType:"local",
+					editorheight:"700,768,700,500",
+					responsiveLevels:"1240,1240,778,480",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						mouseScrollNavigation:false,
+						onHoverStop:false,
+						touch: {
+							touchenabled:true,
+							touchOnDesktop:true
+						},
+						arrows: {
+							enable:true,
+							style:"uranus",
+							left: {
+								h_offset:0,
+								v_offset:-31
+							},
+							right: {
+								h_align:"left",
+								h_offset:0,
+								v_offset:30
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
 </body>
 
-<!-- Mirrored from wp.xpeedstudio.com/medizco/pricing/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:22:57 GMT -->
+<!-- Mirrored from wp.xpeedstudio.com/medizco/home-page-03/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 22 Nov 2021 05:15:24 GMT -->
 </html>
