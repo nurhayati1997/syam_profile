@@ -1,7 +1,8 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Igd extends CI_Controller {
+class Igd extends CI_Controller
+{
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +21,7 @@ class Igd extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Igd_v');
+		//$this->load->view('Igd_v');
+		$this->template->load('template', 'Igd_v');
 	}
 }

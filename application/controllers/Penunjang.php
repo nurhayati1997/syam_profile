@@ -1,7 +1,8 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Penunjang extends CI_Controller {
+class Penunjang extends CI_Controller
+{
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +21,7 @@ class Penunjang extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Penunjang_v');
+		//$this->load->view('Penunjang_v');
+		$this->template->load('template', 'Penunjang_v');
 	}
 }

@@ -1,7 +1,8 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Litbang extends CI_Controller {
+class Litbang extends CI_Controller
+{
 
 	/**
 	 * Index Page for this controller.
@@ -20,6 +21,7 @@ class Litbang extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Litbang_v');
+		//$this->load->view('Litbang_v');
+		$this->template->load('template', 'Litbang_v');
 	}
 }
