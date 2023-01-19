@@ -709,6 +709,7 @@
                                                                     <!-- <a href="shop/index.html" class="ekit-menu-nav-link">Laporan</a></li> -->
                                                                     <a href="<?php echo site_url('Kuis'); ?>" class="ekit-menu-nav-link">Kuis</a>
                                                                 </li>
+                                                                <a href="<?= base_url("login/logout") ?>" class="btn btn-sm btn-light-primary font-weight-bolder py-2 px-5">Log Out</a>
 
                                                                 <!-- end tab menu -->
 

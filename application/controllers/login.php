@@ -28,7 +28,7 @@ class login extends CI_Controller
 	public function index()
 	{
 		if ($this->session->userdata("id")) {
-			redirect("kuis");
+			redirect("soal");
 		}
 
 		$this->form_validation->set_rules('email', 'Email', 'required|trim|valid_email', [
@@ -61,7 +61,7 @@ class login extends CI_Controller
 				];
 				$this->session->set_userdata($data);
 
-				redirect('dashboard');
+				redirect('Soal');
 			} else {
 				//$data['fotoCaptcha'] = $this->buatCaptcha();
 				$data["error"] = ["pass", "Password tidak cocok."];
